@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/king-douglas-fir-trees.atom"/>
+  <title>King of Christmas</title>
+  <updated>2026-08-13T19:05:55-04:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8336686481608</id>
+    <published>2026-08-13T19:05:55-04:00</published>
+    <updated>2026-08-13T19:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/openbox-9-king-douglas-fir-slim-led"/>
+    <title>9&apos; King Douglas Fir Slim Tree with Warm White &amp; Multi-Color LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8336686481608</id>
+      <title></title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>OPEN-KDFS-T9-L</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8336686022856</id>
+    <published>2026-08-13T18:54:26-04:00</published>
+    <updated>2026-08-13T18:54:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/openbox-9-king-douglas-fir-slim"/>
+    <title>9&apos; King Douglas Fir Slim Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-9.jpg?v=1718158796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8336686022856</id>
+      <title></title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku>OPEN-KDFS-T9-U</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325452366024</id>
+    <published>2026-07-01T12:36:12-04:00</published>
+    <updated>2026-07-01T12:36:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-king-douglas-fir-tree-led"/>
+    <title>7.5&apos; King Douglas Fir Artificial Christmas Tree with 1000 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_KingDouglasFirArtificialChristmasTreeLED.png?v=1782849524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325452366024</id>
+      <title>7.5&apos; / Full / LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KDF-T7.5-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325453283528</id>
+    <published>2026-07-01T12:35:10-04:00</published>
+    <updated>2026-07-01T12:35:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-king-douglas-fir-tree-led"/>
+    <title>9&apos; King Douglas Fir Artificial Christmas Tree with 1200 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_KingDouglasFirArtificialChristmasTreeLED_f81cbf00-2944-42f2-a2b5-f8e47b71ccdf.png?v=1782849598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:12000</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325453283528</id>
+      <title>9&apos; / Full / LED</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>KDF-T9-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781302848</id>
+    <published>2026-01-01T18:53:05-05:00</published>
+    <updated>2026-01-01T18:53:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-king-douglas-fir-slim-tree-led"/>
+    <title>7.5&apos; King Douglas Fir Slim Artificial Christmas Tree with 800 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T7.5-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781302848</id>
+      <title>7.5&apos; / Slim / LED</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>KDFS-T7.5-L</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781466688</id>
+    <published>2025-12-18T05:43:56-05:00</published>
+    <updated>2025-12-18T05:43:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-king-douglas-fir-slim-tree-led"/>
+    <title>9&apos; King Douglas Fir Slim Artificial Christmas Tree with 1000 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T9-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781466688</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KDFS-T9-L</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781696064</id>
+    <published>2025-12-15T14:09:01-05:00</published>
+    <updated>2025-12-15T14:09:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-king-douglas-fir-slim-tree-led"/>
+    <title>10&apos; King Douglas Fir Slim Artificial Christmas Tree with 1200 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T10-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:12000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781696064</id>
+      <title>10&apos; / Slim / LED</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>KDFS-T10-L</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781859904</id>
+    <published>2024-11-22T22:48:26-05:00</published>
+    <updated>2024-11-22T22:48:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-king-douglas-fir-slim-tree-led"/>
+    <title>12&apos; King Douglas Fir Slim Artificial Christmas Tree with Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T12-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781859904</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku>KDFS-T12-L</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781761600</id>
+    <published>2021-07-02T14:01:08-04:00</published>
+    <updated>2021-07-02T14:01:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-king-douglas-fir-slim-tree-unlit"/>
+    <title>12&apos; King Douglas Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-9_f60af6b2-0b65-4cc3-97b2-36de7d358615.jpg?v=1718158286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T12-U</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:15000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781761600</id>
+      <title>12&apos; / Slim / Unlit</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KDFS-T12-U</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781564992</id>
+    <published>2019-05-16T15:51:57-04:00</published>
+    <updated>2019-05-16T15:51:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-king-douglas-fir-slim-tree-unlit"/>
+    <title>10&apos; King Douglas Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-9_bb37a48f-ec61-440d-8240-117b6d78d572.jpg?v=1718158060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T10-U</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781564992</id>
+      <title>10&apos; / Slim / Unlit</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KDFS-T10-U</s:sku>
+      <s:grams>28576</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781401152</id>
+    <published>2019-05-16T15:51:56-04:00</published>
+    <updated>2019-05-16T15:51:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-king-douglas-fir-slim-tree-unlit"/>
+    <title>9&apos; King Douglas Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-9.jpg?v=1718158796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T9-U</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:6000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781401152</id>
+      <title>9&apos; / Slim / Unlit</title>
+      <s:price currency="USD">449.00</s:price>
+      <s:sku>KDFS-T9-U</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+</feed>

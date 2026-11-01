@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/lux-led-pre-lit-artificial-christmas-trees.atom"/>
+  <title>King of Christmas</title>
+  <updated>2026-07-01T12:34:41-04:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325455478984</id>
+    <published>2026-07-01T12:34:41-04:00</published>
+    <updated>2026-07-01T12:34:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-soho-spruce-tree-lux-led"/>
+    <title>7.5&apos; Soho Spruce Artificial Christmas Tree 2000 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/NewSohoSpruce.png?v=1783960631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the beauty of a real Siberian Spruce into your home with a tree designed to capture its naturally elegant shape. Featuring layered branches, fine spruce-inspired needles, and a realistic open profile, it creates exceptional depth and dimension while maintaining a full, balanced appearance. The thoughtfully spaced branches provide the perfect backdrop for ornaments to shine, delivering a timeless look that feels both natural and refined throughout the holiday season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Premium</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325455478984</id>
+      <title>Default Title</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>SHSP-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325453971656</id>
+    <published>2026-07-01T12:33:14-04:00</published>
+    <updated>2026-07-01T12:33:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-alpine-fir-slim-tree-lux-led"/>
+    <title>9&apos; Alpine Fir Slim Artificial Christmas Tree 3000 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Alpinefirslim_36318a79-a4a2_1.jpg?v=1782923282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325453971656</id>
+      <title>9&apos; / Slim / LUX LED</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>AFG-ST-9-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325455020232</id>
+    <published>2026-07-01T12:33:03-04:00</published>
+    <updated>2026-07-01T12:33:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-alpine-fir-tree-lux-led"/>
+    <title>7.5&apos; Alpine Fir Artificial Christmas Tree 2500 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/AlpineFirwithLuxLEDLights.png?v=1782850052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325455020232</id>
+      <title>7.5&apos; / Full / LUX LED</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>AFG-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325453807816</id>
+    <published>2026-07-01T12:32:25-04:00</published>
+    <updated>2026-07-01T12:32:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-alpine-fir-slim-tree-lux-led"/>
+    <title>7.5&apos; Alpine Fir Slim Artificial Christmas Tree 1800 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Alpinefirslim_36318a79-a4a2_1.jpg?v=1782923282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:6000</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325453807816</id>
+      <title>7.5&apos; / Slim / LUX LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>AFG-ST-7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325452038344</id>
+    <published>2026-07-01T12:31:47-04:00</published>
+    <updated>2026-07-01T12:31:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-king-noble-fir-tree-lux-led"/>
+    <title>7&apos; King Noble Fir™ Artificial Christmas Tree with 2000 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7_KingNobleFirLuxLED.jpg?v=1782849139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King Noble</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325452038344</id>
+      <title>7&apos; / Green / LUX LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KNF-T7-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325451546824</id>
+    <published>2026-07-01T12:31:02-04:00</published>
+    <updated>2026-07-01T12:31:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-tree-lux-led"/>
+    <title>7.5&apos; Queen Flock® Artificial Christmas Tree with 2500 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_QueenFlockArtificialChristmasTreeLux.jpg?v=1782848477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7500</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325451546824</id>
+      <title>7.5&apos; / Full / LUX LED</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku>QF-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325450694856</id>
+    <published>2026-07-01T12:30:29-04:00</published>
+    <updated>2026-07-01T12:30:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-slim-tree-lux-led"/>
+    <title>7.5&apos; Queen Flock® Slim Artificial Christmas Tree With 1800 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_QueenFlockSlimArtificialChristmasTreewith1800LuxLEDLights.jpg?v=1782847365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325450694856</id>
+      <title>7.5&apos; / Slim / LUX LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>QFS-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325455380680</id>
+    <published>2026-07-01T12:20:11-04:00</published>
+    <updated>2026-07-01T12:20:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-silverpeak-fir-tree-led"/>
+    <title>9&apos; Silverpeak Fir™ Artificial Christmas Tree 4700 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Silverpeakfir.png?v=1761067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a world of holiday magic with the newest Silverpeak Fir, our most exquisitely crafted tree that transforms your home into a whimsical winter wonderland. Inspired by the majestic American White Fir, with every branch and needle meticulously designed to look impossibly real, you’d never believe it didn't come straight from the Rocky Mountains. Its full-bodied foliage, brilliant elegance, and layered shape create a breathtaking centerpiece that radiates warmth, joy, and festive charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Premium</s:tag>
+    <s:tag>Silverpeak Fir</s:tag>
+    <s:tag>ygroup_silverpeak</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325455380680</id>
+      <title>9&apos;</title>
+      <s:price currency="USD">1899.00</s:price>
+      <s:sku>SLP-T9-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8246765584584</id>
+    <published>2025-10-22T15:51:10-04:00</published>
+    <updated>2025-10-22T15:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-silverpeak-fir-tree-led"/>
+    <title>7.5&apos; Silverpeak Fir™ Artificial Christmas Tree 3400 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Silverpeakfir.png?v=1761067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a world of holiday magic with the newest Silverpeak Fir, our most exquisitely crafted tree that transforms your home into a whimsical winter wonderland. Inspired by the majestic American White Fir, with every branch and needle meticulously designed to look impossibly real, you’d never believe it didn't come straight from the Rocky Mountains. Its full-bodied foliage, brilliant elegance, and layered shape create a breathtaking centerpiece that radiates warmth, joy, and festive charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Full</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Silverpeak Fir</s:tag>
+    <s:tag>ygroup_silverpeak</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8246765584584</id>
+      <title>7.5&apos;</title>
+      <s:price currency="USD">1199.00</s:price>
+      <s:sku>SLP-T7.5-L</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8246765125832</id>
+    <published>2025-10-22T15:51:10-04:00</published>
+    <updated>2025-10-22T15:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-silverpeak-fir-tree-led"/>
+    <title>6.5&apos; Silverpeak Fir™ Artificial Christmas Tree 2500 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Silverpeakfir.png?v=1761067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a world of holiday magic with the newest Silverpeak Fir, our most exquisitely crafted tree that transforms your home into a whimsical winter wonderland. Inspired by the majestic American White Fir, with every branch and needle meticulously designed to look impossibly real, you’d never believe it didn't come straight from the Rocky Mountains. Its full-bodied foliage, brilliant elegance, and layered shape create a breathtaking centerpiece that radiates warmth, joy, and festive charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Premium</s:tag>
+    <s:tag>Silverpeak Fir</s:tag>
+    <s:tag>ygroup_silverpeak</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8246765125832</id>
+      <title>6.5&apos;</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku>SLP-T6.5-L</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+</feed>

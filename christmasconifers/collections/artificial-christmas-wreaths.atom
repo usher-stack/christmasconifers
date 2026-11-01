@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/artificial-christmas-wreaths.atom"/>
+  <title>King of Christmas</title>
+  <updated>2023-10-25T13:32:20-04:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7598456864968</id>
+    <published>2023-10-25T13:32:20-04:00</published>
+    <updated>2023-10-25T13:32:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/36inch-queen-flock-wreath-led"/>
+    <title>36&quot; Queen Flock® Wreath with Warm White LED Lights (Plug Operated)</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KOC2021QueenFlock-4-2_fbd4deca-9624-4a6f-b977-657731f61892.jpg?v=1714674063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King of Christmas’s Queen Flock wreath is a magnificent addition to your Christmas decor. With its green life-like foliage, the Queen Flock wreath features state of the art design with a blend of realistic tips (PE) and classic tips (PVC) resulting a full, voluminous shape, being quite the attraction for your door or fireplace. Pre-strung with UL warm white LED lights, The Queen Flock wreath will be a pleasant extension of all things Christmas in your home this season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36 Inch</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_queenwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7598456864968</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>QF-W36IN-L</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4092792176704</id>
+    <published>2023-10-25T12:10:37-04:00</published>
+    <updated>2023-10-25T12:10:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/36-inch-king-flock-wreath-led"/>
+    <title>36&quot; King Flock® Wreath with Warm White LED Lights (Plug Operated)</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021KingFlock-4-2_1ae28fc2-0549-456c-b65b-d7d61d814517.jpg?v=1714673907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your winter wonderland collection shouldn't just end at your tree. Bring the enchantment of a dreamy white forest right into your living room, while decorating this holiday season. Composed of the same realistic tips and snow-covered branches, as the <a href="https://www.kingofchristmas.com/collections/king-flock-artificial-christmas-tree" target="_blank" rel="noopener"><span style="color: #008000;"><em><strong>King Flock Tree</strong></em></span></a>, our King Flock Wreath will not disappoint with its effortless and quick shaping process.</p>
+<p> The King Flock Wreath is perfect to hang on doors, walls, or by the fireplace mantel. The king flock wreath is a sure way to complete your holiday home decor that's only fit for a king. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36 Inch</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_kingwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4092792176704</id>
+      <title>36&quot; / LED</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>KF-W36IN-L</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4092792340544</id>
+    <published>2022-04-26T14:24:09-04:00</published>
+    <updated>2022-04-26T14:24:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/36-inch-king-fraser-led"/>
+    <title>36&quot; King Fraser Fir Wreath with Warm White LED Lights (Plug Operated)</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021KingFrasier-4-2_2068e758-081b-4521-b4fe-a62dc95a5d9a.jpg?v=1714673989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King of Christmas’s King Fraser Fir wreath is a magnificent addition to your Christmas decor. With its green life-like foliage, the king Fraser fir wreath features state of the art design with a blend of realistic tips (PE) and classic tips (PVC) resulting a full, voluminous shape, being quite the attraction for your door or fireplace. The King Fraser Fir Wreath will be a pleasant extension of all things Christmas in your home this season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36 Inch</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>King Fraser Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_fraserwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4092792340544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>KFF-W36IN-L</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706787987520</id>
+    <published>2021-07-02T14:01:10-04:00</published>
+    <updated>2021-07-02T14:01:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24-cypress-spruce-wreath-led-battery"/>
+    <title>24&quot; Cypress Spruce Wreath with Warm White LED Lights (Battery Operated)</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021cypress-51_4e235b9c-c3df-4b1e-9b07-57dbed463599.jpg?v=1714673748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether you place it on your door or on top of your fireplace, the Cypress Spruce Wreath will stand out and demand notice. Inspired by our prestigious <a href="https://www.kingofchristmas.com/collections/cypress-spruce-artificial-christmas-tree" target="_blank" rel="noopener"><span style="color: #339966;"><strong><em>Cypress Spruce Tree</em></strong></span></a>, this wreath oozes aristocracy and nobility. Crafted with the same tasteful blend of realistic tips (PE) and classic tips (PVC) as the Cypress Spruce tree, resulting in a grand and beautiful Christmas wreath. This Cypress Spruce Wreath comes Pre-lit with 70 meticulously placed LED lights. All of our pre-lit wreaths are skillfully hand-strung to camouflage the appearance of wires. Indulge in all things regal by adding the Cypress Spruce Wreath to your Christmas collection this season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>Cypress Spruce</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_cypreswreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706787987520</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>CS-W24IN-Bat</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706786807872</id>
+    <published>2021-07-02T14:01:09-04:00</published>
+    <updated>2021-07-02T14:01:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24-king-douglas-fir-wreath-unlit"/>
+    <title>24&quot; King Douglas Fir Wreath Unlit</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirWreathUnlit.png?v=1784735554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The King Douglas Fir Wreath really stands in a class of its own. Like our King Douglas Fir Tree, it features a crafty combination of classic (PVC) and realistic (PE) tips, producing a truly realistic-looking lush green foliage. Suitable for indoor and outdoor use, the King Douglas Fir Wreath is perfect to hang on doors, walls, or by the fireplace mantel. The King Douglas Fir Wreath is the perfect way to embrace the holiday season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_douglaswreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706786807872</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>KDF-W24-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6858940842184</id>
+    <published>2021-06-07T16:56:38-04:00</published>
+    <updated>2021-06-07T16:56:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24inch-queen-flock-wreath-unlit"/>
+    <title>24&quot; Queen Flock® Wreath Unlit</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021QueenFlock-4-2.jpg?v=1714674059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extremely intricate with life-like foliage and detailed tips, the Queen Flock line is considered to be one of our premium selections. Assembled with the same materials and quality build as the Queen Flock tree. The Queen Flock Wreath is an excellent choice to compliment our Queen Flock tree. Appropriate for indoor and outdoor use, this wreath is perfect for hanging on doors, walls, or by the fireplace. Set a festive tone this holiday when welcoming your family and friends this season when you choose the Queen Flock wreath.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_queenwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6858940842184</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>QF-W24IN-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706787823680</id>
+    <published>2019-05-16T15:52:47-04:00</published>
+    <updated>2019-05-16T15:52:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24-cypress-spruce-wreath"/>
+    <title>24&quot; Cypress Spruce Wreath Unlit</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021cypress-51.jpg?v=1714673746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether you place it on your door or on top of your fireplace, the Cypress Spruce Wreath will stand out and demand notice. Inspired by our prestigious <a href="https://www.kingofchristmas.com/collections/cypress-spruce-artificial-christmas-tree" target="_blank" rel="noopener"><span style="color: #339966;"><em><strong>Cypress Spruce Tree</strong></em></span></a>, this wreath oozes aristocracy and nobility. Designed with the same tasteful blend of realistic tips (PE) and classic tips (PVC) as the Cypress Spruce tree, resulting in a grand and beautiful Christmas wreath. Indulge in all things regal by adding the Cypress Spruce Wreath to your Christmas collection this season. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Cypress Spruce</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_cypreswreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706787823680</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>CS-W24IN</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706786938944</id>
+    <published>2019-05-16T15:52:40-04:00</published>
+    <updated>2019-05-16T15:52:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24-yorkshire-fir-wreath-unlit"/>
+    <title>24&quot; Yorkshire Fir Wreath Unlit</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/yorkshire-fir-wreath.jpg?v=1722014829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like the <a href="https://www.kingofchristmas.com/collections/yorkshire-fir-artificial-christmas-tree" target="_blank" rel="noopener"><em><strong><span style="color: #339966;">Yorkshire Fir Tree</span></strong></em></a>, King of Christmas’s Yorkshire Fir Wreath is a magnificent addition to your Christmas decor. Constructed with 150 classic tips ensures a full, voluminous shape, being quite the attraction for your door, window, or fireplace. The Yorkshire Fir wreath will be a pleasant extension of all things Christmas, and an excellent way to round out the final decorating touches in your home this season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_yorkshirewreath</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706786938944</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>YF-W24IN-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706786873408</id>
+    <published>2019-05-16T15:52:39-04:00</published>
+    <updated>2019-05-16T15:52:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24-king-douglas-fir-wreath-led-battery"/>
+    <title>24&quot; King Douglas Fir Wreath with Warm White LED Lights (Battery Operated)</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/king-douglas-fir-prelit-wreath-battery-operated.jpg?v=1718158160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The King Douglas Fir Wreath really stands in a class of its own. Like our King Douglas Fir Tree, it features a crafty combination of classic (PVC) and realistic (PE) tips, producing a truly realistic-looking lush green foliage. Suitable for indoor and outdoor use, the King Douglas Fir Wreath is perfect to hang on doors, walls, or by the fireplace mantel. The King Douglas Fir Wreath is the perfect way to embrace the holiday season. </p>
+<p>Pre-lit with 50 warm-white LED lights, the wreath is battery operated and has a built-in automatic timer 6 hours on 18 hours off.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_douglaswreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706786873408</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>KDF-W24IN-Bat</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706786381888</id>
+    <published>2019-05-16T15:52:34-04:00</published>
+    <updated>2019-05-16T15:52:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24inch-royal-fir-wreath-unlit"/>
+    <title>24&quot; Royal Fir Wreath Unlit</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021RoyalFir-4.jpg?v=1714674128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extremely intricate with life-like foliage and detailed tips, the Royal Fir line is considered to be one of our premium selections. Assembled with the same materials and quality build as the Royal Fir tree. The Royal Fir Wreath is an excellent choice to compliment our Royal Fir tree. Appropriate for indoor and outdoor use, this wreath is perfect for hanging on doors, walls, or by the fireplace. Set a festive tone this holiday when welcoming your family and friends this season when you choose the royal fir wreath.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_royalwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706786381888</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>RF-W24IN-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706772914240</id>
+    <published>2019-05-16T15:50:42-04:00</published>
+    <updated>2019-05-16T15:50:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24inch-king-flock-wreath-unlit"/>
+    <title>24&quot; King Flock® Wreath Unlit</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021KingFlock-4-2_b073b94d-d71a-4765-b8d4-9dfd6a8d5071.jpg?v=1714673909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your winter wonderland collection shouldn't just end at your tree. Bring the enchantment of a dreamy white forest right into your living room, while decorating this holiday season. From our critically acclaimed <a href="https://www.kingofchristmas.com/collections/king-flock-artificial-christmas-tree" target="_blank" rel="noopener"><span style="color: #008000;"><em><strong>King flock Tree</strong></em></span></a>, we present the King Flock Wreath. Composed of the same realistic tips and snow-covered branches as the King Flock tree, our King Flock wreath will not disappoint with its effortless and quick shaping process. The king flock wreath is a sure way to complete your holiday home decor that's only fit for a king.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_kingwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706772914240</id>
+      <title>24&quot; / Unlit</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>KF-W24IN-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706772815936</id>
+    <published>2019-05-16T15:50:41-04:00</published>
+    <updated>2019-05-16T15:50:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/24inch-king-flock-wreath-led"/>
+    <title>24&quot; King Flock® Wreath with Warm White LED Lights (Battery Operated)</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021KingFlock-4-2_16e530d6-403d-462c-9d8a-64c96691a0be.jpg?v=1714673906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your winter wonderland collection shouldn't just end at your tree. Bring the enchantment of a dreamy white forest right into your living room, while decorating this holiday season. Composed of the same realistic tips and snow-covered branches, as the <a href="https://www.kingofchristmas.com/collections/king-flock-artificial-christmas-tree" target="_blank" rel="noopener"><span style="color: #008000;"><em><strong>King Flock Tree</strong></em></span></a>, our King Flock Wreath will not disappoint with its effortless and quick shaping process.</p>
+<p>Pre-lit with 50 warm-white LED lights, battery operated and has a built-in automatic timer 6 hours on 18 hours off. The King Flock Wreath is perfect to hang on doors, walls, or by the fireplace mantel. The king flock wreath is a sure way to complete your holiday home decor that's only fit for a king. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 Inch</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:tag>YGroup_kingwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706772815936</id>
+      <title>24&quot; / LED</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>KF-W24IN-L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

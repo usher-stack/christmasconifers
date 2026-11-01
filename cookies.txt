@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.kingofchristmas.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AaEIpaYGAAEA-KIlk9sQuu2g8FmCQarzXMBotQ3r-ul5fUwF7L1i9niAaMHoT9CjETXFku0k0bm_G1D4SSh7UkjR64g:
+www.kingofchristmas.com	TRUE	/	FALSE	1999999999	_shopify_analytics	:AaEIpaZkAAEAFYzrCTG2UnCgIPJ4Nzx2LBnBYYx_0lt-8I2HwcvOg5ttVlOPHzDtl-kmOixa_lX3dh7lheYrFcuD7aQ:
+www.kingofchristmas.com	TRUE	/	FALSE	1999999999	_shopify_marketing	:AaEIpaZkAAEAAAXOUfLenw8R-_sz8yMMEsEXsDQDmlpDduRYPDG7WTHGOt6LjQ3ZsLhQBlpn1iSF0mzT0KFJlvyJsbs:
+www.kingofchristmas.com	TRUE	/	FALSE	1999999999	Priority	High
+www.kingofchristmas.com	TRUE	/	FALSE	1999999999	cart	hWNHauzB8cUdoA2SNeLZ2BWN%3Fkey%3Dd4ee262efabeba044dff3d21f18b53ef
+www.kingofchristmas.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+www.kingofchristmas.com	TRUE	/	FALSE	1999999999	localization	US
+www.kingofchristmas.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

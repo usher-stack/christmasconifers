@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/picks.atom"/>
+  <title>King of Christmas</title>
+  <updated>2023-11-21T14:15:01-05:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7620794613960</id>
+    <published>2023-11-21T14:15:01-05:00</published>
+    <updated>2023-11-21T14:15:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/silver-burst-picks"/>
+    <title>Silver Burst Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/SilverBurstPicks_12Pack.png?v=1722013727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sometimes you don’t know you need something
+<br>until you see it, like an elegant set of Silver Burst
+<br>Picks. With a sparkling beauty that will bring joy to
+<br>you and your guests for years to come, these picks
+<br>are the holiday accent that can fit in virtually
+<br>anywhere. Infuse your holiday decorations with a
+<br>sparkling burst of silvery holiday magic.
+<br>Whether you want to add some extra flair to your
+<br>centerpiece or inject some dimension to your
+<br>wreath, garland, or tabletop display, you can’t go
+<br>wrong with a stylish set of elegant holiday picks.
+<br>Grab a set of 12 Silver Burst Picks for your space
+<br>today, and let your creativity run wild.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EDS6Y5T</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7620794613960</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>EDS6Y5T</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7620794777800</id>
+    <published>2023-11-21T14:14:00-05:00</published>
+    <updated>2023-11-21T14:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/gold-leaf-picks"/>
+    <title>Rosegold Leaf Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingOfChristmas2025_BrookePavelPhoto012.jpg?v=1765555967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create a beautiful, timeless holiday scene with a
+<br>set of Gold Leaf Picks. These meticulously crafted
+<br>holiday picks truly capture the spirit of the season
+<br>with their bold and beautiful golden leaves.
+<br>Whether you’re decorating for your annual
+<br>Christmas party or just adding a touch of holiday
+<br>cheer to your home, these elegantly detailed picks
+<br>bring an inviting spirit of tradition to your holiday
+<br>oasis.
+<br>Whether you want to add some extra flair to your
+<br>centerpiece or inject some dimension to your
+<br>wreath, garland, or tabletop display, you can’t go
+<br>wrong with a stylish set of elegant holiday picks.
+<br>Grab a set of 12 Gold Leaf Picks for your space
+<br>today, and let your creativity run wild.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DFJ2W4G</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7620794777800</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>DFJ2W4G</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7620794745032</id>
+    <published>2023-11-21T14:10:44-05:00</published>
+    <updated>2023-11-21T14:10:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/berry-pine-picks"/>
+    <title>Berry and Pine Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/BerryandPinePicks_12Pack_bdb6921a-6fa0-4e05-8782-8488df80d70b.png?v=1714662133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the beauty of the holiday season to any room
+<br>with festive Berry and Pine Picks! These elegantly
+<br>crafted accents are highlighted by festive red
+<br>berries and beautiful pine branches, creating a
+<br>traditional and homey holiday atmosphere that
+<br>radiates unmatched feelings of comfort and joy.
+<br>Whether you want to add some extra flair to your
+<br>centerpiece or inject some dimension to your
+<br>wreath, garland, or tabletop display, you can’t go
+<br>wrong with a stylish set of elegant holiday picks.
+<br>Grab a set of 12 Berry and Pine Picks for your space
+<br>today, and let your creativity run wild.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>TSX8P7B</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7620794745032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>TSX8P7B</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7620794646728</id>
+    <published>2023-11-21T14:06:14-05:00</published>
+    <updated>2023-11-21T14:06:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/golden-berry-picks"/>
+    <title>Silver Berry Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/SilverBerryPicks_12Pack_7006c7d5-5650-4b5e-ac71-429019b0ba69.png?v=1722013720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make the most of your holiday setting by layering
+<br>in some festive Golden Berry Picks. Perfectly sized
+<br>to fit almost anywhere, these elegant picks feature
+<br>detailed branches of gold-sprayed berries as a
+<br>signature highlight. Add that final touch to your
+<br>oasis with these cheerful decorations as you feel
+<br>the joy of the season and create memories that will
+<br>last a lifetime.
+<br>Whether you want to add some extra flair to your
+<br>centerpiece or inject some dimension to your
+<br>wreath, garland, or tabletop display, you can’t go
+<br>wrong with a stylish set of elegant holiday picks.
+<br>Grab a set of 12 Golden Berry Picks for your space
+<br>today, and let your creativity run wild.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>VAG9S8V</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7620794646728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>VAG9S8V</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7444052050120</id>
+    <published>2022-10-05T22:48:44-04:00</published>
+    <updated>2022-10-05T22:48:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/sugar-berry-picks"/>
+    <title>Sugar Berry Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/RedWhiteBerryTree-2.jpg?v=1722012823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adding a splash of color to your holiday oasis is easy with a set of our faux Sugar Berry Picks. Studded with
+<br>red berries and featuring slight variations from branch to branch, these picks are the perfect accent for your
+<br>mantel, tabletop display, or anywhere else you need a touch of genuine seasonal ambiance. 12 picks are
+<br>included for endless possibilities!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>PK12-SUGB</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7444052050120</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>PK12-SUGB</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

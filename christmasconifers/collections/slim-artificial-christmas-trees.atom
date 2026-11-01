@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/slim-artificial-christmas-trees.atom"/>
+  <title>King of Christmas</title>
+  <updated>2026-06-12T09:17:14-04:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6148279042248</id>
+    <published>2026-06-12T09:17:14-04:00</published>
+    <updated>2026-06-12T09:17:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-yorkshire-fir-slim-tree-unlit"/>
+    <title>6.5&apos; Yorkshire Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/yorkshire-fir-slim_0794600e-7020-45c6-adda-e7f148d0707b.jpg?v=1722014809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:2400</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YFS-T6.5-U</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6148279042248</id>
+      <title>Default Title</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>YFS-T6.5-U</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605743530061</id>
+    <published>2026-03-01T10:56:35-05:00</published>
+    <updated>2026-03-01T10:56:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-queen-flock-slim-tree-led"/>
+    <title>12&apos; Queen Flock® Slim Artificial Christmas Tree With 1400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_037081ba-4227-46f2-b730-3258ae898b6d.jpg?v=1722012655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T12-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:30000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605743530061</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1799.00</s:price>
+      <s:sku>QFS-T12-L</s:sku>
+      <s:grams>34927</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7173798625480</id>
+    <published>2026-03-01T10:54:10-05:00</published>
+    <updated>2026-03-01T10:54:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-alpine-fir-slim-tree-led"/>
+    <title>12&apos; Alpine Fir Slim Artificial Christmas Tree 1400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/AlpineFirSlimLED_a8e79fe7-6aab-4eaa-8691-c32c84f6d4f8.jpg?v=1723213414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>AFG-ST-12-L</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:25000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7173798625480</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1599.00</s:price>
+      <s:sku>AFG-ST-12-L</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7192136581320</id>
+    <published>2026-01-29T07:52:10-05:00</published>
+    <updated>2026-01-29T07:52:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-royal-fir-slim-tree-led"/>
+    <title>12&apos; Royal Fir Slim Artificial Christmas Tree with 1900 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Royal-Fir-Slim-v2_072a2f0a-0d50-4f40-93b0-26d136f6f519.jpg?v=1722013075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            2199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:35000</s:tag>
+    <s:tag>RFS-T12-L</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7192136581320</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">2199.00</s:price>
+      <s:sku>RFS-T12-L</s:sku>
+      <s:grams>25401</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606492233928</id>
+    <published>2026-01-29T07:50:10-05:00</published>
+    <updated>2026-01-29T07:50:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-hancock-spruce-pencil-tree-led"/>
+    <title>7&apos; Hancock Spruce Pencil Artificial Christmas Tree 400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/HancockSprucePencil23.png?v=1762268763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hancock Spruce</s:tag>
+    <s:tag>HSP-T7-L</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606492233928</id>
+      <title>7&apos; / Pencil / LED</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>HSP-T7-L</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606490038472</id>
+    <published>2026-01-01T18:55:22-05:00</published>
+    <updated>2026-01-01T18:55:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-tribeca-blue-spruce-slim-tree-unlit"/>
+    <title>7&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/TribecaSlimUnlit.jpg?v=1722014316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T7-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606490038472</id>
+      <title>7&apos; / Slim / Unlit</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>TBS-SL-T7-U</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7173797249224</id>
+    <published>2026-01-01T18:54:12-05:00</published>
+    <updated>2026-01-01T18:54:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-alpine-fir-slim-tree-led"/>
+    <title>10&apos; Alpine Fir Slim Artificial Christmas Tree 1000 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/AlpineFirSlimLED.jpg?v=1723213364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>AFG-ST-10-L</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:30000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7173797249224</id>
+      <title>10&apos; / Slim / LED</title>
+      <s:price currency="USD">1149.00</s:price>
+      <s:sku>AFG-ST-10-L</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781302848</id>
+    <published>2026-01-01T18:53:05-05:00</published>
+    <updated>2026-01-01T18:53:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-king-douglas-fir-slim-tree-led"/>
+    <title>7.5&apos; King Douglas Fir Slim Artificial Christmas Tree with 800 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T7.5-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781302848</id>
+      <title>7.5&apos; / Slim / LED</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>KDFS-T7.5-L</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605743431757</id>
+    <published>2026-01-01T18:52:20-05:00</published>
+    <updated>2026-01-01T18:52:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-queen-flock-slim-tree-led"/>
+    <title>10&apos; Queen Flock® Slim Artificial Christmas Tree 1000 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_a3fb2d6a-976c-4e2b-86ca-a0fa366573c9.jpg?v=1722012678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>QFS-T10-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:17500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605743431757</id>
+      <title>10&apos; / Slim / LED</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>QFS-T10-L</s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6148279369928</id>
+    <published>2025-12-25T08:51:40-05:00</published>
+    <updated>2025-12-25T08:51:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-yorkshire-fir-slim-tree-led"/>
+    <title>9&apos; Yorkshire Fir Slim Artificial Christmas Tree with 600 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/YorkshireFirSlim_ccca68ea-ba2a-4c59-89ec-d7058cf6566f.png?v=1722014906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YFS-T9-L</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6148279369928</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>YFS-T9-L</s:sku>
+      <s:grams>22226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7173795021000</id>
+    <published>2025-12-25T08:49:05-05:00</published>
+    <updated>2025-12-25T08:49:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-alpine-fir-slim-tree-led"/>
+    <title>9&apos; Alpine Fir Slim Artificial Christmas Tree 900 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/AlpineFirSlimLED_f9acf269-0193-4420-90ab-d7079a6f9008.jpg?v=1723214101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>AFG-ST-9-L</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7173795021000</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>AFG-ST-9-L</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606490202312</id>
+    <published>2025-12-25T08:47:32-05:00</published>
+    <updated>2025-12-25T08:47:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-tribeca-blue-spruce-slim-tree-led"/>
+    <title>7&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree with 400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/TribecaSlimLED.jpg?v=1722014307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T7-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606490202312</id>
+      <title>7&apos; / Slim / LED</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>TBS-SL-T7-L</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781466688</id>
+    <published>2025-12-18T05:43:56-05:00</published>
+    <updated>2025-12-18T05:43:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-king-douglas-fir-slim-tree-led"/>
+    <title>9&apos; King Douglas Fir Slim Artificial Christmas Tree with 1000 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T9-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781466688</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KDFS-T9-L</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605742710861</id>
+    <published>2025-12-15T14:12:30-05:00</published>
+    <updated>2025-12-15T14:12:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-queen-flock-slim-tree-led"/>
+    <title>6.5&apos; Queen Flock® Slim Artificial Christmas Tree With 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_c84ff106-7f3e-4126-b467-263d8999e7b5.jpg?v=1722012683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T6.5-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605742710861</id>
+      <title>6.5&apos; / Slim / LED</title>
+      <s:price currency="USD">449.00</s:price>
+      <s:sku>QFS-T6.5-L</s:sku>
+      <s:grams>14969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7192132714696</id>
+    <published>2025-12-15T14:10:47-05:00</published>
+    <updated>2025-12-15T14:10:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-royal-fir-slim-tree-led"/>
+    <title>10&apos; Royal Fir Slim Artificial Christmas Tree with 1500 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Royal-Fir-Slim-v2.jpg?v=1722013074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>box3</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:25000</s:tag>
+    <s:tag>RFS-T10-L</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7192132714696</id>
+      <title>10&apos; / Slim / LED</title>
+      <s:price currency="USD">1599.00</s:price>
+      <s:sku>RFS-T10-L</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7181155565768</id>
+    <published>2025-12-15T14:09:59-05:00</published>
+    <updated>2025-12-15T14:09:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-king-fraser-fir-slim-tree-led"/>
+    <title>10&apos; King Fraser Fir Slim Artificial Christmas Tree with 1100 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFraserFirSlim.jpg?v=1786731058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate the holiday season with the natural splendor of the Appalachian Mountains brought right into your home with the King Fraser Fir. Designed to mirror the majestic Fraser Fir, its lush foliage and classic conical shape really captures the authenticity of a real tree. Find the perfect size for your space and enjoy a holiday season full of lifelike charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KFFS-T10-L</s:tag>
+    <s:tag>King Fraser Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:10000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_fraserfir</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7181155565768</id>
+      <title>10&apos; / Slim / LED</title>
+      <s:price currency="USD">1099.00</s:price>
+      <s:sku>KFFS-T10-L</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781696064</id>
+    <published>2025-12-15T14:09:01-05:00</published>
+    <updated>2025-12-15T14:09:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-king-douglas-fir-slim-tree-led"/>
+    <title>10&apos; King Douglas Fir Slim Artificial Christmas Tree with 1200 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T10-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:12000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781696064</id>
+      <title>10&apos; / Slim / LED</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>KDFS-T10-L</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706778779712</id>
+    <published>2025-12-07T06:32:54-05:00</published>
+    <updated>2025-12-07T06:32:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-royal-fir-slim-tree-led"/>
+    <title>7.5&apos; Royal Fir Slim Artificial Christmas Tree with 650 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Royal-Fir-Slim-v2_a667ad96-2059-46b4-855c-d3dc9272b181.jpg?v=1722013079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            849.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>refund_fee:6000</s:tag>
+    <s:tag>RFS-T7.5-L</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706778779712</id>
+      <title>7.5&apos; / Slim / LED</title>
+      <s:price currency="USD">849.00</s:price>
+      <s:sku>RFS-T7.5-L</s:sku>
+      <s:grams>24494</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706779009088</id>
+    <published>2025-12-04T07:23:37-05:00</published>
+    <updated>2025-12-04T07:23:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-royal-fir-slim-tree-led"/>
+    <title>9&apos; Royal Fir Slim Artificial Christmas Tree with 900 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Royal-Fir-Slim-v2_1b3cb525-3abf-4359-9246-8f4abc768339.jpg?v=1722013077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>refund_fee:15000</s:tag>
+    <s:tag>RFS-T9-L</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706779009088</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">1199.00</s:price>
+      <s:sku>RFS-T9-L</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706781859904</id>
+    <published>2024-11-22T22:48:26-05:00</published>
+    <updated>2024-11-22T22:48:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-king-douglas-fir-slim-tree-led"/>
+    <title>12&apos; King Douglas Fir Slim Artificial Christmas Tree with Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T12-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706781859904</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku>KDFS-T12-L</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606492528840</id>
+    <published>2023-09-24T13:25:46-04:00</published>
+    <updated>2023-09-24T13:25:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-hancock-spruce-pencil-tree-led"/>
+    <title>9&apos; Hancock Spruce Pencil Artificial Christmas Tree 600 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/HancockSprucePencil23.png?v=1762268763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hancock Spruce</s:tag>
+    <s:tag>HSP-T9-L</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:5500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606492528840</id>
+      <title>9&apos; / Pencil / LED</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku>HSP-T9-L</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606492496072</id>
+    <published>2023-09-24T13:25:44-04:00</published>
+    <updated>2023-09-24T13:25:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-hancock-spruce-pencil-tree-led"/>
+    <title>8&apos; Hancock Spruce Pencil Artificial Christmas Tree 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/HancockSprucePencil23.png?v=1762268763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hancock Spruce</s:tag>
+    <s:tag>HSP-T8-L</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606492496072</id>
+      <title>8&apos; / Pencil / LED</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku>HSP-T8-L</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606492135624</id>
+    <published>2023-09-24T13:25:39-04:00</published>
+    <updated>2023-09-24T13:25:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-foot-hancock-spruce-pencil-tree-led"/>
+    <title>6&apos; Hancock Spruce Pencil Artificial Christmas Tree 300 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/HancockSprucePencil.png?v=1762268517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hancock Spruce</s:tag>
+    <s:tag>HSP-T6-L</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:2500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606492135624</id>
+      <title>6&apos; / Pencil / LED</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>HSP-T6-L</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606490562760</id>
+    <published>2023-09-24T13:22:39-04:00</published>
+    <updated>2023-09-24T13:22:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-tribeca-blue-spruce-slim-tree-led"/>
+    <title>9&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree with 650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/TribecaSlimLED_8cb54fa4-48ab-4757-9baf-84cc74f539ba.jpg?v=1722014311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T9-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606490562760</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>TBS-SL-T9-L</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606490529992</id>
+    <published>2023-09-24T13:22:37-04:00</published>
+    <updated>2023-09-24T13:22:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-tribeca-blue-spruce-slim-tree-unlit"/>
+    <title>9&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/TribecaSlimUnlit_4de9bb03-b044-4fc6-a7e0-36b7b34619cf.jpg?v=1722014318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T9-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606490529992</id>
+      <title>9&apos; / Slim / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>TBS-SL-T9-U</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+</feed>

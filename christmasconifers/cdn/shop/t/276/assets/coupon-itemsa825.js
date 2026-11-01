@@ -1,0 +1,2 @@
+(function(){const couponItems=document.querySelectorAll(".coupon-items__item");for(let i=0;i<couponItems.length;i++)couponItems[i].addEventListener("click",e=>{const promoCode=couponItems[i].getElementsByClassName(".promo-code").innerText;window.clipboardData.setData("text/plain",promoCode),document.execCommand("copy")})})();
+//# sourceMappingURL=/cdn/shop/t/276/assets/coupon-items.js.map?v=28240162437108300901790855489

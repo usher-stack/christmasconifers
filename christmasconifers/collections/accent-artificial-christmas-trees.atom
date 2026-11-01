@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/accent-artificial-christmas-trees.atom"/>
+  <title>King of Christmas</title>
+  <updated>2025-10-31T12:21:16-04:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8250313638088</id>
+    <published>2025-10-31T12:21:16-04:00</published>
+    <updated>2025-10-31T12:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/4-5-windsor-tree-fir-led"/>
+    <title>4.5&apos; Windsor Fir Tree with 150 Warm White Twinkle LED Lights</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Windorfir.png?v=1786127497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring natural holiday charm to every corner of your home with our newest and most enchanting addition, The Windsor Collection. Designed with realistic foliage and graceful form, it shines as a beautiful accent to your main tree or a statement piece all its own. Effortless, classic, and full of Christmas spirit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>windsor_group</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8250313638088</id>
+      <title>4.5&apos; / Green</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>WNFR-T4.5-L</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8250006896840</id>
+    <published>2025-10-31T12:21:16-04:00</published>
+    <updated>2025-10-31T12:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/4-windsor-tree-fir-led"/>
+    <title>4&apos; Windsor Fir Tree with 100 Warm White Twinkle LED Lights</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Windorfir.png?v=1786127497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring natural holiday charm to every corner of your home with our newest and most enchanting addition, The Windsor Collection. Designed with realistic foliage and graceful form, it shines as a beautiful accent to your main tree or a statement piece all its own. Effortless, classic, and full of Christmas spirit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>windsor_group</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8250006896840</id>
+      <title>4&apos; / Green</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>WNFR-T4-L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8250006372552</id>
+    <published>2025-10-31T12:21:14-04:00</published>
+    <updated>2025-10-31T12:21:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/4-windsor-tree-flock-led"/>
+    <title>4&apos; Windsor Flock Tree with 100 Warm White Twinkle LED Lights</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Windsor_Main_Image.jpg?v=1765377801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serenity of freshly fallen snow indoors with our newest and most captivating addition yet, The Flocked Windsor Collection. This graceful accent tree adds a touch of wintry charm on its own or pairs beautifully with your centerpiece tree for a cohesive, magical display. A must-have for a cozy holiday atmosphere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>windsor_group</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8250006372552</id>
+      <title>4&apos; / Flock</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>WNFL-T4-L</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7590997065928</id>
+    <published>2023-08-10T08:50:36-04:00</published>
+    <updated>2023-08-10T08:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-prince-flock-pencil-tree-led"/>
+    <title>7&apos; Prince Flock® Pencil Artificial Christmas Tree with 400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/PrincePencilTreeLED.jpg?v=1786129938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serene beauty of a snow-dusted forest into your home with the Prince Flock. Designed to reflect the natural charm of a Subalpine Fir from the Rocky Mountains, its frosted needles and realistic shape evoke the tranquility of a winter landscape. Perfectly detailed, it becomes a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>PFP-T7-L</s:tag>
+    <s:tag>Prince Flock</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_princeflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7590997065928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>PFP-T7-L</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7590559285448</id>
+    <published>2023-08-09T11:20:24-04:00</published>
+    <updated>2023-08-09T11:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/3-foot-royal-fir-led"/>
+    <title>3&apos; Royal Fir Tabletop Tree with 100 Warm White LED Lights</title>
+    <s:type>Tabletop</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KOC2021RoyalFir-3-2_17a0b735-0403-4b0c-a7b7-36501dad0817.jpg?v=1718158120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tabletop<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Why settle for less this holiday season when you can celebrate in grand style. Add a breathtaking Christmas tree to your home decor when you choose the Royal Fir to grace your home this holiday season. This stunning and magnificent Christmas tree is full-bodied and features realistic foliage that creates a beautiful and lifelike display. The Royal Fir is one of our hallmark signature trees and features a high-end design for the ultimate Christmas tree display. The 3' Royal Fir is a miniature version of our <a href="https://www.kingofchristmas.com/collections/royal-fir-artificial-christmas-tree" target="_blank" rel="noopener"><span style="color: #339966;"><em><strong>Royal Fir Tree</strong></em></span></a>. Using the same tips and structure to give the tree a full-bodied and realistic look. The base is made of porcelain and resembles a wooden tree stump. Round out your Christmas collection this holiday season with the 3' Royal Fir tree.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Tabletop</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>YGroup_royalwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7590559285448</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>3F-RF-ST-L</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706767605824</id>
+    <published>2022-10-19T22:24:33-04:00</published>
+    <updated>2022-10-19T22:24:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-foot-prince-flock-tree-led"/>
+    <title>6&apos; Prince Flock® Artificial Christmas Tree with 350 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/PrinceFlock_fbb2edf4-c5c9-4ad1-b201-ca0c1c1c4b0e.jpg?v=1714675465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serene beauty of a snow-dusted forest into your home with the Prince Flock. Designed to reflect the natural charm of a Subalpine Fir from the Rocky Mountains, its frosted needles and realistic shape evoke the tranquility of a winter landscape. Perfectly detailed, it becomes a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>PF-T6-L</s:tag>
+    <s:tag>Prince Flock</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_princeflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706767605824</id>
+      <title>6&apos; / Full / LED</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>PF-T6-L</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7439107293384</id>
+    <published>2022-09-19T16:49:21-04:00</published>
+    <updated>2022-09-19T16:49:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/3-foot-king-noble-fir-led"/>
+    <title>3&apos; King Noble Fir Tabletop Tree with 70 Warm White LED Lights</title>
+    <s:type>Tabletop</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KingNobleTabletop.jpg?v=1714673641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tabletop<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When you need one elegant solution that offers the perfect upgrade for your holiday décor this season, look no further than the King Noble Tabletop Tree</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>King Noble</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Tabletop</s:tag>
+    <s:tag>YGroup_noblewreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7439107293384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>KNF-T3-L-Bat</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7171540975816</id>
+    <published>2021-12-03T14:17:30-05:00</published>
+    <updated>2021-12-03T14:17:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-king-noble-flock-tree-led"/>
+    <title>7&apos; King Noble Flock Artificial Christmas Tree with 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingNobleFlockLED.jpg?v=1723214176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KNFL-T7-L</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7171540975816</id>
+      <title>7&apos; / Flock / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KNFL-T7-L</s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7171540910280</id>
+    <published>2021-12-03T14:17:28-05:00</published>
+    <updated>2021-12-03T14:17:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-king-noble-flock-tree-unlit"/>
+    <title>7&apos; King Noble Flock Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingNobleFlock.jpg?v=1722887967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KNFL-T7-U</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7171540910280</id>
+      <title>7&apos; / Flock / Unlit</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku>KNFL-T7-U</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3945118892096</id>
+    <published>2021-08-01T20:24:32-04:00</published>
+    <updated>2021-08-01T20:24:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/3-foot-royal-fir-unlit"/>
+    <title>3&apos; Royal Fir Tabletop Tree Unlit</title>
+    <s:type>Tabletop</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021RoyalFir-3-2.jpg?v=1718158123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tabletop<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Why settle for less this holiday season when you can celebrate in grand style. Add a breathtaking Christmas tree to your home decor when you choose the Royal Fir to grace your home this holiday season. This stunning and magnificent Christmas tree is full-bodied and features realistic foliage that creates a beautiful and lifelike display. The Royal Fir is one of our hallmark signature trees and features a high-end design for the ultimate Christmas tree display. The 3' Royal Fir is a miniature version of our <a href="https://www.kingofchristmas.com/collections/royal-fir-artificial-christmas-tree" target="_blank" rel="noopener"><span style="color: #339966;"><em><strong>Royal Fir Tree</strong></em></span></a>. Using the same tips and structure to give the tree a full-bodied and realistic look. The base is made of porcelain and resembles a wooden tree stump. Round out your Christmas collection this holiday season with the 3' Royal Fir tree.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Tabletop</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_royalwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3945118892096</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>RF-T3-U</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6858940547272</id>
+    <published>2021-08-01T20:17:55-04:00</published>
+    <updated>2021-08-01T20:17:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/3-foot-queen-flock-tree-led"/>
+    <title>3&apos; Queen Flock® Artificial Christmas Tabletop Tree with 50 Warm White LED Lights</title>
+    <s:type>Tabletop</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021QueenFlock-2-2_7ecaac68-888e-40ee-9680-7f62ac4c4e1b.jpg?v=1714674017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tabletop<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No Christmas setting is complete without at least one tabletop tree! A scaled down version of our signature flock collection, the small but mighty Queen Flock mini Christmas tree sits perfectly on any tabletop, fireplace hearth, or anywhere else that needs a “little” Christmas spirit. 3 feet tall and 18” wide, this portable beauty can easily be moved around anywhere for quick and easy redecorating. Plus, with a blend of realistic and classic needle tips combined with handmade heavily flocked branches, you and your loved ones will get to enjoy the magical feeling of freshly fallen snow in the warmth of your own home. For added convenience, this elegant garland has been expertly pre-strung with 50 warm white LED lights, which are battery operated for a clean and seamless accent that won’t use up your outlets and can be placed virtually anywhere!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Tabletop</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_queenwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6858940547272</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>QF-T3-L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6858940481736</id>
+    <published>2021-08-01T20:17:52-04:00</published>
+    <updated>2021-08-01T20:17:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/3-foot-queen-flock-tree-unlit"/>
+    <title>3&apos; Queen Flock® Artificial Christmas Tabletop Tree Unlit</title>
+    <s:type>Tabletop</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021QueenFlock-2-2_a4936b8b-b425-4e84-bc55-9ba70b26462d.jpg?v=1714674019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tabletop<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No Christmas setting is complete without at least one tabletop tree! A scaled down version of our signature flock collection, the small but mighty Queen Flock mini Christmas tree sits perfectly on any tabletop, fireplace hearth, or anywhere else that needs a “little” Christmas spirit. 3 feet tall and 18” wide, this portable beauty can easily be moved around anywhere for quick and easy redecorating. Plus, with a blend of realistic and classic needle tips combined with handmade heavily flocked branches, you and your loved ones will get to enjoy the magical feeling of freshly fallen snow in the warmth of your own home</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Tabletop</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6858940481736</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>QF-T3-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706772619328</id>
+    <published>2021-08-01T20:17:36-04:00</published>
+    <updated>2021-08-01T20:17:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/3-foot-king-flock-tree-led"/>
+    <title>3&apos; King Flock® Artificial Christmas Tabletop Tree with 50 Warm White LED Lights</title>
+    <s:type>Tabletop</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021KingFlock-2-2_ac68b0d3-ee5d-45d8-a708-8a5b98f62f20.jpg?v=1714673856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tabletop<br>
+        <strong>Price: </strong>
+            74.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just admit it, we all know why you're here. You might have seen it at a friend's place, or perhaps your cousin won't quit it with how stunning theirs looks, or maybe you're checking in to see if all that Instagram hype is real. Well, without further ado, we present the 3' King Flock mini tree. With a natural-colored burlap base, the 3' King Flock tree is a scaled-down version of the king flock without compromising on the quality or details of the tree. </p>
+<p>The King Flock Christmas tree is one of our premier signature trees. It features state of the art design with a blend of realistic tips (PE) and classic tips (PVC) resulting in a grand and beautiful hallmark Christmas tree. With heavily flocked tips, you can enjoy the look of freshly fallen snow adorning each branch of your tree. So let it snow this holiday season while you sip eggnog, and marvel at this wonderland masterpiece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Tabletop</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706772619328</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>KF-T3-L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706772258880</id>
+    <published>2021-08-01T20:17:34-04:00</published>
+    <updated>2021-08-01T20:17:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/3-foot-king-flock-tree-unlit"/>
+    <title>3&apos; King Flock® Artificial Christmas Tabletop Tree Unlit</title>
+    <s:type>Tabletop</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2021KingFlock-2-2_170a15ef-d464-454d-9625-ca3ff991681f.jpg?v=1714673849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tabletop<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just admit it, we all know why you're here. You might have seen it at a friend's place, or perhaps your cousin won't quit it with how stunning theirs looks, or maybe you're checking in to see if all that Instagram hype is real. Well, without further ado, we present the 3' King Flock mini tree. With a natural-colored burlap base, the 3' King Flock tree is a scaled-down version of the king flock without compromising on the quality or details of the tree. </p>
+<p>The King Flock Christmas tree is one of our premier signature trees. It features state of the art design with a blend of realistic tips (PE) and classic tips (PVC) resulting in a grand and beautiful hallmark Christmas tree. With heavily flocked tips, you can enjoy the look of freshly fallen snow adorning each branch of your tree. So let it snow this holiday season while you sip eggnog, and marvel at this wonderland masterpiece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Tabletop</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingwreath</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706772258880</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>KF-T3-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706773864512</id>
+    <published>2021-07-02T14:02:25-04:00</published>
+    <updated>2021-07-02T14:02:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-foot-king-noble-fir-tree-led"/>
+    <title>6&apos; King Noble Fir™ Artificial Christmas Tree with 450 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/King-Noble-Fir-v1_169f3774-d549-4ff3-a309-d3be5e3bcb60.png?v=1714672821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KNF-T6-L</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706773864512</id>
+      <title>6&apos; / Green / LED</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku>KNF-T6-L</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6148279173320</id>
+    <published>2020-12-30T13:35:38-05:00</published>
+    <updated>2020-12-30T13:35:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-yorkshire-fir-slim-tree-unlit"/>
+    <title>7.5&apos; Yorkshire Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/yorkshire-fir-slim_f6153517-d6e6-49b0-ab68-8944a7598609.jpg?v=1722014819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YFS-T7.5-U</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6148279173320</id>
+      <title>7.5&apos; / Slim / Unlit</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>YFS-T7.5-U</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6148279075016</id>
+    <published>2020-12-30T13:35:35-05:00</published>
+    <updated>2020-12-30T13:35:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-yorkshire-fir-slim-tree-led"/>
+    <title>6.5&apos; Yorkshire Fir Slim Artificial Christmas Tree with 400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/YorkshireFirSlim.png?v=1722014899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:2400</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YFS-T6.5-L</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6148279075016</id>
+      <title>6.5&apos; / Slim / LED</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>YFS-T6.5-L</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4099307667520</id>
+    <published>2019-10-11T18:41:14-04:00</published>
+    <updated>2019-10-11T18:41:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-blue-flock-tree-led"/>
+    <title>6.5&apos; Duchess Blue Flock Artificial Christmas Tree with 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/BlueDuchess_bf0a3bb7-e06d-4c25-9ab5-6f5eeed9128e.jpg?v=1714666421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a magical winter wonderland into your home with the one and only, Duchess Flock. This artfully designed masterpiece features vibrant colors and intricate details, creating a unique, unforgettable centerpiece that delights and inspires holiday memories for years to come.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Flock</s:tag>
+    <s:tag>BLUEF-T6-5L</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Duchess</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_duchess</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4099307667520</id>
+      <title>6.5&apos; / Blue</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>BLUEF-T6-5L</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4099307601984</id>
+    <published>2019-10-11T11:53:42-04:00</published>
+    <updated>2019-10-11T11:53:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-pink-flock-tree-led"/>
+    <title>6.5&apos; Duchess Pink Flock Artificial Christmas Tree with 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Pink.Duchess.jpg?v=1718157841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a magical winter wonderland into your home with the one and only, Duchess Flock. This artfully designed masterpiece features vibrant colors and intricate details, creating a unique, unforgettable centerpiece that delights and inspires holiday memories for years to come.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Duchess</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Flock</s:tag>
+    <s:tag>PINKF-T6-5L</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_duchess</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4099307601984</id>
+      <title>6.5&apos; / Pink</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>PINKF-T6-5L</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706773733440</id>
+    <published>2019-05-16T15:50:50-04:00</published>
+    <updated>2019-05-16T15:50:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-foot-king-noble-fir-tree-unlit"/>
+    <title>6&apos; King Noble Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-3_6ef8cc7c-2ec1-4b6c-bb8f-11a658704624.jpg?v=1718158207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KNF-T6-U</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706773733440</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>KNF-T6-U</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+</feed>

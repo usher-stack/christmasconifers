@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/new-trending.atom"/>
+  <title>King of Christmas</title>
+  <updated>2026-07-01T12:36:12-04:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325452366024</id>
+    <published>2026-07-01T12:36:12-04:00</published>
+    <updated>2026-07-01T12:36:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-king-douglas-fir-tree-led"/>
+    <title>7.5&apos; King Douglas Fir Artificial Christmas Tree with 1000 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_KingDouglasFirArtificialChristmasTreeLED.png?v=1782849524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325452366024</id>
+      <title>7.5&apos; / Full / LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KDF-T7.5-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325455478984</id>
+    <published>2026-07-01T12:34:41-04:00</published>
+    <updated>2026-07-01T12:34:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-soho-spruce-tree-lux-led"/>
+    <title>7.5&apos; Soho Spruce Artificial Christmas Tree 2000 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/NewSohoSpruce.png?v=1783960631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the beauty of a real Siberian Spruce into your home with a tree designed to capture its naturally elegant shape. Featuring layered branches, fine spruce-inspired needles, and a realistic open profile, it creates exceptional depth and dimension while maintaining a full, balanced appearance. The thoughtfully spaced branches provide the perfect backdrop for ornaments to shine, delivering a timeless look that feels both natural and refined throughout the holiday season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Premium</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325455478984</id>
+      <title>Default Title</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>SHSP-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325455020232</id>
+    <published>2026-07-01T12:33:03-04:00</published>
+    <updated>2026-07-01T12:33:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-alpine-fir-tree-lux-led"/>
+    <title>7.5&apos; Alpine Fir Artificial Christmas Tree 2500 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/AlpineFirwithLuxLEDLights.png?v=1782850052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325455020232</id>
+      <title>7.5&apos; / Full / LUX LED</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>AFG-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325452038344</id>
+    <published>2026-07-01T12:31:47-04:00</published>
+    <updated>2026-07-01T12:31:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-king-noble-fir-tree-lux-led"/>
+    <title>7&apos; King Noble Fir™ Artificial Christmas Tree with 2000 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7_KingNobleFirLuxLED.jpg?v=1782849139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King Noble</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325452038344</id>
+      <title>7&apos; / Green / LUX LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KNF-T7-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325451546824</id>
+    <published>2026-07-01T12:31:02-04:00</published>
+    <updated>2026-07-01T12:31:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-tree-lux-led"/>
+    <title>7.5&apos; Queen Flock® Artificial Christmas Tree with 2500 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_QueenFlockArtificialChristmasTreeLux.jpg?v=1782848477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7500</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325451546824</id>
+      <title>7.5&apos; / Full / LUX LED</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku>QF-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325450694856</id>
+    <published>2026-07-01T12:30:29-04:00</published>
+    <updated>2026-07-01T12:30:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-slim-tree-lux-led"/>
+    <title>7.5&apos; Queen Flock® Slim Artificial Christmas Tree With 1800 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_QueenFlockSlimArtificialChristmasTreewith1800LuxLEDLights.jpg?v=1782847365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325450694856</id>
+      <title>7.5&apos; / Slim / LUX LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>QFS-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8250313638088</id>
+    <published>2025-10-31T12:21:16-04:00</published>
+    <updated>2025-10-31T12:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/4-5-windsor-tree-fir-led"/>
+    <title>4.5&apos; Windsor Fir Tree with 150 Warm White Twinkle LED Lights</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Windorfir.png?v=1786127497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring natural holiday charm to every corner of your home with our newest and most enchanting addition, The Windsor Collection. Designed with realistic foliage and graceful form, it shines as a beautiful accent to your main tree or a statement piece all its own. Effortless, classic, and full of Christmas spirit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>windsor_group</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8250313638088</id>
+      <title>4.5&apos; / Green</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>WNFR-T4.5-L</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8250163429576</id>
+    <published>2025-10-31T12:21:13-04:00</published>
+    <updated>2025-10-31T12:21:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/4-5-windsor-tree-flock-led"/>
+    <title>4.5&apos; Windsor Flock Tree with 150 Warm White Twinkle LED Lights</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Windsor_Main_Image.jpg?v=1765377801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serenity of freshly fallen snow indoors with our newest and most captivating addition yet, The Flocked Windsor Collection. This graceful accent tree adds a touch of wintry charm on its own or pairs beautifully with your centerpiece tree for a cohesive, magical display. A must-have for a cozy holiday atmosphere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>windsor_group</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8250163429576</id>
+      <title>4.5&apos; / Flock</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>WNFL-T4.5-L</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8246765584584</id>
+    <published>2025-10-22T15:51:10-04:00</published>
+    <updated>2025-10-22T15:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-silverpeak-fir-tree-led"/>
+    <title>7.5&apos; Silverpeak Fir™ Artificial Christmas Tree 3400 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Silverpeakfir.png?v=1761067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a world of holiday magic with the newest Silverpeak Fir, our most exquisitely crafted tree that transforms your home into a whimsical winter wonderland. Inspired by the majestic American White Fir, with every branch and needle meticulously designed to look impossibly real, you’d never believe it didn't come straight from the Rocky Mountains. Its full-bodied foliage, brilliant elegance, and layered shape create a breathtaking centerpiece that radiates warmth, joy, and festive charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Full</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Silverpeak Fir</s:tag>
+    <s:tag>ygroup_silverpeak</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8246765584584</id>
+      <title>7.5&apos;</title>
+      <s:price currency="USD">1199.00</s:price>
+      <s:sku>SLP-T7.5-L</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7620793860296</id>
+    <published>2023-11-28T11:34:03-05:00</published>
+    <updated>2023-11-28T11:34:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-pack-gold-accents"/>
+    <title>Gold Accents Glass Ornament Set (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Untitleddesign_17.png?v=1771956501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Gold Accents Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the memories that surround it.</p>
+<p>With 12 distinctively designed pieces offering an elegant blend of glamorous golds; this unique set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p>
+<p>*Pairs perfectly with our Silver Accents Ornament Set (12 Pack).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>JMF2K4E</s:tag>
+    <s:tag>ornamentrelated12</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7620793860296</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>JMF2K4E</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7620793467080</id>
+    <published>2023-10-25T07:30:54-04:00</published>
+    <updated>2023-10-25T07:30:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/15-pack-red-green-glass-ornament"/>
+    <title>Mistletoe 15-Piece Glass Ornament Set (Red-Green)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Mistletoecopy_1.png?v=1714674592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Limited Edition Mistletoe Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the memories that surround it.</p>
+<p>With 15 distinctly designed pieces offering a classic blend of red, green and gold; this beautiful set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DHC3M8C</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated15</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7620793467080</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>DHC3M8C</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7620793499848</id>
+    <published>2023-10-23T12:17:06-04:00</published>
+    <updated>2023-10-23T12:17:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/15-pack-silver-gold-glass-ornament"/>
+    <title>Mixed Metals 15-Piece Glass Ornament Set (Silver-Gold)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/MixedMetals15pieceglassornamentset.png?v=1714674598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Limited Edition Mistletoe Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the memories that surround it.</p>
+<p>With 15 distinctly designed pieces offering an elegant metallic blend of silvers and golds; this gorgeous set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JEJ9W8W</s:tag>
+    <s:tag>ornamentrelated15</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7620793499848</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>JEJ9W8W</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7606490562760</id>
+    <published>2023-09-24T13:22:39-04:00</published>
+    <updated>2023-09-24T13:22:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-tribeca-blue-spruce-slim-tree-led"/>
+    <title>9&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree with 650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/TribecaSlimLED_8cb54fa4-48ab-4757-9baf-84cc74f539ba.jpg?v=1722014311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T9-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7606490562760</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>TBS-SL-T9-L</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7590997065928</id>
+    <published>2023-08-10T08:50:36-04:00</published>
+    <updated>2023-08-10T08:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-prince-flock-pencil-tree-led"/>
+    <title>7&apos; Prince Flock® Pencil Artificial Christmas Tree with 400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/PrincePencilTreeLED.jpg?v=1786129938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serene beauty of a snow-dusted forest into your home with the Prince Flock. Designed to reflect the natural charm of a Subalpine Fir from the Rocky Mountains, its frosted needles and realistic shape evoke the tranquility of a winter landscape. Perfectly detailed, it becomes a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>PFP-T7-L</s:tag>
+    <s:tag>Prince Flock</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_princeflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7590997065928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>PFP-T7-L</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7444052050120</id>
+    <published>2022-10-05T22:48:44-04:00</published>
+    <updated>2022-10-05T22:48:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/sugar-berry-picks"/>
+    <title>Sugar Berry Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/RedWhiteBerryTree-2.jpg?v=1722012823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adding a splash of color to your holiday oasis is easy with a set of our faux Sugar Berry Picks. Studded with
+<br>red berries and featuring slight variations from branch to branch, these picks are the perfect accent for your
+<br>mantel, tabletop display, or anywhere else you need a touch of genuine seasonal ambiance. 12 picks are
+<br>included for endless possibilities!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>PK12-SUGB</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7444052050120</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>PK12-SUGB</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7444050608328</id>
+    <published>2022-10-05T22:48:41-04:00</published>
+    <updated>2022-10-05T22:48:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/rosegold-frozen-branch-picks"/>
+    <title>Rosegold Frozen Branch Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/KOC2022TreePickFlatLayFinal-21.jpg?v=1718159334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mix in a touch of icy wintry beauty with a set of our Rose Gold Frozen Branch Picks. With a metallic
+<br>ambiance highlighted by elegant splashes of rose gold, these picks inject that traditional glittery semblance into to your holiday décor, creating a shimmering atmosphere that sparks the best memories. 12 picks are
+<br>included for endless possibilities!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>PK12-ROSEG</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7444050608328</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>PK12-ROSEG</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7193367183560</id>
+    <published>2021-12-27T11:32:57-05:00</published>
+    <updated>2021-12-27T11:32:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-rushmore-flock-tree-led"/>
+    <title>7.5&apos; Rushmore Flock Artificial Christmas Tree 750 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/RushmoreFlockLED.jpg?v=1723214362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From the forests near Mt. Rushmore to the heart of your home, experience the timeless beauty of this majestic tree during the holidays. Expertly crafted to capture the beauty of the Ponderosa Pine, its layered branches and lifelike detail make it practically indistinguishable from the real tree. A striking centerpiece, it brings the genuine magic of the holiday season to your family traditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:6000</s:tag>
+    <s:tag>RUSFLOCK-T7.5-L</s:tag>
+    <s:tag>Rushmore</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_rushmore</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7193367183560</id>
+      <title>7.5&apos; / Flock / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>RUSFLOCK-T7.5-L</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7173944541384</id>
+    <published>2021-12-05T14:42:03-05:00</published>
+    <updated>2021-12-05T14:42:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-rushmore-fir-tree-led"/>
+    <title>7.5&apos; Rushmore Fir Artificial Christmas Tree 750 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/RushmoreFir.png?v=1722013356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From the forests near Mt. Rushmore to the heart of your home, experience the timeless beauty of this majestic tree during the holidays. Expertly crafted to capture the beauty of the Ponderosa Pine, its layered branches and lifelike detail make it practically indistinguishable from the real tree. A striking centerpiece, it brings the genuine magic of the holiday season to your family traditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7000</s:tag>
+    <s:tag>RUSF-T7.5-L</s:tag>
+    <s:tag>Rushmore</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_rushmore</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7173944541384</id>
+      <title>7.5&apos; / Green / LED</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku>RUSF-T7.5-L</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7171540975816</id>
+    <published>2021-12-03T14:17:30-05:00</published>
+    <updated>2021-12-03T14:17:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-king-noble-flock-tree-led"/>
+    <title>7&apos; King Noble Flock Artificial Christmas Tree with 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingNobleFlockLED.jpg?v=1723214176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KNFL-T7-L</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7171540975816</id>
+      <title>7&apos; / Flock / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KNFL-T7-L</s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6858956636360</id>
+    <published>2021-06-07T17:03:43-04:00</published>
+    <updated>2021-06-07T17:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-scarlet-fir-tree-led"/>
+    <title>7.5&apos; Scarlet Fir Artificial Christmas Tree with 800 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Scarlet-Fir-v2_258fd985-d3b0-45c7-a94b-c67d936baf09.jpg?v=1722013587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate the wonder of the season with the artfully crafted Scarlet Fir, thoughtfully designed to emulate the breathtaking beauty of the majestic Black Hills Spruce. Its realistic branches, true-to-life color, and delicate tips create an elegant, festive centerpiece that captures the charm of a real tree, without the upkeep. Make every holiday moment unforgettable with this stunning tree.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>Scarlet Fir</s:tag>
+    <s:tag>SF-T7.5-L</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_scarlit</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6858956636360</id>
+      <title>7.5&apos; / LED</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku>SF-T7.5-L</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4099307634752</id>
+    <published>2019-10-11T11:53:27-04:00</published>
+    <updated>2019-10-11T11:53:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-pink-flock-tree-led"/>
+    <title>7.5&apos; Duchess Pink Flock Artificial Christmas Tree with 600 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/Pink.Duchess_a8384dbd-fa30-4a3e-bf11-a02b344a79b9.jpg?v=1718158678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a magical winter wonderland into your home with the one and only, Duchess Flock. This artfully designed masterpiece features vibrant colors and intricate details, creating a unique, unforgettable centerpiece that delights and inspires holiday memories for years to come.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Duchess</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Flock</s:tag>
+    <s:tag>PINKF-T7-5L</s:tag>
+    <s:tag>refund_fee:5500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_duchess</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4099307634752</id>
+      <title>7.5&apos; / Pink</title>
+      <s:price currency="USD">449.00</s:price>
+      <s:sku>PINKF-T7-5L</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706767736896</id>
+    <published>2019-05-16T15:50:01-04:00</published>
+    <updated>2019-05-16T15:50:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-foot-prince-flock-tree-led"/>
+    <title>7&apos; Prince Flock® Artificial Christmas Tree with 400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/PrinceFlock_fa622227-8cc4-441c-b46e-a6f7c09044bd.jpg?v=1714675463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serene beauty of a snow-dusted forest into your home with the Prince Flock. Designed to reflect the natural charm of a Subalpine Fir from the Rocky Mountains, its frosted needles and realistic shape evoke the tranquility of a winter landscape. Perfectly detailed, it becomes a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>PF-T7-L</s:tag>
+    <s:tag>Prince Flock</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_princeflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706767736896</id>
+      <title>7&apos; / Full / LED</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>PF-T7-L</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+</feed>

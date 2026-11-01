@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/8-foot-artificial-christmas-trees.atom"/>
+  <title>King of Christmas</title>
+  <updated>2021-12-05T14:41:55-05:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7173923307720</id>
+    <published>2021-12-05T14:41:55-05:00</published>
+    <updated>2021-12-05T14:41:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-alpine-fir-tree-unlit"/>
+    <title>8&apos; Alpine Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/AlpineFirUnlit_e7bbaf38-94dc-4442-90d4-f2cbb34b58c1.jpg?v=1722886595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>AFG-T8-U</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:6000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7173923307720</id>
+      <title>8&apos; / Full / Unlit</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>AFG-T8-U</s:sku>
+      <s:grams>24040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6138989412552</id>
+    <published>2020-12-23T16:06:18-05:00</published>
+    <updated>2020-12-23T16:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-queen-flock-slim-tree-led"/>
+    <title>8&apos; Queen Flock® Slim Artificial Christmas Tree With 700 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_b6755209-8c14-4ff2-9200-f44d0f609b19.jpg?v=1722012680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020</s:tag>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T8-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6138989412552</id>
+      <title>8&apos; / Slim / LED</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku>QFS-T8-L</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706775339072</id>
+    <published>2019-05-16T15:51:03-04:00</published>
+    <updated>2019-05-16T15:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-tribeca-blue-spruce-tree-led"/>
+    <title>8&apos; Tribeca Blue Spruce Artificial Christmas Tree with 650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/TribecaSpruce_9435ba0f-6c63-4ca1-97ab-5e2cdca47270.jpg?v=1722014341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>TBS-T8-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706775339072</id>
+      <title>8&apos; / Full / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>TBS-T8-L</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706775240768</id>
+    <published>2019-05-16T15:51:02-04:00</published>
+    <updated>2019-05-16T15:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-tribeca-blue-spruce-tree-unlit"/>
+    <title>8&apos; Tribeca Blue Spruce Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/FlockedGroup-7_38d1a301-d01f-445c-b500-c0c3c60d9dc1.jpg?v=1718158867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>TBS-T8-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706775240768</id>
+      <title>8&apos; / Full / Unlit</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>TBS-T8-U</s:sku>
+      <s:grams>23133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706774388800</id>
+    <published>2019-05-16T15:50:55-04:00</published>
+    <updated>2019-05-16T15:50:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-king-noble-fir-tree-led"/>
+    <title>8&apos; King Noble Fir Artificial Christmas Tree with 600 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/King-Noble-Fir-v1_c095ac76-493d-4cf8-9b52-448d29b1df1b.png?v=1714672831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            659.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KNF-T8-L</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706774388800</id>
+      <title>8&apos; / Green / LED</title>
+      <s:price currency="USD">659.00</s:price>
+      <s:sku>KNF-T8-L</s:sku>
+      <s:grams>16783</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706774290496</id>
+    <published>2019-05-16T15:50:54-04:00</published>
+    <updated>2019-05-16T15:50:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-king-noble-fir-tree-unlit"/>
+    <title>8&apos; King Noble Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-3_9f3b6f73-20b3-43ae-8a1e-a6149a2169cb.jpg?v=1718158913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KNF-T8-U</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706774290496</id>
+      <title>8&apos; / Green / Unlit</title>
+      <s:price currency="USD">379.00</s:price>
+      <s:sku>KNF-T8-U</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706767900736</id>
+    <published>2019-05-16T15:50:02-04:00</published>
+    <updated>2019-05-16T15:50:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-prince-flock-tree-led"/>
+    <title>8&apos; Prince Flock® Artificial Christmas Tree with 550 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/PrinceFlock_5024a958-646c-4413-8cbb-72107e8ba72d.jpg?v=1714675448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serene beauty of a snow-dusted forest into your home with the Prince Flock. Designed to reflect the natural charm of a Subalpine Fir from the Rocky Mountains, its frosted needles and realistic shape evoke the tranquility of a winter landscape. Perfectly detailed, it becomes a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>PF-T8-L</s:tag>
+    <s:tag>Prince Flock</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_princeflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706767900736</id>
+      <title>8&apos; / Full / LED</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>PF-T8-L</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706767212608</id>
+    <published>2019-05-16T15:49:57-04:00</published>
+    <updated>2019-05-16T15:49:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-prince-flock-tree-unlit"/>
+    <title>8&apos; Prince Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-11_5e399119-a4fe-4d26-8c77-bde58886c97f.jpg?v=1718158952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serene beauty of a snow-dusted forest into your home with the Prince Flock. Designed to reflect the natural charm of a Subalpine Fir from the Rocky Mountains, its frosted needles and realistic shape evoke the tranquility of a winter landscape. Perfectly detailed, it becomes a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>PF-T8-U</s:tag>
+    <s:tag>Prince Flock</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_princeflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706767212608</id>
+      <title>8&apos; / Full / Unlit</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>PF-T8-U</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+</feed>

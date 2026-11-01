@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/queen-flock-trees.atom"/>
+  <title>King of Christmas</title>
+  <updated>2026-07-01T12:31:02-04:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325451546824</id>
+    <published>2026-07-01T12:31:02-04:00</published>
+    <updated>2026-07-01T12:31:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-tree-lux-led"/>
+    <title>7.5&apos; Queen Flock® Artificial Christmas Tree with 2500 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_QueenFlockArtificialChristmasTreeLux.jpg?v=1782848477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7500</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325451546824</id>
+      <title>7.5&apos; / Full / LUX LED</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku>QF-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/8325450694856</id>
+    <published>2026-07-01T12:30:29-04:00</published>
+    <updated>2026-07-01T12:30:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-slim-tree-lux-led"/>
+    <title>7.5&apos; Queen Flock® Slim Artificial Christmas Tree With 1800 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/7.5_QueenFlockSlimArtificialChristmasTreewith1800LuxLEDLights.jpg?v=1782847365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/8325450694856</id>
+      <title>7.5&apos; / Slim / LUX LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>QFS-T7.5-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605743530061</id>
+    <published>2026-03-01T10:56:35-05:00</published>
+    <updated>2026-03-01T10:56:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-queen-flock-slim-tree-led"/>
+    <title>12&apos; Queen Flock® Slim Artificial Christmas Tree With 1400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_037081ba-4227-46f2-b730-3258ae898b6d.jpg?v=1722012655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T12-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:30000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605743530061</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1799.00</s:price>
+      <s:sku>QFS-T12-L</s:sku>
+      <s:grams>34927</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706768883776</id>
+    <published>2026-02-23T12:08:44-05:00</published>
+    <updated>2026-02-23T12:08:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-queen-flock-tree-led"/>
+    <title>10&apos; Queen Flock® Artificial Christmas Tree with 1300 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlock_8290f7cc-4dda-4d7d-bfbf-bc58b0b18dbc.jpg?v=1722012625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>3box</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>QF-T10-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:25000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706768883776</id>
+      <title>10&apos; / Full / LED</title>
+      <s:price currency="USD">1599.00</s:price>
+      <s:sku>QF-T10-L</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706768359488</id>
+    <published>2025-12-26T08:25:40-05:00</published>
+    <updated>2025-12-26T08:25:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-queen-flock-tree-led"/>
+    <title>6.5&apos; Queen Flock® Artificial Christmas Tree with 750 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlock_7831fc2c-0c60-49cb-9368-a7127a8aaa1c.jpg?v=1722012623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QF-T6.5-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706768359488</id>
+      <title>6.5&apos; / Full / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>QF-T6.5-L</s:sku>
+      <s:grams>18144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605742710861</id>
+    <published>2025-12-15T14:12:30-05:00</published>
+    <updated>2025-12-15T14:12:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-queen-flock-slim-tree-led"/>
+    <title>6.5&apos; Queen Flock® Slim Artificial Christmas Tree With 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_c84ff106-7f3e-4126-b467-263d8999e7b5.jpg?v=1722012683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T6.5-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605742710861</id>
+      <title>6.5&apos; / Slim / LED</title>
+      <s:price currency="USD">449.00</s:price>
+      <s:sku>QFS-T6.5-L</s:sku>
+      <s:grams>14969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7175874379976</id>
+    <published>2021-12-07T15:53:33-05:00</published>
+    <updated>2021-12-07T15:53:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-queen-flock-tree-led"/>
+    <title>12&apos; Queen Flock® Artificial Christmas Tree with 1700 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlock_54b948c2-bd38-4770-ab52-2249424db152.jpg?v=1722012618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>5box</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QF-T12-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:50000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7175874379976</id>
+      <title>12&apos; / Full / LED</title>
+      <s:price currency="USD">2599.00</s:price>
+      <s:sku>QF-T12-L</s:sku>
+      <s:grams>34473</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/7174185025736</id>
+    <published>2021-12-05T17:09:42-05:00</published>
+    <updated>2021-12-05T17:09:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-queen-flock-tree-unlit"/>
+    <title>10&apos; Queen Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-5_9ef11c71-64ab-4a00-9891-2b70b338751f.jpg?v=1718158243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>3box</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QF-T10-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:25000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/7174185025736</id>
+      <title>10&apos; / Full / Unlit</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>QF-T10-U</s:sku>
+      <s:grams>25401</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605742907469</id>
+    <published>2021-07-02T14:03:46-04:00</published>
+    <updated>2021-07-02T14:03:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-slim-tree-led"/>
+    <title>7.5&apos; Queen Flock® Slim Artificial Christmas Tree With 650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_d8e32bdd-7505-4f94-9917-017201397331.jpg?v=1722012684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>QFS-T7.5-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605742907469</id>
+      <title>7.5&apos; / Slim / LED</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>QFS-T7.5-L</s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706768588864</id>
+    <published>2021-07-02T14:03:33-04:00</published>
+    <updated>2021-07-02T14:03:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-tree-led"/>
+    <title>7.5&apos; Queen Flock® Artificial Christmas Tree with 800 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlock_27cc53c6-965e-42b2-aec7-3712ea7dcff9.jpg?v=1722012616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>QF-T7.5-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706768588864</id>
+      <title>7.5&apos; / Full / LED</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku>QF-T7.5-L</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706768195648</id>
+    <published>2021-07-02T14:02:22-04:00</published>
+    <updated>2021-07-02T14:02:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-queen-flock-tree-unlit"/>
+    <title>6.5&apos; Queen Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-5_67d3c5cc-8f63-4646-82b6-ac5667cde3ad.jpg?v=1718158334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QF-T6.5-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706768195648</id>
+      <title>6.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>QF-T6.5-U</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/6138989412552</id>
+    <published>2020-12-23T16:06:18-05:00</published>
+    <updated>2020-12-23T16:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/8-foot-queen-flock-slim-tree-led"/>
+    <title>8&apos; Queen Flock® Slim Artificial Christmas Tree With 700 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_b6755209-8c14-4ff2-9200-f44d0f609b19.jpg?v=1722012680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020</s:tag>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T8-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/6138989412552</id>
+      <title>8&apos; / Slim / LED</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku>QFS-T8-L</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605743267917</id>
+    <published>2020-04-27T17:42:44-04:00</published>
+    <updated>2020-04-27T17:42:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-queen-flock-slim-tree-led"/>
+    <title>9&apos; Queen Flock® Slim Artificial Christmas Tree With 900 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlockSlim_7f592cdb-6901-4dbc-aea6-a3de3bcd67c8.jpg?v=1722012682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020</s:tag>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>QFS-T9-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605743267917</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>QFS-T9-L</s:sku>
+      <s:grams>29030</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605743104077</id>
+    <published>2020-04-27T17:42:42-04:00</published>
+    <updated>2020-04-27T17:42:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-queen-flock-slim-tree-unlit"/>
+    <title>9&apos; Queen Flock® Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-2_754faaf2-25fc-4924-8c61-c4e855c03392.jpg?v=1718159068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020</s:tag>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T9-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605743104077</id>
+      <title>9&apos; / Slim / Unlit</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>QFS-T9-U</s:sku>
+      <s:grams>25401</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605742776397</id>
+    <published>2020-04-27T17:42:38-04:00</published>
+    <updated>2020-04-27T17:42:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-slim-tree-unlit"/>
+    <title>7.5&apos; Queen Flock® Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-2.jpg?v=1718158781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020</s:tag>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T7.5-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605742776397</id>
+      <title>7.5&apos; / Slim / Unlit</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>QFS-T7.5-U</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/4605742612557</id>
+    <published>2020-04-27T17:42:34-04:00</published>
+    <updated>2020-04-27T17:42:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-queen-flock-slim-tree-unlit"/>
+    <title>6.5&apos; Queen Flock® Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-2_561525bc-2862-4ea3-818a-54d2e7d8e62d.jpg?v=1718158410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>QFS-T6.5-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/4605742612557</id>
+      <title>6.5&apos; / Slim / Unlit</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>QFS-T6.5-U</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3805855219776</id>
+    <published>2019-06-06T15:39:48-04:00</published>
+    <updated>2019-06-06T15:39:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-queen-flock-tree-unlit"/>
+    <title>9&apos; Queen Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-5_355ee261-f352-4da2-bf47-1e8f7ccee017.jpg?v=1718159039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QF-T9-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:10000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3805855219776</id>
+      <title>9&apos; / Full / Unlit</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku>QF-T9-U</s:sku>
+      <s:grams>20865</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706768785472</id>
+    <published>2019-05-16T15:50:11-04:00</published>
+    <updated>2019-05-16T15:50:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-queen-flock-tree-led"/>
+    <title>9&apos; Queen Flock® Artificial Christmas Tree with 1100 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/QueenFlock_570c2957-702c-4393-95f3-99e0455c528e.jpg?v=1722012619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2box</s:tag>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>QF-T9-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:17000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706768785472</id>
+      <title>9&apos; / Full / LED</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>QF-T9-L</s:sku>
+      <s:grams>27669</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706768490560</id>
+    <published>2019-05-16T15:50:08-04:00</published>
+    <updated>2019-05-16T15:50:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-queen-flock-tree-unlit"/>
+    <title>7.5&apos; Queen Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-5.jpg?v=1718158615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>QF-T7.5-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706768490560</id>
+      <title>7.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>QF-T7.5-U</s:sku>
+      <s:grams>21772</s:grams>
+    </s:variant>
+  </entry>
+</feed>

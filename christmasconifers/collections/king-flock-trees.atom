@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kingofchristmas.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kingofchristmas.com/collections/king-flock-trees.atom"/>
+  <title>King of Christmas</title>
+  <updated>2026-01-26T18:42:15-05:00</updated>
+  <author>
+    <name>King of Christmas</name>
+  </author>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706771701824</id>
+    <published>2026-01-26T18:42:15-05:00</published>
+    <updated>2026-01-26T18:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-king-flock-tree-led"/>
+    <title>10&apos; King Flock® Artificial Christmas Tree with 1250 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlock.jpg?v=1714673347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>KF-T10-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:27000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706771701824</id>
+      <title>10&apos; / Full / LED</title>
+      <s:price currency="USD">1399.00</s:price>
+      <s:sku>KF-T10-L</s:sku>
+      <s:grams>29937</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706770751552</id>
+    <published>2021-07-02T14:03:35-04:00</published>
+    <updated>2021-07-02T14:03:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-king-flock-tree-led"/>
+    <title>7.5&apos; King Flock® Artificial Christmas Tree with 800 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlock_8d5edfa3-23b9-49bf-b2bd-9dca13ac9375.jpg?v=1714673355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T7.5-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:6000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706770751552</id>
+      <title>7.5&apos; / Full / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KF-T7.5-L</s:sku>
+      <s:grams>21772</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706770587712</id>
+    <published>2021-07-02T14:03:34-04:00</published>
+    <updated>2021-07-02T14:03:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-king-flock-tree-unlit"/>
+    <title>7.5&apos; King Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/king-flock-artificial-christmas-tree_36525e9c-27ba-46fb-b73f-75e48db45eb8.jpg?v=1718158692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T7.5-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706770587712</id>
+      <title>7.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>KF-T7.5-U</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706769342528</id>
+    <published>2021-07-02T14:03:34-04:00</published>
+    <updated>2021-07-02T14:03:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-king-flock-slim-tree-led"/>
+    <title>7.5&apos; King Flock® Slim Artificial Christmas Tree with 650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlockSlim_b2208eb9-116f-4bbb-8a55-3ac045ff327e.jpg?v=1714673454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T7.5-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706769342528</id>
+      <title>7.5&apos; / Slim / LED</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>KFS-T7.5-L</s:sku>
+      <s:grams>21772</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3800636981312</id>
+    <published>2021-07-02T14:01:11-04:00</published>
+    <updated>2021-07-02T14:01:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-king-flock-tree-led"/>
+    <title>12&apos; King Flock® Artificial Christmas Tree with 1650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlock_89f41dd8-9a44-41fb-8862-ab71fe91bba1.jpg?v=1714673353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box3</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T12-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:47000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3800636981312</id>
+      <title>12&apos; / Full / LED</title>
+      <s:price currency="USD">2499.00</s:price>
+      <s:sku>KF-T12-L</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3800636915776</id>
+    <published>2021-07-02T14:01:10-04:00</published>
+    <updated>2021-07-02T14:01:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-king-flock-tree-unlit"/>
+    <title>12&apos; King Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/king-flock-artificial-christmas-tree_bf606b19-f46d-4ff9-856b-6b818aa90968.jpg?v=1718157885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box4</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T12-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:37000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3800636915776</id>
+      <title>12&apos; / Full / Unlit</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku>KF-T12-U</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706770063424</id>
+    <published>2021-07-02T14:01:06-04:00</published>
+    <updated>2021-07-02T14:01:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-king-flock-slim-tree-led"/>
+    <title>12&apos; King Flock® Slim Artificial Christmas Tree with 1250 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlockSlim_3b633f57-a093-4cad-ad9d-b9ee49c0cf07.jpg?v=1714673451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box3</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T12-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:47000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706770063424</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1599.00</s:price>
+      <s:sku>KFS-T12-L</s:sku>
+      <s:grams>26762</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706769768512</id>
+    <published>2021-07-02T14:01:05-04:00</published>
+    <updated>2021-07-02T14:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/10-foot-king-flock-slim-tree-led"/>
+    <title>10&apos; King Flock® Slim Artificial Christmas Tree with 1000 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlockSlim_b8d17273-08da-471b-ad66-a17709fa274d.jpg?v=1714673456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T10-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:30000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706769768512</id>
+      <title>10&apos; / Slim / LED</title>
+      <s:price currency="USD">1099.00</s:price>
+      <s:sku>KFS-T10-L</s:sku>
+      <s:grams>22226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706771472448</id>
+    <published>2019-05-16T15:50:30-04:00</published>
+    <updated>2019-05-16T15:50:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-king-flock-tree-led"/>
+    <title>9&apos; King Flock® Artificial Christmas Tree with 1100 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlock_fa57f85a-e2a6-4c97-890c-65a451ccd556.jpg?v=1714673362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T9-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:17000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706771472448</id>
+      <title>9&apos; / Full / LED</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku>KF-T9-L</s:sku>
+      <s:grams>26762</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706771308608</id>
+    <published>2019-05-16T15:50:29-04:00</published>
+    <updated>2019-05-16T15:50:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-king-flock-tree-unlit"/>
+    <title>9&apos; King Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/king-flock-artificial-christmas-tree_417eaa9e-64d5-420b-9f9e-0532d1464aef.jpg?v=1718159080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T9-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:9500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706771308608</id>
+      <title>9&apos; / Full / Unlit</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>KF-T9-U</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706770391104</id>
+    <published>2019-05-16T15:50:24-04:00</published>
+    <updated>2019-05-16T15:50:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-king-flock-tree-led"/>
+    <title>6.5&apos; King Flock® Artificial Christmas Tree with 600 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlock_ebe75cbb-ea05-4fc5-9bd7-ab8b65a4fa99.jpg?v=1714673358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T6.5-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706770391104</id>
+      <title>6.5&apos; / Full / LED</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>KF-T6.5-L</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706770227264</id>
+    <published>2019-05-16T15:50:23-04:00</published>
+    <updated>2019-05-16T15:50:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-king-flock-tree-unlit"/>
+    <title>6.5&apos; King Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/king-flock-artificial-christmas-tree_ce57b97c-8ed9-4b63-ad5f-a680729c1e8c.jpg?v=1718158578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T6.5-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706770227264</id>
+      <title>6.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>KF-T6.5-U</s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706769834048</id>
+    <published>2019-05-16T15:50:21-04:00</published>
+    <updated>2019-05-16T15:50:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/12-foot-king-flock-slim-tree-unlit"/>
+    <title>12&apos; King Flock® Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/King-flock-slim.png?v=1655154264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box3</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T12-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:37000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706769834048</id>
+      <title>12&apos; / Slim / Unlit</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>KFS-T12-U</s:sku>
+      <s:grams>26762</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706769506368</id>
+    <published>2019-05-16T15:50:18-04:00</published>
+    <updated>2019-05-16T15:50:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-king-flock-slim-tree-led"/>
+    <title>9&apos; King Flock® Slim Artificial Christmas Tree with 900 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlockSlim_75ca9054-4438-4cb7-8f01-f0b3c6b36b67.jpg?v=1714673452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Designtrade</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T9-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706769506368</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>KFS-T9-L</s:sku>
+      <s:grams>29937</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706769440832</id>
+    <published>2019-05-16T15:50:17-04:00</published>
+    <updated>2019-05-16T15:50:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/9-foot-king-flock-slim-tree-unlit"/>
+    <title>9&apos; King Flock® Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-4_f294daff-b7c9-4c98-a20e-3d3c08a07b0b.jpg?v=1718159089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T9-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:6000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706769440832</id>
+      <title>9&apos; / Slim / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>KFS-T9-U</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706769178688</id>
+    <published>2019-05-16T15:50:15-04:00</published>
+    <updated>2019-05-16T15:50:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/7-5-foot-king-flock-slim-tree-unlit"/>
+    <title>7.5&apos; King Flock® Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-4.jpg?v=1718158497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T7.5-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706769178688</id>
+      <title>7.5&apos; / Slim / Unlit</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>KFS-T7.5-U</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706769047616</id>
+    <published>2019-05-16T15:50:14-04:00</published>
+    <updated>2019-05-16T15:50:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-king-flock-slim-tree-led"/>
+    <title>6.5&apos; King Flock® Slim Artificial Christmas Tree with 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/files/KingFlockSlim_d22f2bae-9586-452c-b63e-6bf6f63a60ad.jpg?v=1714673459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T6.5-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706769047616</id>
+      <title>6.5&apos; / Slim / LED</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>KFS-T6.5-L</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kingofchristmas.com/products/3706768982080</id>
+    <published>2019-05-16T15:50:13-04:00</published>
+    <updated>2019-05-16T15:50:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kingofchristmas.com/products/6-5-foot-king-flock-slim-tree-unlit"/>
+    <title>6.5&apos; King Flock® Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>King of Christmas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0130/8226/3616/products/FlockedGroup-4_e7d10a3a-8506-4193-a238-f2c4735477fb.jpg?v=1718158125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Christmas<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T6.5-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>https://www.kingofchristmas.com/products/3706768982080</id>
+      <title>6.5&apos; / Slim / Unlit</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>KFS-T6.5-U</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+</feed>

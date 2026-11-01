@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#4D5D45">
+  <title>Store admin</title>
+  <link href="cdn/shop/t/276/assets/base1dcb.css" rel="stylesheet">
+  <link href="cdn/shop/t/276/assets/custom94c5.css" rel="stylesheet">
+  <style>
+    body.admin-page { min-height: 100vh; padding: 36px 20px; background: #f5f5ef; color: #252820; }
+    .admin-page main { max-width: 1160px; margin: 0 auto; }
+    .admin-toolbar { padding-bottom: 20px; border-bottom: 1px solid #dfe3d9; }
+    .admin-toolbar h1 { margin: 0; color: #27392d; font-size: clamp(1.8rem, 3vw, 2.5rem); letter-spacing: -.035em; }
+    .admin-toolbar > a { flex: 0 0 auto; }
+    .admin-panel { min-width: 0; margin: 0; padding: clamp(20px, 3vw, 30px); border: 1px solid #e1e4dc; border-radius: 16px; background: #fff; box-shadow: 0 8px 26px #26352b0b; }
+    .admin-panel[hidden] { display: none; }
+    .admin-panel h2 { margin: 0 0 8px; color: #2c4031; font-size: 1.35rem; letter-spacing: -.02em; }
+    .admin-panel > p { color: #667064; line-height: 1.6; }
+    #login-panel { max-width: 680px; margin: 26px auto 0; }
+    #dashboard { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1.4fr); gap: 20px; margin-top: 24px; }
+    #dashboard[hidden] { display: none; }
+    #dashboard > section:nth-child(3) { grid-column: 1 / -1; }
+    #dashboard > #logout { justify-self: start; }
+    .admin-field { display: grid; gap: 8px; margin: 18px 0; color: #39453a; font-size: .94rem; font-weight: 600; }
+    .admin-field input, #orders select { width: 100%; min-height: 46px; padding: 10px 12px; border: 1px solid #cfd6cb; border-radius: 8px; background: #fff; color: #252820; font: inherit; }
+    .admin-field input:focus, #orders select:focus { border-color: #4d5d45; outline: 3px solid #4d5d4526; }
+    .admin-page .button { min-height: 44px; padding: 10px 18px; border-radius: 8px; font-weight: 650; transition: transform .18s ease, box-shadow .18s ease; }
+    .admin-page .button:hover { transform: translateY(-1px); box-shadow: 0 5px 14px #25392c20; }
+    .admin-table-wrap { overflow-x: auto; margin-top: 16px; border: 1px solid #e3e7df; border-radius: 10px; }
+    .admin-page table { width: 100%; min-width: 680px; border-collapse: collapse; }
+    .admin-page th, .admin-page td { padding: 14px 16px; border-bottom: 1px solid #e8ebe5; text-align: left; vertical-align: middle; }
+    .admin-page th { background: #f4f6f1; color: #536050; font-size: .76rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+    .admin-page tbody tr:last-child td { border-bottom: 0; }
+    .admin-page tbody tr:hover { background: #fbfcf9; }
+    .admin-order { margin-top: 14px; padding: 18px; border: 1px solid #e4e9e1; border-radius: 11px; background: #fbfcf9; }
+    .admin-order h3 { margin: 0 0 5px; color: #2c4031; font-size: 1.05rem; }
+    .admin-order p { margin: 0 0 12px; color: #72796f; font-size: .9rem; }
+    .admin-order ul { display: grid; gap: 6px; padding-left: 20px; color: #41483f; line-height: 1.5; }
+    .admin-order strong { display: inline-block; margin: 8px 0 14px; color: #2c4031; }
+    .admin-message { min-height: 1.5em; margin: 12px 0 0; color: #4d5d45; font-weight: 600; }
+    .admin-message:empty { min-height: 0; }
+    .admin-page :focus-visible { outline: 3px solid #8ca27d; outline-offset: 3px; }
+    @media (max-width: 760px) {
+      body.admin-page { padding: 22px 14px; }
+      #dashboard { grid-template-columns: 1fr; gap: 14px; }
+      #dashboard > section:nth-child(3) { grid-column: auto; }
+      .admin-panel { padding: 20px; }
+    }
+    @media (max-width: 480px) {
+      .admin-toolbar { align-items: flex-start; flex-direction: column; }
+      .admin-toolbar > a { width: 100%; justify-content: center; }
+      .admin-panel { padding: 17px; }
+      #dashboard .admin-toolbar { flex-direction: row; align-items: center; }
+    }
+  </style>
+</head>
+<body class="admin-page">
+  <main>
+    <header class="admin-toolbar">
+      <h1>Store admin</h1>
+      <a class="button button--secondary" href="index.html">View storefront</a>
+    </header>
+    <p class="admin-message" id="admin-message" role="status" aria-live="polite"></p>
+
+    <section class="admin-panel" id="login-panel">
+      <h2>Administrator sign in</h2>
+      <p>Use the administrator password printed in the server terminal when the local server starts.</p>
+      <form id="login-form">
+        <label class="admin-field">Administrator password
+          <input name="password" type="password" autocomplete="current-password" required>
+        </label>
+        <button class="button button--primary" type="submit">Sign in</button>
+      </form>
+    </section>
+
+    <div id="dashboard" hidden>
+      <section class="admin-panel">
+        <h2>WhatsApp order settings</h2>
+        <p>Enter the business WhatsApp number including its international country code. Only digits are saved.</p>
+        <form id="settings-form">
+          <label class="admin-field">WhatsApp number
+            <input name="whatsappNumber" type="tel" inputmode="tel" autocomplete="tel" placeholder="Example: 14155550123">
+          </label>
+          <button class="button button--primary" type="submit">Save WhatsApp number</button>
+        </form>
+      </section>
+
+      <section class="admin-panel">
+        <div class="admin-toolbar">
+          <h2>Customer orders</h2>
+          <button class="button button--secondary" type="button" id="refresh-orders">Refresh</button>
+        </div>
+        <div id="orders"></div>
+      </section>
+
+      <section class="admin-panel">
+        <h2>Customer accounts</h2>
+        <div class="admin-table-wrap">
+          <table>
+            <thead><tr><th>Name</th><th>Email</th><th>Phone</th><th>Status</th><th>Action</th></tr></thead>
+            <tbody id="accounts"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <button class="button button--secondary" type="button" id="logout">Sign out</button>
+    </div>
+  </main>
+
+  <script>
+    const message = document.querySelector('#admin-message');
+    const loginPanel = document.querySelector('#login-panel');
+    const dashboard = document.querySelector('#dashboard');
+
+    async function request(url, options = {}) {
+      const response = await fetch(url, {
+        ...options,
+        headers: { 'Content-Type': 'application/json', ...(options.headers || {}) }
+      });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || `Request failed (${response.status}).`);
+      return result;
+    }
+
+    function showError(error) {
+      message.textContent = error.message;
+    }
+
+    async function loadDashboard() {
+      const [ordersResult, accountsResult, config] = await Promise.all([
+        request('/api/admin/orders'),
+        request('/api/admin/accounts'),
+        request('/api/config')
+      ]);
+      loginPanel.hidden = true;
+      dashboard.hidden = false;
+      document.querySelector('#settings-form [name="whatsappNumber"]').value = config.whatsappNumber || '';
+      renderOrders(ordersResult.orders);
+      renderAccounts(accountsResult.accounts);
+      message.textContent = '';
+    }
+
+    function renderOrders(orders) {
+      const container = document.querySelector('#orders');
+      container.replaceChildren();
+      if (!orders.length) {
+        container.textContent = 'No orders have been submitted.';
+        return;
+      }
+      for (const order of orders) {
+        const article = document.createElement('article');
+        article.className = 'admin-order';
+        const heading = document.createElement('h3');
+        heading.textContent = `Order ${order.id} — ${order.status}`;
+        const date = document.createElement('p');
+        date.textContent = new Date(order.createdAt).toLocaleString();
+        const list = document.createElement('ul');
+        for (const item of order.items) {
+          const line = document.createElement('li');
+          line.textContent = `${item.title} × ${item.quantity} — ${new Intl.NumberFormat(undefined, { style: 'currency', currency: item.currency }).format(item.price * item.quantity)}`;
+          list.append(line);
+        }
+        const total = document.createElement('strong');
+        total.textContent = `Total: ${new Intl.NumberFormat(undefined, { style: 'currency', currency: order.currency }).format(order.total)}`;
+        const status = document.createElement('select');
+        status.setAttribute('aria-label', `Status for order ${order.id}`);
+        for (const value of ['pending', 'approved', 'declined', 'completed']) {
+          const option = document.createElement('option');
+          option.value = value;
+          option.textContent = value;
+          option.selected = value === order.status;
+          status.append(option);
+        }
+        status.addEventListener('change', async () => {
+          try {
+            await request(`/api/admin/orders/${encodeURIComponent(order.id)}`, {
+              method: 'PATCH',
+              body: JSON.stringify({ status: status.value })
+            });
+            message.textContent = `Order ${order.id} updated.`;
+          } catch (error) {
+            showError(error);
+          }
+        });
+        article.append(heading, date, list, total, document.createElement('br'), status);
+        container.append(article);
+      }
+    }
+
+    function renderAccounts(accounts) {
+      const tbody = document.querySelector('#accounts');
+      tbody.replaceChildren();
+      if (!accounts.length) {
+        const row = tbody.insertRow();
+        const cell = row.insertCell();
+        cell.colSpan = 5;
+        cell.textContent = 'No customer accounts have been created.';
+        return;
+      }
+      for (const account of accounts) {
+        const row = tbody.insertRow();
+        row.insertCell().textContent = account.name;
+        row.insertCell().textContent = account.email;
+        row.insertCell().textContent = `${account.countryCode} ${account.phone} (${account.country})`;
+        row.insertCell().textContent = account.status;
+        const action = row.insertCell();
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'button button--secondary';
+        button.textContent = account.status === 'active' ? 'Suspend' : 'Restore';
+        button.addEventListener('click', async () => {
+          const status = account.status === 'active' ? 'suspended' : 'active';
+          try {
+            await request(`/api/admin/accounts/${encodeURIComponent(account.id)}`, {
+              method: 'PATCH',
+              body: JSON.stringify({ status })
+            });
+            await loadDashboard();
+            message.textContent = `Account ${account.email} ${status}.`;
+          } catch (error) {
+            showError(error);
+          }
+        });
+        action.append(button);
+      }
+    }
+
+    document.querySelector('#login-form').addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const password = new FormData(event.currentTarget).get('password');
+      try {
+        await request('/api/admin/login', {
+          method: 'POST',
+          body: JSON.stringify({ password })
+        });
+        await loadDashboard();
+      } catch (error) {
+        showError(error);
+      }
+    });
+
+    document.querySelector('#settings-form').addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const whatsappNumber = new FormData(event.currentTarget).get('whatsappNumber');
+      try {
+        await request('/api/admin/config', {
+          method: 'PUT',
+          body: JSON.stringify({ whatsappNumber })
+        });
+        message.textContent = 'WhatsApp settings saved.';
+      } catch (error) {
+        showError(error);
+      }
+    });
+
+    document.querySelector('#refresh-orders').addEventListener('click', async () => {
+      try {
+        await loadDashboard();
+      } catch (error) {
+        showError(error);
+      }
+    });
+
+    document.querySelector('#logout').addEventListener('click', async () => {
+      try {
+        await request('/api/admin/logout', { method: 'POST', body: '{}' });
+        dashboard.hidden = true;
+        loginPanel.hidden = false;
+        message.textContent = 'Signed out.';
+      } catch (error) {
+        showError(error);
+      }
+    });
+
+    loadDashboard().catch((error) => {
+      if (error.message.includes('Sign in as an administrator')) {
+        loginPanel.hidden = false;
+        dashboard.hidden = true;
+      } else {
+        showError(error);
+      }
+    });
+  </script>
+</body>
+</html>
