@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/tribeca-spruce-trees.atom"/>
+  <title>Carol's Christmas Conifers</title>
+  <updated>2026-01-01T18:55:22-05:00</updated>
+  <author>
+    <name>Carol's Christmas Conifers</name>
+  </author>
+  <entry>
+    <id>/products/7606490038472</id>
+    <published>2026-01-01T18:55:22-05:00</published>
+    <updated>2026-01-01T18:55:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-foot-tribeca-blue-spruce-slim-tree-unlit"/>
+    <title>7&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSlimUnlit.jpg?v=1722014316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T7-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/7606490038472</id>
+      <title>7&apos; / Slim / Unlit</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>TBS-SL-T7-U</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7606490202312</id>
+    <published>2025-12-25T08:47:32-05:00</published>
+    <updated>2025-12-25T08:47:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-foot-tribeca-blue-spruce-slim-tree-led"/>
+    <title>7&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree with 400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSlimLED.jpg?v=1722014307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T7-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/7606490202312</id>
+      <title>7&apos; / Slim / LED</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>TBS-SL-T7-L</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706775568448</id>
+    <published>2025-11-23T07:59:30-05:00</published>
+    <updated>2025-11-23T07:59:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-tribeca-blue-spruce-tree-led"/>
+    <title>9&apos; Tribeca Blue Spruce Artificial Christmas Tree with 900 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSpruce_292db51c-f21d-4222-84b5-b2fd638c195e.jpg?v=1722014337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:5500</s:tag>
+    <s:tag>TBS-T9-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/3706775568448</id>
+      <title>9&apos; / Full / LED</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>TBS-T9-L</s:sku>
+      <s:grams>32205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7606490562760</id>
+    <published>2023-09-24T13:22:39-04:00</published>
+    <updated>2023-09-24T13:22:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-tribeca-blue-spruce-slim-tree-led"/>
+    <title>9&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree with 650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSlimLED_8cb54fa4-48ab-4757-9baf-84cc74f539ba.jpg?v=1722014311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T9-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/7606490562760</id>
+      <title>9&apos; / Slim / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>TBS-SL-T9-L</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7606490529992</id>
+    <published>2023-09-24T13:22:37-04:00</published>
+    <updated>2023-09-24T13:22:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-tribeca-blue-spruce-slim-tree-unlit"/>
+    <title>9&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSlimUnlit_4de9bb03-b044-4fc6-a7e0-36b7b34619cf.jpg?v=1722014318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T9-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/7606490529992</id>
+      <title>9&apos; / Slim / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>TBS-SL-T9-U</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7606490464456</id>
+    <published>2023-09-24T13:22:35-04:00</published>
+    <updated>2023-09-24T13:22:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/8-foot-tribeca-blue-spruce-slim-tree-led"/>
+    <title>8&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree with 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSlimLED_3e9fcaff-8935-41a3-8ba6-3e6d4005bea5.jpg?v=1722014308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T8-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/7606490464456</id>
+      <title>8&apos; / Slim / LED</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>TBS-SL-T8-L</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7606490300616</id>
+    <published>2023-09-24T13:22:33-04:00</published>
+    <updated>2023-09-24T13:22:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/8-foot-tribeca-blue-spruce-slim-tree-unlit"/>
+    <title>8&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSlimUnlit_6d3951ef-c0ce-42e3-90a0-faadd28960c5.jpg?v=1722014321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            339.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T8-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/7606490300616</id>
+      <title>8&apos; / Slim / Unlit</title>
+      <s:price currency="USD">339.00</s:price>
+      <s:sku>TBS-SL-T8-U</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706775175232</id>
+    <published>2021-07-02T14:03:39-04:00</published>
+    <updated>2021-07-02T14:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-foot-tribeca-blue-spruce-tree-led"/>
+    <title>7&apos; Tribeca Blue Spruce Artificial Christmas Tree with 550 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSpruce.jpg?v=1722014323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>TBS-T7-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/3706775175232</id>
+      <title>7&apos; / Full / LED</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku>TBS-T7-L</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706775339072</id>
+    <published>2019-05-16T15:51:03-04:00</published>
+    <updated>2019-05-16T15:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/8-foot-tribeca-blue-spruce-tree-led"/>
+    <title>8&apos; Tribeca Blue Spruce Artificial Christmas Tree with 650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSpruce_9435ba0f-6c63-4ca1-97ab-5e2cdca47270.jpg?v=1722014341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>TBS-T8-L</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/3706775339072</id>
+      <title>8&apos; / Full / LED</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>TBS-T8-L</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706775240768</id>
+    <published>2019-05-16T15:51:02-04:00</published>
+    <updated>2019-05-16T15:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/8-foot-tribeca-blue-spruce-tree-unlit"/>
+    <title>8&apos; Tribeca Blue Spruce Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/FlockedGroup-7_38d1a301-d01f-445c-b500-c0c3c60d9dc1.jpg?v=1718158867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>TBS-T8-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/3706775240768</id>
+      <title>8&apos; / Full / Unlit</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>TBS-T8-U</s:sku>
+      <s:grams>23133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706775109696</id>
+    <published>2019-05-16T15:51:00-04:00</published>
+    <updated>2019-05-16T15:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-foot-tribeca-blue-spruce-tree-unlit"/>
+    <title>7&apos; Tribeca Blue Spruce Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/FlockedGroup-7_6c9c086e-64f5-4fa3-a9cb-87024542db20.jpg?v=1718158603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>TBS-T7-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/3706775109696</id>
+      <title>7&apos; / Full / Unlit</title>
+      <s:price currency="USD">259.00</s:price>
+      <s:sku>TBS-T7-U</s:sku>
+      <s:grams>17237</s:grams>
+    </s:variant>
+  </entry>
+</feed>

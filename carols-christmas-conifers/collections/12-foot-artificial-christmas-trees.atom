@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/12-foot-artificial-christmas-trees.atom"/>
+  <title>Carol's Christmas Conifers</title>
+  <updated>2026-03-01T10:56:35-05:00</updated>
+  <author>
+    <name>Carol's Christmas Conifers</name>
+  </author>
+  <entry>
+    <id>/products/4605743530061</id>
+    <published>2026-03-01T10:56:35-05:00</published>
+    <updated>2026-03-01T10:56:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-queen-flock-slim-tree-led"/>
+    <title>12&apos; Queen Flock® Slim Artificial Christmas Tree With 1400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/QueenFlockSlim_037081ba-4227-46f2-b730-3258ae898b6d.jpg?v=1722012655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QFS-T12-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:30000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>/products/4605743530061</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1799.00</s:price>
+      <s:sku>QFS-T12-L</s:sku>
+      <s:grams>34927</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7190440935624</id>
+    <published>2026-03-01T10:54:52-05:00</published>
+    <updated>2026-03-01T10:54:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-fraser-fir-tree-led"/>
+    <title>12&apos; King Fraser Fir Artificial Christmas Tree with 3000 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/King-Fraser-Fir-Full-v2_8e58e876-8680-47cf-87c7-5f183c358d8c.jpg?v=1718158350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            2899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate the holiday season with the natural splendor of the Appalachian Mountains brought right into your home with the King Fraser Fir. Designed to mirror the majestic Fraser Fir, its lush foliage and classic conical shape really captures the authenticity of a real tree. Find the perfect size for your space and enjoy a holiday season full of lifelike charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KFF-T12-L</s:tag>
+    <s:tag>King Fraser Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:47500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_fraserfir</s:tag>
+    <s:variant>
+      <id>/products/7190440935624</id>
+      <title>12&apos; / Full / LED</title>
+      <s:price currency="USD">2899.00</s:price>
+      <s:sku>KFF-T12-L</s:sku>
+      <s:grams>25401</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7173798625480</id>
+    <published>2026-03-01T10:54:10-05:00</published>
+    <updated>2026-03-01T10:54:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-alpine-fir-slim-tree-led"/>
+    <title>12&apos; Alpine Fir Slim Artificial Christmas Tree 1400 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/AlpineFirSlimLED_a8e79fe7-6aab-4eaa-8691-c32c84f6d4f8.jpg?v=1723213414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>AFG-ST-12-L</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:25000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/7173798625480</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1599.00</s:price>
+      <s:sku>AFG-ST-12-L</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7190495002824</id>
+    <published>2026-03-01T10:53:51-05:00</published>
+    <updated>2026-03-01T10:53:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-royal-fir-tree-led"/>
+    <title>12&apos; Royal Fir Artificial Christmas Tree with 2000 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/RoyalFir_aa79dce7-e173-4ad7-82e1-885f6a21f0e0.png?v=1722013226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box5</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:50000</s:tag>
+    <s:tag>RF-T12-L</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>/products/7190495002824</id>
+      <title>12&apos; / Full / LED</title>
+      <s:price currency="USD">2699.00</s:price>
+      <s:sku>RF-T12-L</s:sku>
+      <s:grams>26762</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7192136581320</id>
+    <published>2026-01-29T07:52:10-05:00</published>
+    <updated>2026-01-29T07:52:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-royal-fir-slim-tree-led"/>
+    <title>12&apos; Royal Fir Slim Artificial Christmas Tree with 1900 Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Royal-Fir-Slim-v2_072a2f0a-0d50-4f40-93b0-26d136f6f519.jpg?v=1722013075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            2199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:35000</s:tag>
+    <s:tag>RFS-T12-L</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>/products/7192136581320</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">2199.00</s:price>
+      <s:sku>RFS-T12-L</s:sku>
+      <s:grams>25401</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706781859904</id>
+    <published>2024-11-22T22:48:26-05:00</published>
+    <updated>2024-11-22T22:48:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-douglas-fir-slim-tree-led"/>
+    <title>12&apos; King Douglas Fir Slim Artificial Christmas Tree with Warm White &amp; Multi-Color LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T12-L</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Power Pole</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>/products/3706781859904</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku>KDFS-T12-L</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7175874379976</id>
+    <published>2021-12-07T15:53:33-05:00</published>
+    <updated>2021-12-07T15:53:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-queen-flock-tree-led"/>
+    <title>12&apos; Queen Flock® Artificial Christmas Tree with 1700 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/QueenFlock_54b948c2-bd38-4770-ab52-2249424db152.jpg?v=1722012618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>5box</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QF-T12-L</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:50000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>/products/7175874379976</id>
+      <title>12&apos; / Full / LED</title>
+      <s:price currency="USD">2599.00</s:price>
+      <s:sku>QF-T12-L</s:sku>
+      <s:grams>34473</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3800636981312</id>
+    <published>2021-07-02T14:01:11-04:00</published>
+    <updated>2021-07-02T14:01:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-flock-tree-led"/>
+    <title>12&apos; King Flock® Artificial Christmas Tree with 1650 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingFlock_89f41dd8-9a44-41fb-8862-ab71fe91bba1.jpg?v=1714673353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box3</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T12-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:47000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>/products/3800636981312</id>
+      <title>12&apos; / Full / LED</title>
+      <s:price currency="USD">2499.00</s:price>
+      <s:sku>KF-T12-L</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3800636915776</id>
+    <published>2021-07-02T14:01:10-04:00</published>
+    <updated>2021-07-02T14:01:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-flock-tree-unlit"/>
+    <title>12&apos; King Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/king-flock-artificial-christmas-tree_bf606b19-f46d-4ff9-856b-6b818aa90968.jpg?v=1718157885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box4</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T12-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:37000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>/products/3800636915776</id>
+      <title>12&apos; / Full / Unlit</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku>KF-T12-U</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706781761600</id>
+    <published>2021-07-02T14:01:08-04:00</published>
+    <updated>2021-07-02T14:01:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-douglas-fir-slim-tree-unlit"/>
+    <title>12&apos; King Douglas Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-9_f60af6b2-0b65-4cc3-97b2-36de7d358615.jpg?v=1718158286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T12-U</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:15000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>/products/3706781761600</id>
+      <title>12&apos; / Slim / Unlit</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KDFS-T12-U</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706770063424</id>
+    <published>2021-07-02T14:01:06-04:00</published>
+    <updated>2021-07-02T14:01:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-flock-slim-tree-led"/>
+    <title>12&apos; King Flock® Slim Artificial Christmas Tree with 1250 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingFlockSlim_3b633f57-a093-4cad-ad9d-b9ee49c0cf07.jpg?v=1714673451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box3</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T12-L</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:47000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>staff-pick</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>/products/3706770063424</id>
+      <title>12&apos; / Slim / LED</title>
+      <s:price currency="USD">1599.00</s:price>
+      <s:sku>KFS-T12-L</s:sku>
+      <s:grams>26762</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/6925362921672</id>
+    <published>2021-06-30T15:36:57-04:00</published>
+    <updated>2021-06-30T15:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-alpine-fir-slim-tree-unlit"/>
+    <title>12&apos; Alpine Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Alpinefirslim_be1c459a-73bf-4191-81a7-3cf2a425e6c7.jpg?v=1722887051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>AFG-ST-12-U</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:30000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/6925362921672</id>
+      <title>12&apos; / Slim / Unlit</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>AFG-ST-12-U</s:sku>
+      <s:grams>31298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706769834048</id>
+    <published>2019-05-16T15:50:21-04:00</published>
+    <updated>2019-05-16T15:50:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-flock-slim-tree-unlit"/>
+    <title>12&apos; King Flock® Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/King-flock-slim.png?v=1655154264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box3</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KFS-T12-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:37000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>/products/3706769834048</id>
+      <title>12&apos; / Slim / Unlit</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>KFS-T12-U</s:sku>
+      <s:grams>26762</s:grams>
+    </s:variant>
+  </entry>
+</feed>

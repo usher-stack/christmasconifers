@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/silverpeak-fir-trees.atom"/>
+  <title>Carol's Christmas Conifers</title>
+  <updated>2026-07-01T12:20:11-04:00</updated>
+  <author>
+    <name>Carol's Christmas Conifers</name>
+  </author>
+  <entry>
+    <id>/products/8325455380680</id>
+    <published>2026-07-01T12:20:11-04:00</published>
+    <updated>2026-07-01T12:20:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-silverpeak-fir-tree-led"/>
+    <title>9&apos; Silverpeak Fir™ Artificial Christmas Tree 4700 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Silverpeakfir.png?v=1761067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a world of holiday magic with the newest Silverpeak Fir, our most exquisitely crafted tree that transforms your home into a whimsical winter wonderland. Inspired by the majestic American White Fir, with every branch and needle meticulously designed to look impossibly real, you’d never believe it didn't come straight from the Rocky Mountains. Its full-bodied foliage, brilliant elegance, and layered shape create a breathtaking centerpiece that radiates warmth, joy, and festive charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Premium</s:tag>
+    <s:tag>Silverpeak Fir</s:tag>
+    <s:tag>ygroup_silverpeak</s:tag>
+    <s:variant>
+      <id>/products/8325455380680</id>
+      <title>9&apos;</title>
+      <s:price currency="USD">1899.00</s:price>
+      <s:sku>SLP-T9-LUX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8246765584584</id>
+    <published>2025-10-22T15:51:10-04:00</published>
+    <updated>2025-10-22T15:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-silverpeak-fir-tree-led"/>
+    <title>7.5&apos; Silverpeak Fir™ Artificial Christmas Tree 3400 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Silverpeakfir.png?v=1761067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a world of holiday magic with the newest Silverpeak Fir, our most exquisitely crafted tree that transforms your home into a whimsical winter wonderland. Inspired by the majestic American White Fir, with every branch and needle meticulously designed to look impossibly real, you’d never believe it didn't come straight from the Rocky Mountains. Its full-bodied foliage, brilliant elegance, and layered shape create a breathtaking centerpiece that radiates warmth, joy, and festive charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Full</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Silverpeak Fir</s:tag>
+    <s:tag>ygroup_silverpeak</s:tag>
+    <s:variant>
+      <id>/products/8246765584584</id>
+      <title>7.5&apos;</title>
+      <s:price currency="USD">1199.00</s:price>
+      <s:sku>SLP-T7.5-L</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8246765125832</id>
+    <published>2025-10-22T15:51:10-04:00</published>
+    <updated>2025-10-22T15:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-5-foot-silverpeak-fir-tree-led"/>
+    <title>6.5&apos; Silverpeak Fir™ Artificial Christmas Tree 2500 Lux LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Silverpeakfir.png?v=1761067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a world of holiday magic with the newest Silverpeak Fir, our most exquisitely crafted tree that transforms your home into a whimsical winter wonderland. Inspired by the majestic American White Fir, with every branch and needle meticulously designed to look impossibly real, you’d never believe it didn't come straight from the Rocky Mountains. Its full-bodied foliage, brilliant elegance, and layered shape create a breathtaking centerpiece that radiates warmth, joy, and festive charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Premium</s:tag>
+    <s:tag>Silverpeak Fir</s:tag>
+    <s:tag>ygroup_silverpeak</s:tag>
+    <s:variant>
+      <id>/products/8246765125832</id>
+      <title>6.5&apos;</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku>SLP-T6.5-L</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/artificial-christmas-garlands.atom"/>
+  <title>Carol's Christmas Conifers</title>
+  <updated>2023-06-15T12:48:13-04:00</updated>
+  <author>
+    <name>Carol's Christmas Conifers</name>
+  </author>
+  <entry>
+    <id>/products/7570118017224</id>
+    <published>2023-06-15T12:48:13-04:00</published>
+    <updated>2023-06-15T12:48:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9ft-12inch-king-noble-fir-garland-led"/>
+    <title>9&apos; x 12&quot; King Noble Fir Garland with Warm White LED Lights (Plug Operated)</title>
+    <s:type>Garland</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingNobleGarland1_0ba166b7-ec51-45d3-b999-8961ea726c6d.jpg?v=1714673633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Garland<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The great thing about adding more garlands to your holiday oasis? The versatile decorating possibilities that come with it. Whether you already have one of our signature King Noble Christmas Trees or not, the beautiful King Noble Garland offers the instant upgrade you need to enhance any holiday setting. 9 feet in length and 12” wide, this dense and expansive garland is sure to compliment your décor year after year. With a blend of realistic and classic needle tips, this garland radiates genuine Christmas tradition that will endure decades of memories! The King Noble Garland sits perfectly on your stair railing, fireplace mantel, doorway, or anywhere else you’d like to drape some elegant Christmas spirit this season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>YGroup_noblewreath</s:tag>
+    <s:variant>
+      <id>/products/7570118017224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>KNF-G9x12-Plug</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706788085824</id>
+    <published>2022-06-08T14:25:43-04:00</published>
+    <updated>2022-06-08T14:25:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-x-12-cypress-spruce-garland-unlit"/>
+    <title>9&apos; x 12&quot;  Cypress Spruce Garland Unlit</title>
+    <s:type>Garland</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/KOC2021CypressSpruce-4.jpg?v=1718159246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Garland<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spruce up the ambiance in your home this season with the Cypress Spruce Garland. Inspired by our prestigious <a href="/collections/cypress-spruce-artificial-christmas-tree" target="_blank" rel="noopener"><span style="color: #339966;"><em><strong>Cypress Spruce Tree</strong></em></span></a>, this garland will be hard not to notice. Designed with the same tasteful blend of realistic tips (PE) and classic tips (PVC) as the Cypress Spruce tree, resulting in an impressive and beautiful Christmas garland.</p>
+<p>Appropriate for indoor and outdoor use. The flexible material makes it easy to wrap through a banister, hang around the fireplace, or around a door frame. Create a warm and elegant Christmas display right inside your home with the majestic and eye-catching Cypress Spruce garland. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot; X 12&quot;</s:tag>
+    <s:tag>Cypress Spruce</s:tag>
+    <s:tag>Garland</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_cypreswreath</s:tag>
+    <s:variant>
+      <id>/products/3706788085824</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>CS-G9x12-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/6858940416200</id>
+    <published>2021-06-07T16:56:29-04:00</published>
+    <updated>2021-06-07T16:56:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-ft-by-12-king-flock-garland-led-plug"/>
+    <title>9&apos; x 12&quot; King Flock® Garland with LED Lights (Plug Operated)</title>
+    <s:type>Garland</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/KOC2021KingFlock-2_4c3f8c0f-8375-4752-b5ad-ccbeedf75f18.jpg?v=1718159125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Garland<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your winter wonderland collection shouldn't just end at your tree. Bring the enchantment of a dreamy white forest right into your living room, while decorating this holiday season. From our critically acclaimed King flock tree, we present the King Flock Garland. Composed of the same realistic tips and snow-covered branches, the King Flock Garland beautifully compliments our <span style="color: #008000;"><a style="color: #008000;" href="/collections/king-flock-artificial-christmas-tree" target="_blank" rel="noopener"><em><strong>King Flock Tree</strong></em></a></span>. Our Garland makes for an effortless and quick shaping process. The flexible material makes it easy to wrap through a banister, hang around the fireplace, or around a door frame. The King Flock Garland is a sure way to complete your holiday home decor that's only fit for a king.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot; X 12&quot;</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Garland</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>YGroup_kingwreath</s:tag>
+    <s:variant>
+      <id>/products/6858940416200</id>
+      <title>9&apos; x 12&quot; / Plug LED</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>KF-Plug-G-9x12-L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706773012544</id>
+    <published>2020-04-27T17:44:06-04:00</published>
+    <updated>2020-04-27T17:44:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-ft-by-12-king-flock-garland-unlit"/>
+    <title>9&apos; x 12&quot; King Flock® Garland Unlit</title>
+    <s:type>Garland</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/KOC2021KingFlock-2.jpg?v=1718159073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Garland<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your winter wonderland collection shouldn't just end at your tree. Bring the enchantment of a dreamy white forest right into your living room, while decorating this holiday season. From our critically acclaimed King flock tree, we present the King Flock Garland. Composed of the same realistic tips and snow-covered branches, the King Flock Garland beautifully compliments our <span style="color: #008000;"><a style="color: #008000;" href="/collections/king-flock-artificial-christmas-tree" target="_blank" rel="noopener"><em><strong>King Flock Tree</strong></em></a></span>. Our Garland makes for an effortless and quick shaping process. The flexible material makes it easy to wrap through a banister, hang around the fireplace, or around a door frame. The King Flock Garland is a sure way to complete your holiday home decor that's only fit for a king. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot; X 12&quot;</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Garland</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingwreath</s:tag>
+    <s:variant>
+      <id>/products/3706773012544</id>
+      <title>9&apos; x 12&quot; / Unlit</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>KF-G-9x12-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706773209152</id>
+    <published>2020-04-27T15:51:17-04:00</published>
+    <updated>2020-04-27T15:51:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-ft-by-12-king-flock-garland-led"/>
+    <title>9&apos; x 12&quot; King Flock® Garland with LED Lights (Battery Operated)</title>
+    <s:type>Garland</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/KOC2021KingFlock-2_ed28911f-2c3f-44a1-8644-99e202e04f15.jpg?v=1718159132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Garland<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your winter wonderland collection shouldn't just end at your tree. Bring the enchantment of a dreamy white forest right into your living room, while decorating this holiday season. From our critically acclaimed King flock tree, we present the King Flock Garland. Composed of the same realistic tips and snow-covered branches, the King Flock Garland beautifully compliments our <span style="color: #008000;"><a style="color: #008000;" href="/collections/king-flock-artificial-christmas-tree" target="_blank" rel="noopener"><em><strong>King Flock Tree</strong></em></a></span>. Our Garland makes for an effortless and quick shaping process. The flexible material makes it easy to wrap through a banister, hang around the fireplace, or around a door frame. The King Flock Garland is a sure way to complete your holiday home decor that's only fit for a king.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot; X 12&quot;</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Garland</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>YGroup_kingwreath</s:tag>
+    <s:variant>
+      <id>/products/3706773209152</id>
+      <title>9&apos; x 12&quot; / Battery LED</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>KF-G-Bat-9x12-L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706788937792</id>
+    <published>2019-05-16T15:52:56-04:00</published>
+    <updated>2019-05-16T15:52:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9ft-12inch-tribeca-spruce-blue-garland-unlit"/>
+    <title>9&apos; x 12&quot; Tribeca Blue Spruce Garland Unlit</title>
+    <s:type>Wreath</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/KOC2021BlueSpruce-2.jpg?v=1718159152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Wreath<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Tribeca Blue Spruce Garland features a beautiful foliage color tone that compliments our <span style="color: #008080;"><a style="color: #008080;" href="/collections/tribeca-spruce-artificial-christmas-tree/blue?sort_by=price-ascending" target="_blank" rel="noopener"><em><strong>Tribeca Blue Spruce Tree.</strong></em></a></span> Inspired by the Colorado and Utah State tree, our Tribeca Blue Spruce Garland features tasteful blue-green needles and a brown stem for a life-like display. Perfect for indoor and outdoor use, the flexible material makes it easy to wrap through a banister, hang around the fireplace, or around a door frame. The Tribeca Blue Spruce Garland is an excellent choice when setting a festive atmosphere this holiday season for your family and friends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot; X 12&quot;</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Garland</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribecawreath</s:tag>
+    <s:variant>
+      <id>/products/3706788937792</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>TBS-G9x12-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706786611264</id>
+    <published>2019-05-16T15:52:35-04:00</published>
+    <updated>2019-05-16T15:52:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-x-10-royal-fir-garland-unlit"/>
+    <title>9&apos; x 10&quot; Royal Fir Garland Unlit</title>
+    <s:type>Garland</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/KOC2021RoyalFir-2.jpg?v=1718159242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Garland<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Why settle for less this holiday season when you can celebrate in grand style. Add a breathtaking and elegant looking garland to your home decor when you choose the Royal Fir Garland to grace your home this holiday season. This stunning and magnificent garland is full-bodied and features realistic green foliage that creates a beautiful and life-like display. The Royal Fir wreath was inspired by our royal fir tree which features a high-end design for the ultimate Christmas tree display.</p>
+<p>Appropriate for indoor and outdoor use, the flexible material makes it easy to wrap through a banister, hang around the fireplace, or around a door frame. Create a warm ambiance and elegant Christmas display right inside your home with the majestic and striking Royal Fir garland.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot; X 10&quot;</s:tag>
+    <s:tag>Garland</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>type_wreath</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_royalwreath</s:tag>
+    <s:variant>
+      <id>/products/3706786611264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>RF-G9x10-U</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

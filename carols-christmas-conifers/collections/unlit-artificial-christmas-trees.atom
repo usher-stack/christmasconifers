@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/unlit-artificial-christmas-trees.atom"/>
+  <title>Carol's Christmas Conifers</title>
+  <updated>2023-09-24T13:25:34-04:00</updated>
+  <author>
+    <name>Carol's Christmas Conifers</name>
+  </author>
+  <entry>
+    <id>/products/3706777436224</id>
+    <published>2023-09-24T13:25:34-04:00</published>
+    <updated>2023-09-24T13:25:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-hancock-spruce-tree-unlit"/>
+    <title>9&apos; Hancock Spruce Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Hancock2_564933af-525b-4969-aeb8-d45084f40409.png?v=1760466932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hancock Spruce</s:tag>
+    <s:tag>HS-T9-U</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>/products/3706777436224</id>
+      <title>9&apos; / Full / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>HS-T9-U</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7606490529992</id>
+    <published>2023-09-24T13:22:37-04:00</published>
+    <updated>2023-09-24T13:22:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-tribeca-blue-spruce-slim-tree-unlit"/>
+    <title>9&apos; Tribeca Blue Spruce Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/TribecaSlimUnlit_4de9bb03-b044-4fc6-a7e0-36b7b34619cf.jpg?v=1722014318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>TBS-SL-T9-U</s:tag>
+    <s:tag>Tribeca Spruce</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/7606490529992</id>
+      <title>9&apos; / Slim / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>TBS-SL-T9-U</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7193368166600</id>
+    <published>2021-12-27T11:33:01-05:00</published>
+    <updated>2021-12-27T11:33:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-aspen-fir-tree-unlit"/>
+    <title>7.5&apos; Aspen Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/aspen-fir-artificial-christmas-tree_36523532-ffea-4019-a061-87e7f7ddf634.jpg?v=1718158652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>More than “naturally beautiful,” the Aspen Fir captures the true essence of the Pinus Aristata, its natural counterpart native to the Aspen region. Expertly crafted for stunning realism, it transforms your home into a winter wonderland, offering timeless beauty, effortless convenience, and holiday magic year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Aspen</s:tag>
+    <s:tag>ASPF-T7.5-U</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>refund_fee:7000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_aspen</s:tag>
+    <s:variant>
+      <id>/products/7193368166600</id>
+      <title>7.5&apos; / Unlit</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>ASPF-T7.5-U</s:sku>
+      <s:grams>31298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7174185025736</id>
+    <published>2021-12-05T17:09:42-05:00</published>
+    <updated>2021-12-05T17:09:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/10-foot-queen-flock-tree-unlit"/>
+    <title>10&apos; Queen Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-5_9ef11c71-64ab-4a00-9891-2b70b338751f.jpg?v=1718158243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Foot</s:tag>
+    <s:tag>3box</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QF-T10-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:25000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>/products/7174185025736</id>
+      <title>10&apos; / Full / Unlit</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>QF-T10-U</s:sku>
+      <s:grams>25401</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7173946998984</id>
+    <published>2021-12-05T14:42:04-05:00</published>
+    <updated>2021-12-05T14:42:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-rushmore-fir-tree-unlit"/>
+    <title>9&apos; Rushmore Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Rushmorefirnewversion1_28ceea28-4758-4fee-9ed4-3658c326b47b.png?v=1722013363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From the forests near Mt. Rushmore to the heart of your home, experience the timeless beauty of this majestic tree during the holidays. Expertly crafted to capture the beauty of the Ponderosa Pine, its layered branches and lifelike detail make it practically indistinguishable from the real tree. A striking centerpiece, it brings the genuine magic of the holiday season to your family traditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:8500</s:tag>
+    <s:tag>RUSF-T9-U</s:tag>
+    <s:tag>Rushmore</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_rushmore</s:tag>
+    <s:variant>
+      <id>/products/7173946998984</id>
+      <title>9&apos; / Green / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>RUSF-T9-U</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7173938413768</id>
+    <published>2021-12-05T14:42:01-05:00</published>
+    <updated>2021-12-05T14:42:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-rushmore-fir-tree-unlit"/>
+    <title>7.5&apos; Rushmore Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Rushmorefirnewversion1.png?v=1722013361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From the forests near Mt. Rushmore to the heart of your home, experience the timeless beauty of this majestic tree during the holidays. Expertly crafted to capture the beauty of the Ponderosa Pine, its layered branches and lifelike detail make it practically indistinguishable from the real tree. A striking centerpiece, it brings the genuine magic of the holiday season to your family traditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7000</s:tag>
+    <s:tag>RUSF-T7.5-U</s:tag>
+    <s:tag>Rushmore</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_rushmore</s:tag>
+    <s:variant>
+      <id>/products/7173938413768</id>
+      <title>7.5&apos; / Green / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>RUSF-T7.5-U</s:sku>
+      <s:grams>21772</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7173930844360</id>
+    <published>2021-12-05T14:41:58-05:00</published>
+    <updated>2021-12-05T14:41:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-alpine-fir-tree-unlit"/>
+    <title>9&apos; Alpine Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/AlpineFirUnlit_0d3761e4-1fea-4448-a773-4d77ea5fa5f8.jpg?v=1722886951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>AFG-T9-U</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/7173930844360</id>
+      <title>9&apos; / Full / Unlit</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku>AFG-T9-U</s:sku>
+      <s:grams>34473</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7173923307720</id>
+    <published>2021-12-05T14:41:55-05:00</published>
+    <updated>2021-12-05T14:41:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/8-foot-alpine-fir-tree-unlit"/>
+    <title>8&apos; Alpine Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/AlpineFirUnlit_e7bbaf38-94dc-4442-90d4-f2cbb34b58c1.jpg?v=1722886595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 Foot</s:tag>
+    <s:tag>AFG-T8-U</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:6000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/7173923307720</id>
+      <title>8&apos; / Full / Unlit</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>AFG-T8-U</s:sku>
+      <s:grams>24040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7173904728264</id>
+    <published>2021-12-05T14:41:52-05:00</published>
+    <updated>2021-12-05T14:41:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-alpine-fir-tree-unlit"/>
+    <title>7.5&apos; Alpine Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/AlpineFirUnlit_20c018f1-e1c9-4aa4-929c-e94836c08dd0.jpg?v=1722886031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>AFG-T7.5-U</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/7173904728264</id>
+      <title>7.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>AFG-T7.5-U</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7171540910280</id>
+    <published>2021-12-03T14:17:28-05:00</published>
+    <updated>2021-12-03T14:17:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-foot-king-noble-flock-tree-unlit"/>
+    <title>7&apos; King Noble Flock Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingNobleFlock.jpg?v=1722887967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KNFL-T7-U</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Noble Fir</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>/products/7171540910280</id>
+      <title>7&apos; / Flock / Unlit</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku>KNFL-T7-U</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706779336768</id>
+    <published>2021-07-02T14:03:44-04:00</published>
+    <updated>2021-07-02T14:03:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-cypress-spruce-tree-unlit"/>
+    <title>7.5&apos; Cypress Spruce Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/CypressSunroomVertical.jpg?v=1718158662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the majestic White Spruce, the Cypress Spruce showcases lush, true-to-nature greenery and vibrant, rich color. Carefully designed for realism and ease, it brings the serene charm of a winter forest into your home for a truly festive season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>CS-T7.5-U</s:tag>
+    <s:tag>Cypress Spruce</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>refund_fee:8000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_cypress</s:tag>
+    <s:variant>
+      <id>/products/3706779336768</id>
+      <title>7.5&apos; / Unlit</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>CS-T7.5-U</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706778714176</id>
+    <published>2021-07-02T14:03:43-04:00</published>
+    <updated>2021-07-02T14:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-royal-fir-slim-tree-unlit"/>
+    <title>7.5&apos; Royal Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-6_46225455-1137-4c7a-b27b-b146f648d2c4.jpg?v=1718158772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4500</s:tag>
+    <s:tag>RFS-T7.5-U</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>/products/3706778714176</id>
+      <title>7.5&apos; / Slim / Unlit</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>RFS-T7.5-U</s:sku>
+      <s:grams>21772</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706778452032</id>
+    <published>2021-07-02T14:03:41-04:00</published>
+    <updated>2021-07-02T14:03:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-5-foot-royal-fir-slim-tree-unlit"/>
+    <title>6.5&apos; Royal Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-6.jpg?v=1718158268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>RFS-T6.5-U</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>/products/3706778452032</id>
+      <title>6.5&apos; / Slim / Unlit</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>RFS-T6.5-U</s:sku>
+      <s:grams>16783</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706777960512</id>
+    <published>2021-07-02T14:03:40-04:00</published>
+    <updated>2021-07-02T14:03:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-royal-fir-tree-unlit"/>
+    <title>7.5&apos; Royal Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-8.jpg?v=1718158803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:7500</s:tag>
+    <s:tag>RF-T7.5-U</s:tag>
+    <s:tag>Royal Fir</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>/products/3706777960512</id>
+      <title>7.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>RF-T7.5-U</s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706773340224</id>
+    <published>2021-07-02T14:03:37-04:00</published>
+    <updated>2021-07-02T14:03:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-yorkshire-fir-tree-unlit"/>
+    <title>7.5&apos; Yorkshire Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-10.jpg?v=1718158754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YF-T7.5-U</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>/products/3706773340224</id>
+      <title>7.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku>YF-T7.5-U</s:sku>
+      <s:grams>18144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706770587712</id>
+    <published>2021-07-02T14:03:34-04:00</published>
+    <updated>2021-07-02T14:03:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-king-flock-tree-unlit"/>
+    <title>7.5&apos; King Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/king-flock-artificial-christmas-tree_36525e9c-27ba-46fb-b73f-75e48db45eb8.jpg?v=1718158692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>best-seller</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T7.5-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:5000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>/products/3706770587712</id>
+      <title>7.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>KF-T7.5-U</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706768195648</id>
+    <published>2021-07-02T14:02:22-04:00</published>
+    <updated>2021-07-02T14:02:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-5-foot-queen-flock-tree-unlit"/>
+    <title>6.5&apos; Queen Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-5_67d3c5cc-8f63-4646-82b6-ac5667cde3ad.jpg?v=1718158334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into an enchanted frost-kissed forest with the beautifully sculpted Queen Flock. Inspired by the majestic Alpine Fir of Washington’s wilderness, its snow-dusted branches and authentic silhouette create a cozy, wintry centerpiece. Perfectly detailed, it sets the stage for holiday traditions and cherished seasonal moments.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>QF-T6.5-U</s:tag>
+    <s:tag>Queen Flock</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_queenflock</s:tag>
+    <s:variant>
+      <id>/products/3706768195648</id>
+      <title>6.5&apos; / Full / Unlit</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>QF-T6.5-U</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3800636915776</id>
+    <published>2021-07-02T14:01:10-04:00</published>
+    <updated>2021-07-02T14:01:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-flock-tree-unlit"/>
+    <title>12&apos; King Flock® Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/king-flock-artificial-christmas-tree_bf606b19-f46d-4ff9-856b-6b818aa90968.jpg?v=1718157885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of a snowy morning into your home with the enchanting King Flock. Handcrafted to mimic the Subalpine Fir, native to the snow-draped Rocky Mountains. Its realistic “fresh snow” tips capture the charm of a blissful snowy retreat without ever stepping outside. Enjoy its beauty and experience why flocked Christmas trees have become a beloved holiday tradition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box4</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>KF-T12-U</s:tag>
+    <s:tag>King Flock</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:37000</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingflock</s:tag>
+    <s:variant>
+      <id>/products/3800636915776</id>
+      <title>12&apos; / Full / Unlit</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku>KF-T12-U</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/3706781761600</id>
+    <published>2021-07-02T14:01:08-04:00</published>
+    <updated>2021-07-02T14:01:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-king-douglas-fir-slim-tree-unlit"/>
+    <title>12&apos; King Douglas Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-9_f60af6b2-0b65-4cc3-97b2-36de7d358615.jpg?v=1718158286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>KDFS-T12-U</s:tag>
+    <s:tag>King Douglas Fir</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:15000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>/products/3706781761600</id>
+      <title>12&apos; / Slim / Unlit</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>KDFS-T12-U</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/6925362921672</id>
+    <published>2021-06-30T15:36:57-04:00</published>
+    <updated>2021-06-30T15:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-foot-alpine-fir-slim-tree-unlit"/>
+    <title>12&apos; Alpine Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Alpinefirslim_be1c459a-73bf-4191-81a7-3cf2a425e6c7.jpg?v=1722887051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Foot</s:tag>
+    <s:tag>AFG-ST-12-U</s:tag>
+    <s:tag>Alpine Fir</s:tag>
+    <s:tag>box2</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>multiple_box</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:30000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/6925362921672</id>
+      <title>12&apos; / Slim / Unlit</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>AFG-ST-12-U</s:sku>
+      <s:grams>31298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/6858956341448</id>
+    <published>2021-06-07T17:03:37-04:00</published>
+    <updated>2021-06-07T17:03:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-scarlet-fir-tree-unlit"/>
+    <title>9&apos; Scarlet Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/scarlet-fir-artificial-christmas-tree_c8171daa-ff5e-47a5-bd09-09be386fc6dd.jpg?v=1722013580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate the wonder of the season with the artfully crafted Scarlet Fir, thoughtfully designed to emulate the breathtaking beauty of the majestic Black Hills Spruce. Its realistic branches, true-to-life color, and delicate tips create an elegant, festive centerpiece that captures the charm of a real tree, without the upkeep. Make every holiday moment unforgettable with this stunning tree.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:6500</s:tag>
+    <s:tag>Scarlet Fir</s:tag>
+    <s:tag>SF-T9-U</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_scarlit</s:tag>
+    <s:variant>
+      <id>/products/6858956341448</id>
+      <title>9&apos; / Unlit</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>SF-T9-U</s:sku>
+      <s:grams>33566</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/6858956144840</id>
+    <published>2021-06-07T17:03:35-04:00</published>
+    <updated>2021-06-07T17:03:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-scarlet-fir-tree-unlit"/>
+    <title>7.5&apos; Scarlet Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/scarlet-fir-artificial-christmas-tree_9e1eff63-a7b9-441d-8cfa-6c38adfe0631.jpg?v=1722013572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate the wonder of the season with the artfully crafted Scarlet Fir, thoughtfully designed to emulate the breathtaking beauty of the majestic Black Hills Spruce. Its realistic branches, true-to-life color, and delicate tips create an elegant, festive centerpiece that captures the charm of a real tree, without the upkeep. Make every holiday moment unforgettable with this stunning tree.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Scarlet Fir</s:tag>
+    <s:tag>SF-T7.5-U</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_scarlit</s:tag>
+    <s:variant>
+      <id>/products/6858956144840</id>
+      <title>7.5&apos; / Unlit</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>SF-T7.5-U</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/6858956013768</id>
+    <published>2021-06-07T17:03:32-04:00</published>
+    <updated>2021-06-07T17:03:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-5-foot-scarlet-fir-tree-unlit"/>
+    <title>6.5&apos; Scarlet Fir Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/scarlet-fir-artificial-christmas-tree.jpg?v=1722013540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate the wonder of the season with the artfully crafted Scarlet Fir, thoughtfully designed to emulate the breathtaking beauty of the majestic Black Hills Spruce. Its realistic branches, true-to-life color, and delicate tips create an elegant, festive centerpiece that captures the charm of a real tree, without the upkeep. Make every holiday moment unforgettable with this stunning tree.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Realistic</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>Scarlet Fir</s:tag>
+    <s:tag>SF-T6.5-U</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YGroup_scarlit</s:tag>
+    <s:variant>
+      <id>/products/6858956013768</id>
+      <title>6.5&apos; / Unlit</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku>SF-T6.5-U</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/6148279271624</id>
+    <published>2020-12-30T13:35:44-05:00</published>
+    <updated>2020-12-30T13:35:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/9-foot-yorkshire-fir-slim-tree-unlit"/>
+    <title>9&apos; Yorkshire Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/yorkshire-fir-slim_1442b025-0440-4e80-a86a-f3403c6620d9.jpg?v=1722014812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:4000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YFS-T9-U</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>/products/6148279271624</id>
+      <title>9&apos; / Slim / Unlit</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>YFS-T9-U</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/6148279173320</id>
+    <published>2020-12-30T13:35:38-05:00</published>
+    <updated>2020-12-30T13:35:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-foot-yorkshire-fir-slim-tree-unlit"/>
+    <title>7.5&apos; Yorkshire Fir Slim Artificial Christmas Tree Unlit</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/yorkshire-fir-slim_f6153517-d6e6-49b0-ab68-8944a7598609.jpg?v=1722014819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:3000</s:tag>
+    <s:tag>Slim</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YFS-T7.5-U</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>/products/6148279173320</id>
+      <title>7.5&apos; / Slim / Unlit</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>YFS-T7.5-U</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+</feed>

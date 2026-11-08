@@ -3,14 +3,25 @@ const fs = require('node:fs');
 const path = require('node:path');
 const crypto = require('node:crypto');
 
+const envFile = path.join(__dirname, '.env');
+if (fs.existsSync(envFile)) {
+  for (const line of fs.readFileSync(envFile, 'utf8').split(/\r?\n/)) {
+    const match = line.match(/^([A-Z0-9_]+)=(.*)$/);
+    if (match && process.env[match[1]] === undefined) {
+      process.env[match[1]] = match[2];
+    }
+  }
+}
+
 const root = __dirname;
-const siteRoot = path.join(root, 'www.kingofchristmas.com');
+const siteRoot = path.join(root, 'carols-christmas-conifers');
 const dataRoot = process.env.DATA_DIR || path.join(root, 'data');
 const ordersFile = path.join(dataRoot, 'orders.json');
 const accountsFile = path.join(dataRoot, 'accounts.json');
 const settingsFile = path.join(dataRoot, 'store-settings.json');
 const port = Number(process.env.PORT || 3000);
 const adminPassword = process.env.ADMIN_PASSWORD || crypto.randomBytes(18).toString('base64url');
+const adminAuthenticatorSecret = process.env.ADMIN_AUTHENTICATOR_SECRET || '';
 const adminSessions = new Map();
 const customerSessions = new Map();
 const sessionLifetime = 8 * 60 * 60 * 1000;
@@ -41,6 +52,9 @@ for (const [file, initial] of [
 
 if (!process.env.ADMIN_PASSWORD) {
   console.log(`Initial admin password (save it before closing this terminal): ${adminPassword}`);
+}
+if (adminAuthenticatorSecret) {
+  console.log(`Authenticator setup key: ${adminAuthenticatorSecret}`);
 }
 
 function writeJson(file, value) {
@@ -106,6 +120,7 @@ function requireCustomer(request, response) {
     sendJson(response, 401, { error: 'Sign in to continue.' });
     return null;
   }
+  if (session.account) return session.account;
   const accounts = readJson(accountsFile);
   const account = accounts.find((item) => item.id === session.accountId);
   if (!account || account.status !== 'active') {
@@ -187,6 +202,38 @@ function constantTimeEqual(left, right) {
   return a.length === b.length && crypto.timingSafeEqual(a, b);
 }
 
+function authenticatorCode(secret, timestamp = Date.now()) {
+  const normalized = secret.replace(/[^A-Z2-7]/gi, '').toUpperCase();
+  if (!normalized) return '';
+
+  let bits = '';
+  for (const character of normalized) {
+    const value = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567'.indexOf(character);
+    if (value >= 0) bits += value.toString(2).padStart(5, '0');
+  }
+  const bytes = [];
+  for (let index = 0; index + 8 <= bits.length; index += 8) {
+    bytes.push(parseInt(bits.slice(index, index + 8), 2));
+  }
+
+  const counter = Buffer.alloc(8);
+  counter.writeBigUInt64BE(BigInt(Math.floor(timestamp / 30000)));
+  const digest = crypto.createHmac('sha1', Buffer.from(bytes)).update(counter).digest();
+  const offset = digest[digest.length - 1] & 0xf;
+  const binary = ((digest[offset] & 0x7f) << 24)
+    | ((digest[offset + 1] & 0xff) << 16)
+    | ((digest[offset + 2] & 0xff) << 8)
+    | (digest[offset + 3] & 0xff);
+  return String(binary % 1000000).padStart(6, '0');
+}
+
+function validAuthenticatorCode(code) {
+  if (!/^\d{6}$/.test(code)) return false;
+  const current = Date.now();
+  return [current - 30000, current, current + 30000]
+    .some((timestamp) => constantTimeEqual(code, authenticatorCode(adminAuthenticatorSecret, timestamp)));
+}
+
 function accountPublicView(account) {
   return {
     id: account.id,
@@ -195,6 +242,8 @@ function accountPublicView(account) {
     country: account.country,
     countryCode: account.countryCode,
     phone: account.phone,
+    city: account.city || '',
+    street: account.street || '',
     status: account.status,
     createdAt: account.createdAt
   };
@@ -259,6 +308,9 @@ async function handleApi(request, response, url) {
     const country = typeof body.country === 'string' ? body.country.trim() : '';
     const countryCode = typeof body.countryCode === 'string' ? body.countryCode.trim() : '';
     const phone = typeof body.phone === 'string' ? body.phone.trim() : '';
+    const city = typeof body.city === 'string' ? body.city.trim() : '';
+    const street = typeof body.street === 'string' ? body.street.trim() : '';
+    const passwordConfirmation = typeof body.passwordConfirmation === 'string' ? body.passwordConfirmation : '';
     if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email) || email.length > 254) {
       sendJson(response, 400, { error: 'Enter a valid email address.' });
       return;
@@ -267,9 +319,31 @@ async function handleApi(request, response, url) {
       sendJson(response, 400, { error: 'Use a password between 10 and 200 characters.' });
       return;
     }
+    if (password !== passwordConfirmation) {
+      sendJson(response, 400, { error: 'Password and password confirmation do not match.' });
+      return;
+    }
     if (!name || name.length > 120 || !country || country.length > 80 ||
-      !/^\+\d{1,4}$/.test(countryCode) || !/^[\d\s().-]{4,25}$/.test(phone)) {
+      !/^\+\d{1,4}$/.test(countryCode) || !/^[\d\s().-]{4,25}$/.test(phone) ||
+      !city || city.length > 80 || !street || street.length > 180) {
       sendJson(response, 400, { error: 'Complete your name and international phone details.' });
+      return;
+    }
+    if (!process.env.STORE_API_URL || !process.env.STORE_API_TOKEN) {
+      sendJson(response, 503, { error: 'The account database is unavailable.' });
+      return;
+    }
+    let mysqlResult;
+    try {
+      const mysqlResponse = await fetch(process.env.STORE_API_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Store-API-Token': process.env.STORE_API_TOKEN },
+        body: JSON.stringify({ ...body, action: 'customer_register', email, passwordConfirmation })
+      });
+      mysqlResult = await mysqlResponse.json();
+      if (!mysqlResponse.ok) throw new Error(mysqlResult.error || 'The account could not be saved.');
+    } catch (error) {
+      sendJson(response, error.status || 503, { error: error.message });
       return;
     }
     const accounts = readJson(accountsFile);
@@ -279,12 +353,14 @@ async function handleApi(request, response, url) {
     }
     const salt = crypto.randomBytes(16).toString('hex');
     const account = {
-      id: crypto.randomBytes(12).toString('hex'),
+      id: String(mysqlResult.account.id),
       name,
       email,
       country,
       countryCode,
       phone,
+      city,
+      street,
       salt,
       passwordHash: passwordHash(password, salt),
       status: 'active',
@@ -293,7 +369,7 @@ async function handleApi(request, response, url) {
     accounts.push(account);
     writeJson(accountsFile, accounts);
     const token = crypto.randomBytes(32).toString('hex');
-    customerSessions.set(token, { accountId: account.id, expiresAt: Date.now() + sessionLifetime });
+    customerSessions.set(token, { accountId: account.id, account, expiresAt: Date.now() + sessionLifetime });
     sendJson(response, 201, { account: accountPublicView(account) }, {
       'Set-Cookie': sessionCookie('store_customer', token, request)
     });
@@ -304,17 +380,26 @@ async function handleApi(request, response, url) {
     const body = await readBody(request, response);
     const email = typeof body.email === 'string' ? body.email.trim().toLowerCase() : '';
     const password = typeof body.password === 'string' ? body.password : '';
-    const account = readJson(accountsFile).find((item) => item.email === email);
-    if (!account || !constantTimeEqual(account.passwordHash, passwordHash(password, account.salt))) {
-      sendJson(response, 401, { error: 'Email or password is incorrect.' });
+    if (!process.env.STORE_API_URL || !process.env.STORE_API_TOKEN) {
+      sendJson(response, 503, { error: 'The account database is unavailable.' });
       return;
     }
-    if (account.status !== 'active') {
-      sendJson(response, 403, { error: 'This account is suspended. Contact the store for help.' });
+    let mysqlResult;
+    try {
+      const mysqlResponse = await fetch(process.env.STORE_API_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Store-API-Token': process.env.STORE_API_TOKEN },
+        body: JSON.stringify({ action: 'customer_login', email, password })
+      });
+      mysqlResult = await mysqlResponse.json();
+      if (!mysqlResponse.ok) throw new Error(mysqlResult.error || 'Email or password is incorrect.');
+    } catch (error) {
+      sendJson(response, error.status || 401, { error: error.message });
       return;
     }
+    const account = mysqlResult.account;
     const token = crypto.randomBytes(32).toString('hex');
-    customerSessions.set(token, { accountId: account.id, expiresAt: Date.now() + sessionLifetime });
+    customerSessions.set(token, { accountId: account.id, account, expiresAt: Date.now() + sessionLifetime });
     sendJson(response, 200, { account: accountPublicView(account) }, {
       'Set-Cookie': sessionCookie('store_customer', token, request)
     });
@@ -338,8 +423,13 @@ async function handleApi(request, response, url) {
   if (method === 'POST' && pathname === '/api/admin/login') {
     const body = await readBody(request, response);
     const password = typeof body.password === 'string' ? body.password : '';
+    const authenticatorCodeValue = typeof body.authenticatorCode === 'string' ? body.authenticatorCode.trim() : '';
     if (!constantTimeEqual(password, adminPassword)) {
       sendJson(response, 401, { error: 'Administrator password is incorrect.' });
+      return;
+    }
+    if (!validAuthenticatorCode(authenticatorCodeValue)) {
+      sendJson(response, 401, { error: 'The authenticator code must be 6 digits and valid.' });
       return;
     }
     const token = crypto.randomBytes(32).toString('hex');
@@ -409,6 +499,10 @@ async function handleApi(request, response, url) {
         sendJson(response, 400, { error: 'Choose active or suspended status.' });
         return;
       }
+      if (!process.env.STORE_API_URL || !process.env.STORE_API_TOKEN) {
+        sendJson(response, 503, { error: 'The account database is unavailable.' });
+        return;
+      }
       const accounts = readJson(accountsFile);
       const account = accounts.find((item) => item.id === id);
       if (!account) {
@@ -439,7 +533,7 @@ const server = http.createServer(async (request, response) => {
     }
 
     let pathname = decodeURIComponent(url.pathname);
-    pathname = pathname.replace(/^\/www\.kingofchristmas\.com(?=\/|$)/i, '');
+    pathname = pathname.replace(/^\/(?:www\.)?kingofchristmas\.com(?=\/|$)/i, '');
     if (pathname === '/admin' || pathname === '/admin/') pathname = '/admin.html';
     if (pathname.startsWith('/account') && !path.extname(pathname)) pathname = '/account.html';
     if (!pathname || pathname === '/') pathname = '/index.html';

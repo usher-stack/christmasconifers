@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/all.atom"/>
+  <title>Carol's Christmas Conifers</title>
+  <updated>2026-09-06T10:29:40-04:00</updated>
+  <author>
+    <name>Carol's Christmas Conifers</name>
+  </author>
+  <entry>
+    <id>/products/8340743749832</id>
+    <published>2026-09-06T10:29:40-04:00</published>
+    <updated>2026-09-06T10:29:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-rushmore-flock-tree-unlit"/>
+    <title>9&apos; Rushmore Flock Tree Unlit OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/RushmoreFlock_6ae869e2-503e-4f80-916b-140cc87df211.jpg?v=1723214405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From the forests near Mt. Rushmore to the heart of your home, experience the timeless beauty of this majestic tree during the holidays. Expertly crafted to capture the beauty of the Ponderosa Pine, its layered branches and lifelike detail make it practically indistinguishable from the real tree. A striking centerpiece, it brings the genuine magic of the holiday season to your family traditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_rushmore</s:tag>
+    <s:variant>
+      <id>/products/8340743749832</id>
+      <title></title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>OPEN-RUSFLOCK-T9-U</s:sku>
+      <s:grams>21772</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8338130895048</id>
+    <published>2026-08-23T13:44:22-04:00</published>
+    <updated>2026-08-23T13:44:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-7-5-royal-fir"/>
+    <title>7.5&apos; Royal Fir Artificial Christmas Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-8.jpg?v=1718158803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>/products/8338130895048</id>
+      <title></title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>OPEN-RF-T7.5-U</s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336863101128</id>
+    <published>2026-08-14T12:37:43-04:00</published>
+    <updated>2026-08-14T12:37:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-6-5-cypress-spruce-led"/>
+    <title>6.5&apos; Cypress Spruce Tree with Warm White &amp; Multi-Color LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/CypressSpruce_f0f71604-0519-417b-98ce-d9abe379435a.png?v=1714667202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the majestic White Spruce, the Cypress Spruce showcases lush, true-to-nature greenery and vibrant, rich color. Carefully designed for realism and ease, it brings the serene charm of a winter forest into your home for a truly festive season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YGroup_cypress</s:tag>
+    <s:variant>
+      <id>/products/8336863101128</id>
+      <title></title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>OPEN-CS-T6.5-L</s:sku>
+      <s:grams>29030</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336861626568</id>
+    <published>2026-08-14T12:17:51-04:00</published>
+    <updated>2026-08-14T12:17:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-8-hancock-spruce-led"/>
+    <title>8&apos; Hancock Spruce Tree with Warm White LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/HancockSprucePrelit_84bcdf3a-d2af-4e34-b88f-8f55ca29219e.png?v=1760728635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>/products/8336861626568</id>
+      <title></title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>OPEN-HS-T8-L</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336860840136</id>
+    <published>2026-08-14T12:05:50-04:00</published>
+    <updated>2026-08-14T12:05:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-8-hancock-spruce"/>
+    <title>8&apos; Hancock Spruce Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Hancock2_16470dc4-5a0a-410a-a5cf-7678e43b1944.png?v=1760466971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>/products/8336860840136</id>
+      <title></title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>OPEN-HS-T8-U</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336854810824</id>
+    <published>2026-08-14T10:49:09-04:00</published>
+    <updated>2026-08-14T10:49:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-7-hancock-spruce"/>
+    <title>7&apos; Hancock Spruce Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Hancock2.png?v=1760466879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>/products/8336854810824</id>
+      <title></title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>OPEN-HS-T7-U</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336853860552</id>
+    <published>2026-08-14T10:33:27-04:00</published>
+    <updated>2026-08-14T10:33:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-6-hancock-spruce-led"/>
+    <title>6&apos; Hancock Spruce Tree with Warm White LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/HancockSprucePrelit.png?v=1760728505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our handcrafted Hancock Spruce mirrors the natural beauty of a Norway Spruce, capturing its rich color, full shape, and lifelike needles. With authentic details and effortless elegance, it brings the charm of a real tree into your home, creating a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_hancock</s:tag>
+    <s:variant>
+      <id>/products/8336853860552</id>
+      <title></title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>OPEN-HS-T6-L</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336850452680</id>
+    <published>2026-08-14T10:16:03-04:00</published>
+    <updated>2026-08-14T10:16:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-7-5-silverpeak-fir"/>
+    <title>7.5&apos; Silverpeak Fir™ Tree with Lux LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Silverpeakfir.png?v=1761067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a world of holiday magic with the newest Silverpeak Fir, our most exquisitely crafted tree that transforms your home into a whimsical winter wonderland. Inspired by the majestic American White Fir, with every branch and needle meticulously designed to look impossibly real, you’d never believe it didn't come straight from the Rocky Mountains. Its full-bodied foliage, brilliant elegance, and layered shape create a breathtaking centerpiece that radiates warmth, joy, and festive charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>ygroup_silverpeak</s:tag>
+    <s:variant>
+      <id>/products/8336850452680</id>
+      <title></title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>OPEN-SLP-T7.5-L</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336688021704</id>
+    <published>2026-08-13T19:29:47-04:00</published>
+    <updated>2026-08-13T19:29:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-alpine-fir-slim"/>
+    <title>9&apos; Alpine Fir Slim Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Alpinefirslim_caddfb10-ed35-4b52-bef1-83f288f9c98c.jpg?v=1722887884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/8336688021704</id>
+      <title></title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>OPEN-AFG-ST-9-U</s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336687431880</id>
+    <published>2026-08-13T19:18:35-04:00</published>
+    <updated>2026-08-13T19:18:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-king-fraser-fir-slim"/>
+    <title>9&apos; King Fraser Fir Slim Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/king-fraser-fir.jpg?v=1718159107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate the holiday season with the natural splendor of the Appalachian Mountains brought right into your home with the King Fraser Fir. Designed to mirror the majestic Fraser Fir, its lush foliage and classic conical shape really captures the authenticity of a real tree. Find the perfect size for your space and enjoy a holiday season full of lifelike charm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YGroup_fraserfir</s:tag>
+    <s:variant>
+      <id>/products/8336687431880</id>
+      <title></title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>OPEN-KFFS-T9-U</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336686481608</id>
+    <published>2026-08-13T19:05:55-04:00</published>
+    <updated>2026-08-13T19:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-king-douglas-fir-slim-led"/>
+    <title>9&apos; King Douglas Fir Slim Tree with Warm White &amp; Multi-Color LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingDouglasFirSlim_b6ee2028-b2be-4aa7-b263-477f086b3c1c.jpg?v=1783959840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>/products/8336686481608</id>
+      <title></title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>OPEN-KDFS-T9-L</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336686022856</id>
+    <published>2026-08-13T18:54:26-04:00</published>
+    <updated>2026-08-13T18:54:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-king-douglas-fir-slim"/>
+    <title>9&apos; King Douglas Fir Slim Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-9.jpg?v=1718158796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the natural elegance of a real Douglas Fir, the King Douglas Fir features lifelike needles and a graceful, slender silhouette. Handcrafted with meticulous attention to detail, Designed for realism and effortless upkeep, it fills your home with the spirit of the season and becomes a cherished centerpiece for holiday celebrations year after year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_kingdouglas</s:tag>
+    <s:variant>
+      <id>/products/8336686022856</id>
+      <title></title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku>OPEN-KDFS-T9-U</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336684351688</id>
+    <published>2026-08-13T18:28:35-04:00</published>
+    <updated>2026-08-13T18:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-8-tribeca-blue"/>
+    <title>8&apos; Tribeca Blue Spruce Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/FlockedGroup-7_38d1a301-d01f-445c-b500-c0c3c60d9dc1.jpg?v=1718158867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the joy and natural beauty of a Colorado winter into your home with our Tribeca Spruce, inspired by the magnificent Colorado Blue Spruce. Expertly handcrafted with meticulous attention to detail, each tree flawlessly replicates the bluish-green needles and elegant form of a genuine Blue Spruce tree. Perfect for festive gatherings, it adds warmth, charm, and holiday cheer to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_tribeca</s:tag>
+    <s:variant>
+      <id>/products/8336684351688</id>
+      <title></title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>OPEN-TBS-T8-U</s:sku>
+      <s:grams>23133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336683729096</id>
+    <published>2026-08-13T18:09:56-04:00</published>
+    <updated>2026-08-13T18:09:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-rushmore-fir-led"/>
+    <title>9&apos; Rushmore Fir Tree with Warm White LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/RushmoreFir_fe27b490-2118-4102-a560-b317260f5439.png?v=1722013358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From the forests near Mt. Rushmore to the heart of your home, experience the timeless beauty of this majestic tree during the holidays. Expertly crafted to capture the beauty of the Ponderosa Pine, its layered branches and lifelike detail make it practically indistinguishable from the real tree. A striking centerpiece, it brings the genuine magic of the holiday season to your family traditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_rushmore</s:tag>
+    <s:variant>
+      <id>/products/8336683729096</id>
+      <title></title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>OPEN-RUSF-T9-L</s:sku>
+      <s:grams>37195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336643227848</id>
+    <published>2026-08-13T13:45:39-04:00</published>
+    <updated>2026-08-13T13:45:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-6-5-royal-fir-led"/>
+    <title>6.5&apos; Royal Fir Tree with Warm White &amp; Multi-Color LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/RoyalFir_20f68d8d-c632-40c6-9197-a0d56de53b1b.png?v=1722013184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your holiday season with the authentically crafted Royal Fir, inspired by the grandeur of the stately Grand Fir and its iconic, lush greenery. Each branch is designed to showcase rich foliage, creating a warm, inviting centerpiece perfect for treasured traditions, cozy gatherings, and unforgettable holiday memories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YGroup_royal</s:tag>
+    <s:variant>
+      <id>/products/8336643227848</id>
+      <title></title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>OPEN-RF-T6.5-L</s:sku>
+      <s:grams>23587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336641687752</id>
+    <published>2026-08-13T13:26:49-04:00</published>
+    <updated>2026-08-13T13:26:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-7-5-rushmore-flock-led"/>
+    <title>7.5&apos; Rushmore Flock Tree with Warm White LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/RushmoreFlockLED.jpg?v=1723214362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From the forests near Mt. Rushmore to the heart of your home, experience the timeless beauty of this majestic tree during the holidays. Expertly crafted to capture the beauty of the Ponderosa Pine, its layered branches and lifelike detail make it practically indistinguishable from the real tree. A striking centerpiece, it brings the genuine magic of the holiday season to your family traditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YGroup_rushmore</s:tag>
+    <s:variant>
+      <id>/products/8336641687752</id>
+      <title></title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>OPEN-RUSFLOCK-T7.5-L</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7171541205192</id>
+    <published>2026-08-13T13:05:53-04:00</published>
+    <updated>2026-08-13T13:05:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-king-noble-flock-unlit"/>
+    <title>9&apos; King Noble Flock Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingNobleFlock_5f4659c6-5d82-4165-9edb-de0efd368efa.jpg?v=1722888266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>/products/7171541205192</id>
+      <title></title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>OPEN-KNFL-T9-U</s:sku>
+      <s:grams>20865</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336635592904</id>
+    <published>2026-08-13T12:32:29-04:00</published>
+    <updated>2026-08-13T12:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-7-prince-pencil-led"/>
+    <title>7&apos; Prince Flock® Pencil Tree with Warm White LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/PrincePencilTreeLED.jpg?v=1786129938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the serene beauty of a snow-dusted forest into your home with the Prince Flock. Designed to reflect the natural charm of a Subalpine Fir from the Rocky Mountains, its frosted needles and realistic shape evoke the tranquility of a winter landscape. Perfectly detailed, it becomes a stunning centerpiece for your holiday celebrations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_princeflock</s:tag>
+    <s:variant>
+      <id>/products/8336635592904</id>
+      <title></title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>OPEN-PFP-T7-L</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336634413256</id>
+    <published>2026-08-13T12:15:09-04:00</published>
+    <updated>2026-08-13T12:15:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-yorkshire-fir-slim-led"/>
+    <title>9&apos; Yorkshire Fir Slim Tree with Warm White LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/YorkshireFirSlim_ccca68ea-ba2a-4c59-89ec-d7058cf6566f.png?v=1722014906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:tag>Yorkshire Fir</s:tag>
+    <s:variant>
+      <id>/products/8336634413256</id>
+      <title></title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>OPEN-YFS-T9-L</s:sku>
+      <s:grams>22226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336632742088</id>
+    <published>2026-08-13T11:57:26-04:00</published>
+    <updated>2026-08-13T11:57:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-yorkshire-fir-slim"/>
+    <title>9&apos; Yorkshire Fir Slim Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/yorkshire-fir-slim_1442b025-0440-4e80-a86a-f3403c6620d9.jpg?v=1722014812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:variant>
+      <id>/products/8336632742088</id>
+      <title></title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku>OPEN-YFS-T9-U</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336629661896</id>
+    <published>2026-08-13T11:23:45-04:00</published>
+    <updated>2026-08-13T11:23:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-7-5-alpine-fir-slim"/>
+    <title>7.5&apos; Alpine Fir Slim Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Alpinefirslim_36318a79-a4a2-429f-894c-4e19bcca0894.jpg?v=1722887140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            229.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/8336629661896</id>
+      <title></title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku>OPEN-AFG-ST-7-5-U</s:sku>
+      <s:grams>18144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336627957960</id>
+    <published>2026-08-13T10:53:36-04:00</published>
+    <updated>2026-08-13T10:53:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-yorkshire-led"/>
+    <title>9&apos; Yorkshire Fir Tree with Warm White LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Yorkshire-Fir-v1_23ae7381-9bff-4ab6-bc4e-03772aa06a76.png?v=1722014827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:variant>
+      <id>/products/8336627957960</id>
+      <title></title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>OPEN-YF-T9-L</s:sku>
+      <s:grams>31298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336627368136</id>
+    <published>2026-08-13T10:40:05-04:00</published>
+    <updated>2026-08-13T10:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/open-box-9-yorkshire-fir-tree-unlit"/>
+    <title>9&apos; Yorkshire Fir Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/products/FlockedGroup-10_61eacf34-bab4-43db-8fcd-370742daf7fa.jpg?v=1718159153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your home into a charming winter oasis with the beautifully sculpted Yorkshire Fir. Skillfully created to reflect the natural beauty of the Silver Fir, its full foliage and rich color bring the warmth and charm of a real tree right into your home. Perfect for creating a timeless centerpiece, it invites joy and celebration throughout the season.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>Unlit</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_yorkshire</s:tag>
+    <s:variant>
+      <id>/products/8336627368136</id>
+      <title></title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>OPEN-YF-T9-U</s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8336563962056</id>
+    <published>2026-08-12T19:15:03-04:00</published>
+    <updated>2026-08-12T19:15:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-8-king-noble-flock"/>
+    <title>8&apos; King Noble Flock Tree Unlit - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingNobleFlock_b4b92005-ec00-4c77-860d-a83cd47ed352.jpg?v=1723214238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the unique beauty of the King Noble, a true masterpiece that perfectly replicates the sparse silhouette of the classic Noble Fir.Each branch is expertly crafted to ensure a lifelike look that offers the perfect backdrop for your cherished ornaments. Ideal as a centerpiece or secondary tree, it shines wherever it’s displayed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:tag>YGroup_noble</s:tag>
+    <s:variant>
+      <id>/products/8336563962056</id>
+      <title></title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>OPEN-KNFL-T8-U</s:sku>
+      <s:grams>14969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/8335735488712</id>
+    <published>2026-08-07T17:24:22-04:00</published>
+    <updated>2026-08-07T17:24:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/openbox-9-alpine-fir-slim-tree-led"/>
+    <title>9&apos; Alpine Fir Slim Tree with Warm White LED Lights - OPEN BOX - FINAL SALE</title>
+    <s:type>OPENBOX</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/AlpineFirSlimLED_f9acf269-0193-4420-90ab-d7079a6f9008.jpg?v=1723214101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>OPENBOX<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted for lifelike realism, each branch mirrors the natural growth, color, and texture of a real Alpine Fir, native to the Washington state region. Enjoy festive charm without watering or needle cleanup, and bring the magic of a mountain-inspired Christmas into your home with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>final sale</s:tag>
+    <s:tag>open_box</s:tag>
+    <s:tag>YGroup_alpine</s:tag>
+    <s:variant>
+      <id>/products/8335735488712</id>
+      <title></title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>OPEN-AFG-ST-9-L</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+</feed>

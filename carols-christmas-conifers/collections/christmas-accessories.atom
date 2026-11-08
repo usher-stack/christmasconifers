@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/christmas-accessories.atom"/>
+  <title>Carol's Christmas Conifers</title>
+  <updated>2025-11-28T13:47:03-05:00</updated>
+  <author>
+    <name>Carol's Christmas Conifers</name>
+  </author>
+  <entry>
+    <id>/products/8259631546568</id>
+    <published>2025-11-28T13:47:03-05:00</published>
+    <updated>2025-11-28T13:47:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/tree-remote"/>
+    <title>Tree Remote</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Screenshot2025-11-25at2.43.08PM.png?v=1764099799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Make your home glow with ease using the Carol's Christmas Conifers Tree Remote Control, designed to bring the beauty of your tree to life with just the touch of a button.</p>
+<p data-end="535" data-start="521">Please note:</p>
+<ul data-end="815" data-start="536">
+<li data-end="625" data-start="536">
+<p data-end="625" data-start="538">This remote is compatible with Carol's Christmas Conifers tree models from 2021 and newer.</p>
+</li>
+<li data-end="731" data-start="626">
+<p data-end="731" data-start="628"><strong data-end="660" data-start="628">Functions vary by tree model</strong>, so be sure to check your tree’s product page for specific features.</p>
+</li>
+<li data-end="815" data-start="732">
+<p data-end="815" data-start="734">Not compatible with the <strong>Silverpeak Fir™</strong> or <strong data-end="802" data-start="784">Windsor Family</strong> collections.</p>
+</li>
+<li data-end="815" data-start="732"><span> Must point the remote toward the foot pedal for it to work properly.</span></li>
+</ul>
+<p><span><meta charset="utf-8">
+<em><strong>FINAL SALE. NO RETURNS OR EXCHANGES.</strong></em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>parts-sale</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:variant>
+      <id>/products/8259631546568</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>TREEREMOTE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620793893064</id>
+    <published>2023-11-28T11:36:13-05:00</published>
+    <updated>2023-11-28T11:36:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-pack-silver-accents"/>
+    <title>Silver Accents Glass Ornament Set (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/SilverAccentsGlassOrnamentSet_12Pack.png?v=1722013706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Silver Accents Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the priceless memories that surround it.</p>
+<p>With 12 distinctively designed pieces offering an elegant blend of stunning silvers; this unique set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p>
+<p>*Pairs perfectly with our Gold Accents Ornament Set (12 Pack).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated12</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>VHM4B7C</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620793893064</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>VHM4B7C</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794220744</id>
+    <published>2023-11-28T11:35:57-05:00</published>
+    <updated>2023-11-28T11:35:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/8-pack-silver-dipped-pine"/>
+    <title>Silver Dipped Pine Cones (8 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/SilverDippedPineCones1.png?v=1722013736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Silver Dipped Pine Cones Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the priceless memories that surround it.</p>
+<p>With 8 gorgeous pieces offering an elegant assortment of silver hues, this must-have set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GAU8F2B</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated6-8</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620794220744</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>GAU8F2B</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620793860296</id>
+    <published>2023-11-28T11:34:03-05:00</published>
+    <updated>2023-11-28T11:34:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/12-pack-gold-accents"/>
+    <title>Gold Accents Glass Ornament Set (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Untitleddesign_17.png?v=1771956501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Gold Accents Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the memories that surround it.</p>
+<p>With 12 distinctively designed pieces offering an elegant blend of glamorous golds; this unique set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p>
+<p>*Pairs perfectly with our Silver Accents Ornament Set (12 Pack).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>JMF2K4E</s:tag>
+    <s:tag>ornamentrelated12</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620793860296</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>JMF2K4E</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794613960</id>
+    <published>2023-11-21T14:15:01-05:00</published>
+    <updated>2023-11-21T14:15:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/silver-burst-picks"/>
+    <title>Silver Burst Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/SilverBurstPicks_12Pack.png?v=1722013727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sometimes you don’t know you need something
+<br>until you see it, like an elegant set of Silver Burst
+<br>Picks. With a sparkling beauty that will bring joy to
+<br>you and your guests for years to come, these picks
+<br>are the holiday accent that can fit in virtually
+<br>anywhere. Infuse your holiday decorations with a
+<br>sparkling burst of silvery holiday magic.
+<br>Whether you want to add some extra flair to your
+<br>centerpiece or inject some dimension to your
+<br>wreath, garland, or tabletop display, you can’t go
+<br>wrong with a stylish set of elegant holiday picks.
+<br>Grab a set of 12 Silver Burst Picks for your space
+<br>today, and let your creativity run wild.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EDS6Y5T</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>/products/7620794613960</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>EDS6Y5T</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794777800</id>
+    <published>2023-11-21T14:14:00-05:00</published>
+    <updated>2023-11-21T14:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/gold-leaf-picks"/>
+    <title>Rosegold Leaf Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingOfChristmas2025_BrookePavelPhoto012.jpg?v=1765555967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create a beautiful, timeless holiday scene with a
+<br>set of Gold Leaf Picks. These meticulously crafted
+<br>holiday picks truly capture the spirit of the season
+<br>with their bold and beautiful golden leaves.
+<br>Whether you’re decorating for your annual
+<br>Christmas party or just adding a touch of holiday
+<br>cheer to your home, these elegantly detailed picks
+<br>bring an inviting spirit of tradition to your holiday
+<br>oasis.
+<br>Whether you want to add some extra flair to your
+<br>centerpiece or inject some dimension to your
+<br>wreath, garland, or tabletop display, you can’t go
+<br>wrong with a stylish set of elegant holiday picks.
+<br>Grab a set of 12 Gold Leaf Picks for your space
+<br>today, and let your creativity run wild.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DFJ2W4G</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>/products/7620794777800</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>DFJ2W4G</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794745032</id>
+    <published>2023-11-21T14:10:44-05:00</published>
+    <updated>2023-11-21T14:10:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/berry-pine-picks"/>
+    <title>Berry and Pine Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/BerryandPinePicks_12Pack_bdb6921a-6fa0-4e05-8782-8488df80d70b.png?v=1714662133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the beauty of the holiday season to any room
+<br>with festive Berry and Pine Picks! These elegantly
+<br>crafted accents are highlighted by festive red
+<br>berries and beautiful pine branches, creating a
+<br>traditional and homey holiday atmosphere that
+<br>radiates unmatched feelings of comfort and joy.
+<br>Whether you want to add some extra flair to your
+<br>centerpiece or inject some dimension to your
+<br>wreath, garland, or tabletop display, you can’t go
+<br>wrong with a stylish set of elegant holiday picks.
+<br>Grab a set of 12 Berry and Pine Picks for your space
+<br>today, and let your creativity run wild.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>TSX8P7B</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>/products/7620794745032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>TSX8P7B</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794646728</id>
+    <published>2023-11-21T14:06:14-05:00</published>
+    <updated>2023-11-21T14:06:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="/products/golden-berry-picks"/>
+    <title>Silver Berry Picks (12 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/SilverBerryPicks_12Pack_7006c7d5-5650-4b5e-ac71-429019b0ba69.png?v=1722013720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make the most of your holiday setting by layering
+<br>in some festive Golden Berry Picks. Perfectly sized
+<br>to fit almost anywhere, these elegant picks feature
+<br>detailed branches of gold-sprayed berries as a
+<br>signature highlight. Add that final touch to your
+<br>oasis with these cheerful decorations as you feel
+<br>the joy of the season and create memories that will
+<br>last a lifetime.
+<br>Whether you want to add some extra flair to your
+<br>centerpiece or inject some dimension to your
+<br>wreath, garland, or tabletop display, you can’t go
+<br>wrong with a stylish set of elegant holiday picks.
+<br>Grab a set of 12 Golden Berry Picks for your space
+<br>today, and let your creativity run wild.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>picks</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_picks</s:tag>
+    <s:tag>VAG9S8V</s:tag>
+    <s:tag>YGroup_picks</s:tag>
+    <s:variant>
+      <id>/products/7620794646728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>VAG9S8V</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794384584</id>
+    <published>2023-10-26T15:14:50-04:00</published>
+    <updated>2023-10-26T15:14:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/red-thin-ribbon"/>
+    <title>Classic Thin Red Ribbon (10 Yards)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/ClassicThinRedRibbon.png?v=1714662232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Talk about a timeless tradition that will never go
+<br>out of style. Red ribbon has been a staple of every
+<br>holiday oasis for decades. Our Classic Red Thin
+<br>Ribbon takes it to the next level, perfectly
+<br>complementing your setting with a splash of red
+<br>that is accented with an elegant gold trim.
+<br>Whether you’re putting the finishing touches on
+<br>your centerpiece, wrapping your wreaths,
+<br>accessorizing gift boxes, or seeking to add a quick
+<br>splash of holiday magic to that space that needs
+<br>just a bit more love, a little ribbon can go a long
+<br>way.
+<br>With a generous 10 yards in length, the decorating
+<br>possibilities are truly endless. Let your creativity
+<br>run wild and bring your Christmas dreams to life
+<br>this holiday season with a roll of the distinguished
+<br>Classic Red Thin Ribbon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>ribbons</s:tag>
+    <s:tag>type_ribbon</s:tag>
+    <s:tag>VEV5K8F</s:tag>
+    <s:tag>YGroup_ribbon</s:tag>
+    <s:variant>
+      <id>/products/7620794384584</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>VEV5K8F</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794056904</id>
+    <published>2023-10-26T12:30:00-04:00</published>
+    <updated>2023-10-26T12:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-pack-silver-frosted"/>
+    <title>Silver Frosted Ornament Set (6 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Final11.png?v=1714662353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Silver Frosted Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the priceless memories that surround it.</p>
+<p>With 6 distinctively designed pieces offering a gorgeous, frosty blend of silver and white, this unique set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FRP2S9R</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated6-8</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620794056904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>FRP2S9R</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7629156417736</id>
+    <published>2023-10-26T12:25:38-04:00</published>
+    <updated>2023-10-26T12:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/sphere-glass-ornament"/>
+    <title>Sphere Glass Ornament Set (6 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/SphereOrnaments1.png?v=1722013853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create the perfect holiday atmosphere this
+<br>Christmas with the Sphere Glass Ornament Set!
+<br>Transform your home into a winter wonderland
+<br>with these six teardrop-shaped glass ornaments
+<br>that measure 7 inches long. Each ornament is filled
+<br>with festive cheer, perfectly encapsulating the joy
+<br>of the season. Hang them on your tree or around
+<br>the house to spread some holiday spirit in your
+<br>home! The whimsical design emits an aura of
+<br>charm and elegance for any room. Give your living
+<br>space an extra dose of seasonal magic this year
+<br>with the Sphere Glass Ornament Set!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated6-8</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>SMG9Q3V</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7629156417736</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>SMG9Q3V</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794548424</id>
+    <published>2023-10-25T08:26:32-04:00</published>
+    <updated>2023-10-25T08:26:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/gold-mesh-ribbon"/>
+    <title>Gold Mesh Ribbon (10 Yards)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/GoldMeshRibbon.png?v=1714671309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Details matter when it comes to creating a
+<br>memorable Christmas setting. And what better way
+<br>to dress up your holiday décor than with our
+<br>distinctively designed Gold Mesh Ribbon. This
+<br>elegant and unique ribbon offers a mesh effect that
+<br>adds an extra touch of detail to your oasis, creating
+<br>a glowing ambiance that your family and guests will
+<br>truly appreciate.
+<br>Whether you’re putting the finishing touches on
+<br>your centerpiece, wrapping your wreaths,
+<br>accessorizing gift boxes, or seeking to add a quick
+<br>splash of holiday magic to that space that needs
+<br>just a bit more love, a little ribbon can go a long
+<br>way.
+<br>With a generous 10 yards in length, the decorating
+<br>possibilities are truly endless. Let your creativity
+<br>run wild and bring your Christmas dreams to life
+<br>this holiday season with a roll of the distinguished
+<br>Gold Mesh Ribbon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DQB3F6S</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>ribbons</s:tag>
+    <s:tag>type_ribbon</s:tag>
+    <s:tag>YGroup_ribbon</s:tag>
+    <s:variant>
+      <id>/products/7620794548424</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>DQB3F6S</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794515656</id>
+    <published>2023-10-25T08:25:45-04:00</published>
+    <updated>2023-10-25T08:25:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/white-glitter-ribbon"/>
+    <title>White Glitter Ribbon (10 Yards)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/P1010820copy.png?v=1714674753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A perfect way to add some sparkle to your
+<br>cherished holiday traditions, our White Glitter
+<br>Ribbon was designed to make your festivities
+<br>magical, merry, and memorable. Carefully crafted
+<br>with the perfect balance of glitter, this alluring
+<br>ribbon adds that distinct touch of holiday cheer
+<br>you’ve been looking for.
+<br>Whether you’re putting the finishing touches on
+<br>your centerpiece, wrapping your wreaths,
+<br>accessorizing gift boxes, or seeking to add a quick
+<br>splash of holiday magic to that space that needs
+<br>just a bit more love, a little ribbon can go a long
+<br>way.
+<br>With a generous 10 yards in length, the decorating
+<br>possibilities are truly endless. Let your creativity
+<br>run wild and bring your Christmas dreams to life
+<br>this holiday season with a roll of the distinguished
+<br>White Glitter Ribbon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>KWN2M2Y</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>ribbons</s:tag>
+    <s:tag>type_ribbon</s:tag>
+    <s:tag>YGroup_ribbon</s:tag>
+    <s:variant>
+      <id>/products/7620794515656</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>KWN2M2Y</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794482888</id>
+    <published>2023-10-25T08:23:01-04:00</published>
+    <updated>2023-10-25T08:23:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/gold-glitter-ribbon"/>
+    <title>Gold Glitter Ribbon (10 Yards)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/P1020184copy.png?v=1714674770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the spirit of the holidays into your home with
+<br>Gold Glitter Ribbon from Carol's Christmas Conifers. Made
+<br>with sparkling glitter accents, this elegant gold
+<br>ribbon exudes a festive sheen and is perfect for
+<br>that traditional Christmas setting that will instill
+<br>the best memories season after season.
+<br>Whether you’re putting the finishing touches on
+<br>your centerpiece, wrapping your wreaths,
+<br>accessorizing gift boxes, or seeking to add a quick
+<br>splash of holiday magic to that space that needs
+<br>just a bit more love, a little ribbon can go a long
+<br>way.
+<br>With a generous 10 yards in length, the decorating
+<br>possibilities are truly endless. Let your creativity
+<br>run wild and bring your Christmas dreams to life
+<br>this holiday season with a roll of the distinguished
+<br>Gold Glitter Ribbon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FNM3S2J</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>ribbons</s:tag>
+    <s:tag>type_ribbon</s:tag>
+    <s:tag>YGroup_ribbon</s:tag>
+    <s:variant>
+      <id>/products/7620794482888</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>FNM3S2J</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794417352</id>
+    <published>2023-10-25T08:20:37-04:00</published>
+    <updated>2023-10-25T08:20:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/royal-green-ribbon"/>
+    <title>Royal Green Ribbon (10 Yards)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/1_0b9f2410-cdbe-4ce4-8695-49444202caa8.jpg?v=1718159242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Royal Green Ribbon is a holiday must-have that
+<br>adds a majestic touch to your Christmas décor. This
+<br>elegant ribbon features unique gold accents that
+<br>will make your holiday oasis sparkle and shine
+<br>brighter than ever before while adding a timeless
+<br>tradition to your seasonal celebrations that will
+<br>create warm memories for years to come.
+<br>Whether you’re putting the finishing touches on
+<br>your centerpiece, wrapping your wreaths,
+<br>accessorizing gift boxes, or seeking to add a quick
+<br>splash of holiday magic to that space that needs
+<br>just a bit more love, a little ribbon can go a long
+<br>way.
+<br>With a generous 10 yards in length, the decorating
+<br>possibilities are truly endless. Let your creativity
+<br>run wild and bring your Christmas dreams to life
+<br>this holiday season with a roll of the distinguished
+<br>Royal Green Ribbon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>LCV9S2E</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>ribbons</s:tag>
+    <s:tag>type_ribbon</s:tag>
+    <s:tag>YGroup_ribbon</s:tag>
+    <s:variant>
+      <id>/products/7620794417352</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>LCV9S2E</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794319048</id>
+    <published>2023-10-25T08:11:51-04:00</published>
+    <updated>2023-10-25T08:11:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/silver-ribbon"/>
+    <title>Simple Silver Ribbon (10 Yards)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/P1020097copy.png?v=1714674766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for the ideal way to give your holiday
+<br>decorations the traditional touch they deserve?
+<br>Look no further than our Classic Silver Ribbon. With
+<br>stunning hue of shimmering silver, this ribbon is
+<br>guaranteed to instantly elevate any holiday setting.
+<br>Whether you’re putting the finishing touches on
+<br>your centerpiece, wrapping your wreaths,
+<br>accessorizing gift boxes, or seeking to add a quick
+<br>splash of holiday magic to that space that needs
+<br>just a bit more love, a little ribbon can go a long
+<br>way.
+<br>With a generous 10 yards in length, the decorating
+<br>possibilities are truly endless. Let your creativity
+<br>run wild and bring your Christmas dreams to life
+<br>this holiday season with a roll of the distinguished
+<br>Classic Silver Ribbon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CEF6J8Q</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>ribbons</s:tag>
+    <s:tag>type_ribbon</s:tag>
+    <s:tag>YGroup_ribbon</s:tag>
+    <s:variant>
+      <id>/products/7620794319048</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>CEF6J8Q</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794253512</id>
+    <published>2023-10-25T08:05:03-04:00</published>
+    <updated>2023-10-25T08:05:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-pack-silver-nutcracker"/>
+    <title>Silver Nutcracker Glass Ornament Set (6 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/SilverNutcrackercopy.png?v=1722013746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Silver Nutcracker Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the priceless memories that surround it.</p>
+<p>With 6 silver pieces offering a classic vibe inside a timeless holiday staple, this must-have set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ELZ7T7Y</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated6-8</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620794253512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>ELZ7T7Y</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794089672</id>
+    <published>2023-10-25T08:01:39-04:00</published>
+    <updated>2023-10-25T08:01:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/8-pack-bubbles"/>
+    <title>Bubbles Glass Ornament Set (8 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/bubbleornaments.png?v=1771956473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Bubbles Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the priceless memories that surround it.</p>
+<p>With 8 pieces offering a beautiful semblance of white and clear bubbles, this unique set gives you the perfect final touch for a fun centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>LPV6W4V</s:tag>
+    <s:tag>ornamentrelated6-8</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620794089672</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>LPV6W4V</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620794024136</id>
+    <published>2023-10-25T07:55:34-04:00</published>
+    <updated>2023-10-25T07:55:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-pack-bronze-distressed"/>
+    <title>Distressed Bronze Glass Ornament Set (6 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/P1020312copy-final3.png?v=1714674775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Distressed Bronze Glass Ornament Set is carefully handcrafted to complement the magnificence of your Christmas tree and the priceless memories that surround it.</p>
+<p>With 6 distinctively designed pieces offering a rustic radiance of distressed bronze beauty, this unique set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated6-8</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>SHJ6D9F</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620794024136</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>SHJ6D9F</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620793958600</id>
+    <published>2023-10-25T07:53:26-04:00</published>
+    <updated>2023-10-25T07:53:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-pack-white-distressed"/>
+    <title>Distressed White Glass Ornament Set (6 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/KingOfChristmas2025_BrookePavelPhoto010.jpg?v=1765556005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Distressed White Glass Ornament Set is carefully handcrafted to complement the magnificence of your Christmas tree and the priceless memories that surround it.</p>
+<p>With 6 distinctively designed pieces offering a timeless aura of distressed white beauty, this unique set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated6-8</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>UBD7D3W</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620793958600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>UBD7D3W</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620793925832</id>
+    <published>2023-10-25T07:49:19-04:00</published>
+    <updated>2023-10-25T07:49:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-pack-silver-twists"/>
+    <title>Silver Twists Glass Ornament Set (6 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/SilverTwistOrnamentSet.png?v=1722013768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Silver Twists Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the priceless memories that surround it.</p>
+<p>With 6 meticulously designed pieces offering an elegant “twist” of silvery holiday spirit, this unique set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GBW2U9C</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated6-8</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620793925832</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>GBW2U9C</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620793827528</id>
+    <published>2023-10-25T07:46:53-04:00</published>
+    <updated>2023-10-25T07:46:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/24-pack-red-essential-glass-ornament"/>
+    <title>Red Essential Glass Ornaments (24 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/ClassicRedRibbon_10Yards_79c1abb5-5538-4828-8ee0-e606c0b38ea3.png?v=1769702552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Red Essential Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the memories that surround it.</p>
+<p>With 24 pieces offering a beautiful blend of matte and gloss reds, this gorgeous set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p>
+<p>*Pairs perfectly with our Green Essential Glass Ornament Set (24 Pack).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>JEG5S9C</s:tag>
+    <s:tag>ornamentrelatedessential</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620793827528</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>JEG5S9C</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620793794760</id>
+    <published>2023-10-25T07:45:35-04:00</published>
+    <updated>2023-10-25T07:45:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/24-pack-green-essential-glass-ornament"/>
+    <title>Green Essential Glass Ornaments (24 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/P1010994copy_1.png?v=1714674759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Green Essential Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the memories that surround it.</p>
+<p>With 24 pieces offering a beautiful blend of matte and gloss greens; this gorgeous set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p>
+<p>*Pairs perfectly with our Burgundy Essential Glass Ornament Set (24 Pack) or Red Essential Glass Ornament Set (24 Pack).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FQF8K5L</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelatedessential</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620793794760</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>FQF8K5L</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620793761992</id>
+    <published>2023-10-25T07:43:24-04:00</published>
+    <updated>2023-10-25T07:43:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/24-pack-burgundy-essential-glass-ornament"/>
+    <title>Burgundy Essential Glass Ornaments (24 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/BurgundyEssentialOrnamentSet.png?v=1714662456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it comes to holiday traditions, hanging the ornaments with your loved ones sparks some of the most memorable moments of the season. That means you can’t just settle for any ordinary ornaments. Each Burgundy Essential Glass Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the memories that surround it.</p>
+<p>With 24 pieces offering a beautiful blend of matte and gloss reds; this gorgeous set gives you the perfect final touch for a centerpiece that demands attention and stands out from the rest.</p>
+<p>*Pairs perfectly with our Green Essential Glass Ornament Set (24 Pack).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelatedessential</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:tag>ZGS7V7C</s:tag>
+    <s:variant>
+      <id>/products/7620793761992</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>ZGS7V7C</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/7620793663688</id>
+    <published>2023-10-25T07:40:37-04:00</published>
+    <updated>2023-10-25T07:40:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/48-pack-silver-shatterproof"/>
+    <title>Silver Shatterproof Ornaments (48 Pack)</title>
+    <s:type>Christmas Accessories</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/SilverShatterproofcopy_1.png?v=1722013751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Christmas Accessories<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether you have kids, cats, or simply want that extra peace of mind when hanging or storing your ornament collection, you can’t go wrong with the unmatched durability of a beautiful shatterproof set. Each Silver Shatterproof Ornament Set is carefully handcrafted to complement the beauty of your Christmas tree and the memories that surround it.</p>
+<p>With 48 shatterproof pieces offering a refined blend of gloss and matte silvers, this lovely set gives you the perfect final touch for a centerpiece that not only demands attention but also withstands any attacks from your furry friends or little ones!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>google</s:tag>
+    <s:tag>ornamentrelated48</s:tag>
+    <s:tag>refund_fee:1500</s:tag>
+    <s:tag>type_ornament</s:tag>
+    <s:tag>WDE2Z3Z</s:tag>
+    <s:tag>YGroup_ornament</s:tag>
+    <s:variant>
+      <id>/products/7620793663688</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>WDE2Z3Z</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

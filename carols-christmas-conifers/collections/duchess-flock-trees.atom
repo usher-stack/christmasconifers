@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/duchess-flock-trees.atom"/>
+  <title>Carol's Christmas Conifers</title>
+  <updated>2019-10-11T18:41:16-04:00</updated>
+  <author>
+    <name>Carol's Christmas Conifers</name>
+  </author>
+  <entry>
+    <id>/products/4099307733056</id>
+    <published>2019-10-11T18:41:16-04:00</published>
+    <updated>2019-10-11T18:41:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-blue-flock-tree-led"/>
+    <title>7.5&apos; Duchess Blue Flock Artificial Christmas Tree with 600 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/BlueDuchess_69c41b62-c1c6-436a-99c8-78b2c505eb2a.jpg?v=1714666419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a magical winter wonderland into your home with the one and only, Duchess Flock. This artfully designed masterpiece features vibrant colors and intricate details, creating a unique, unforgettable centerpiece that delights and inspires holiday memories for years to come.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Flock</s:tag>
+    <s:tag>BLUEF-T7-5L</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Duchess</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>refund_fee:5500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_duchess</s:tag>
+    <s:variant>
+      <id>/products/4099307733056</id>
+      <title>7.5&apos; / Blue</title>
+      <s:price currency="USD">449.00</s:price>
+      <s:sku>BLUEF-T7-5L</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/4099307667520</id>
+    <published>2019-10-11T18:41:14-04:00</published>
+    <updated>2019-10-11T18:41:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-5-blue-flock-tree-led"/>
+    <title>6.5&apos; Duchess Blue Flock Artificial Christmas Tree with 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/BlueDuchess_bf0a3bb7-e06d-4c25-9ab5-6f5eeed9128e.jpg?v=1714666421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a magical winter wonderland into your home with the one and only, Duchess Flock. This artfully designed masterpiece features vibrant colors and intricate details, creating a unique, unforgettable centerpiece that delights and inspires holiday memories for years to come.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Flock</s:tag>
+    <s:tag>BLUEF-T6-5L</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Duchess</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_duchess</s:tag>
+    <s:variant>
+      <id>/products/4099307667520</id>
+      <title>6.5&apos; / Blue</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>BLUEF-T6-5L</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/4099307601984</id>
+    <published>2019-10-11T11:53:42-04:00</published>
+    <updated>2019-10-11T11:53:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/6-5-pink-flock-tree-led"/>
+    <title>6.5&apos; Duchess Pink Flock Artificial Christmas Tree with 500 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Pink.Duchess.jpg?v=1718157841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a magical winter wonderland into your home with the one and only, Duchess Flock. This artfully designed masterpiece features vibrant colors and intricate details, creating a unique, unforgettable centerpiece that delights and inspires holiday memories for years to come.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-6.5 Foot</s:tag>
+    <s:tag>bing</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Duchess</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Flock</s:tag>
+    <s:tag>PINKF-T6-5L</s:tag>
+    <s:tag>refund_fee:3500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_duchess</s:tag>
+    <s:variant>
+      <id>/products/4099307601984</id>
+      <title>6.5&apos; / Pink</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>PINKF-T6-5L</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/products/4099307634752</id>
+    <published>2019-10-11T11:53:27-04:00</published>
+    <updated>2019-10-11T11:53:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="/products/7-5-pink-flock-tree-led"/>
+    <title>7.5&apos; Duchess Pink Flock Artificial Christmas Tree with 600 Warm White LED Lights</title>
+    <s:type>Tree</s:type>
+    <s:vendor>Carol's Christmas Conifers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="/s/files/1/0130/8226/3616/files/Pink.Duchess_a8384dbd-fa30-4a3e-bf11-a02b344a79b9.jpg?v=1718158678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carol's Christmas Conifers<br>
+        <strong>Type: </strong>Tree<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a magical winter wonderland into your home with the one and only, Duchess Flock. This artfully designed masterpiece features vibrant colors and intricate details, creating a unique, unforgettable centerpiece that delights and inspires holiday memories for years to come.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7-7.5 Foot</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Duchess</s:tag>
+    <s:tag>Flocked</s:tag>
+    <s:tag>Full</s:tag>
+    <s:tag>google</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>no</s:tag>
+    <s:tag>no_delivery_estimate</s:tag>
+    <s:tag>nobing</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Flock</s:tag>
+    <s:tag>PINKF-T7-5L</s:tag>
+    <s:tag>refund_fee:5500</s:tag>
+    <s:tag>type_tree</s:tag>
+    <s:tag>YGroup_duchess</s:tag>
+    <s:variant>
+      <id>/products/4099307634752</id>
+      <title>7.5&apos; / Pink</title>
+      <s:price currency="USD">449.00</s:price>
+      <s:sku>PINKF-T7-5L</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+</feed>
